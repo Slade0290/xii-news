@@ -98,6 +98,9 @@ def main():
 
     if DRY:
         why = "DRY_RUN=1" if TOKEN else "aucun jeton IG_ACCESS_TOKEN configuré"
+        if TOKEN:
+            me = call("GET", "me", fields="user_id,username")
+            print(f"Jeton valide : connecté au compte @{me.get('username')}.")
         print(f"ESSAI À BLANC ({why}) : rien n'est publié.")
         print("Légende :\n" + man["caption"])
         return
