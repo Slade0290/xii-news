@@ -458,7 +458,8 @@ def pick12(slides):
 
 def caption(picked, date_label):
     head = [f"XII NEWS · {date_label}", "Le monde en 12 infos ce matin. Swipe 👉", ""]
-    tail = ["", "📲 Version longue avec tous les liens : lien en bio",
+    tail = ["", "🔗 Les liens de toutes les sources sont en commentaire",
+            "📲 Version longue : lien en bio",
             "🤖 Brief préparé avec l'aide d'une IA, chaque info est sourcée.", "",
             "#xiinews #actu #revuedepresse #geopolitique #tech #IA #robotique #espace #science #jeuxvideo #sport #cinema"]
 
@@ -480,6 +481,18 @@ def caption(picked, date_label):
         if len(c) <= CAPTION_MAX:
             return c
     return c[:CAPTION_MAX - 1] + "…"
+
+
+def links_comments(picked):
+    """Commentaire(s) épinglés sous le post : le lien complet de chaque source (2 200 caractères max chacun)."""
+    lines = [f"{i:02d} · {s.get('source', '')} : {s.get('url', '')}" for i, s in enumerate(picked, 1) if s.get("url")]
+    out, cur = [], "🔗 Sources du jour"
+    for ln in lines:
+        if len(cur) + 1 + len(ln) > CAPTION_MAX:
+            out.append(cur); cur = "🔗 Sources (suite)"
+        cur += "\n" + ln
+    out.append(cur)
+    return out
 
 
 def main():
@@ -505,7 +518,9 @@ def main():
 
     cap = caption(picked, date_label)
     open(os.path.join(outdir, "caption.txt"), "w", encoding="utf-8").write(cap)
-    manifest = {"dateLabel": date_label, "carousel": carousel, "stories": stories, "caption": cap,
+    comments = links_comments(picked)
+    open(os.path.join(outdir, "commentaire_sources.txt"), "w", encoding="utf-8").write("\n\n".join(comments))
+    manifest = {"dateLabel": date_label, "carousel": carousel, "stories": stories, "caption": cap, "comments": comments,
                 "sources": [{"title": s.get("title"), "source": s.get("source"), "url": s.get("url")} for s in picked]}
     json.dump(manifest, open(os.path.join(outdir, "manifest.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"{len(carousel)} images de carrousel, {len(stories)} stories, légende de {len(cap)} caractères -> {outdir}")

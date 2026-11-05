@@ -1,0 +1,214 @@
+{
+ "dateLabel": "Jeudi 5 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "France · Grève",
+   "title": "Journée de grève contre le budget",
+   "body": "CFDT, CGT, FO, Unsa et FSU appellent à la grève ce jeudi contre 54 milliards d'euros d'économies prévues dans le budget 2027. Plus de 250 rassemblements sont annoncés, trafic SNCF perturbé.",
+   "why": "Les autorités attendent 500 000 à 700 000 manifestants hors Paris, un test pour le gouvernement en plein débat budgétaire.",
+   "source": "L'Express",
+   "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-mercredi-4-novembre-l-express-via-6medias-CNT000002tyeHI.html"
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · États-Unis",
+   "title": "Pour Téhéran, les Américains ont dit non",
+   "body": "Le président du Parlement iranien, Mohammad Bagher Ghalibaf, estime que les électeurs américains ont rejeté la guerre. Dans le détroit d'Ormuz, deux navires ont encore été attaqués mardi selon l'agence britannique UKMTO.",
+   "why": "Les pourparlers sont au point mort depuis le protocole d'accord de juin, et les échanges de frappes continuent.",
+   "source": "ABC News",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456"
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine",
+   "title": "Bruxelles prépare l'après-guerre avant Abu Dhabi",
+   "body": "La Commission européenne a réuni mercredi l'Ukraine, les États-Unis, l'Allemagne, la France, le Royaume-Uni, l'OTAN et la Banque mondiale sur la reconstruction du pays.",
+   "why": "Objectif : aligner les positions avant les pourparlers Russie-Ukraine-États-Unis prévus les 10 et 11 novembre à Abu Dhabi.",
+   "source": "Kyiv Independent",
+   "url": "https://kyivindependent.com/ukraine-partners-coordinate-peace-efforts-ahead-of-abu-dhabi-talks-with-russia-2/"
+  },
+  {
+   "cat": "biz",
+   "kicker": "CVS Health",
+   "title": "CVS se coupe en deux",
+   "body": "CVS va séparer ses quelque 9 000 pharmacies de son assureur Aetna et de Caremark, d'ici le premier semestre 2028. Les actionnaires recevront des titres des deux sociétés.",
+   "why": "Un virage stratégique sept ans après le rachat d'Aetna pour 78 Md$, que les marchés ont mal accueilli.",
+   "source": "Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/cvs-health-to-split-in-two-separating-pharmacy-business-from-insurance-4998559",
+   "stat": {
+    "value": "−12,5 %",
+    "label": "pour l'action CVS à la clôture, environ 15 Md$ de valeur effacés"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Wall Street",
+   "title": "Le Dow Jones s'envole après les midterms",
+   "body": "Le Dow Jones a bondi de 3 % mercredi, à 53 356 points, sa meilleure séance depuis avril 2025. Le S&P 500 gagne 1,6 % et le pétrole américain chute de plus de 8 %.",
+   "why": "Les marchés saluent la chute du pétrole et la perspective d'un Congrès qui fera contrepoids à la Maison-Blanche.",
+   "source": "StockTitan",
+   "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+   "stat": {
+    "value": "+3 %",
+    "label": "pour le Dow Jones, meilleure séance depuis avril 2025"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · ChatGPT",
+   "title": "200 millions d'utilisateurs de plus en 60 jours",
+   "body": "ChatGPT est passé d'un milliard à 1,2 milliard d'utilisateurs hebdomadaires en deux mois, selon OpenAI. L'entreprise estime ses requêtes de type recherche à environ un cinquième du volume de Google.",
+   "why": "Une pression directe sur le cœur de métier de Google, la recherche en ligne.",
+   "source": "Big Technology",
+   "url": "https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20",
+   "stat": {
+    "value": "1,2 Md",
+    "label": "d'utilisateurs hebdomadaires de ChatGPT"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · Politique",
+   "title": "OpenAI se projette déjà sur 2028",
+   "body": "Le directeur des affaires mondiales d'OpenAI, Chris Lehane, publie un texte qui fait de la présidentielle de 2028 un tournant pour l'IA : protection des travailleurs, éducation, sécurité, centres de données.",
+   "why": "Au lendemain des midterms, l'IA devient un enjeu électoral, et ses critiques y voient surtout du lobbying.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election"
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · Matériel",
+   "title": "Une IA conçoit un appareil en une semaine",
+   "body": "Selon OpenAI, GPT-6 Astra a dessiné en moins d'une semaine un petit appareil pour parler à Codex : boîtier, circuit imprimé, logiciel et interface.",
+   "why": "Plusieurs révisions ont été nécessaires car le modèle oubliait des contraintes de fabrication : l'IA progresse vers le monde physique, mais pas seule.",
+   "source": "The Decoder",
+   "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/"
+  },
+  {
+   "cat": "robot",
+   "kicker": "Agility Robotics",
+   "title": "Le robot Digit entre en Bourse",
+   "body": "Les actionnaires de la SPAC Churchill Capital XI ont approuvé la fusion avec Agility Robotics. L'action doit débuter ce jeudi sur le Nasdaq sous le code AGLT.",
+   "why": "Un des premiers fabricants d'humanoïdes cotés, avec 465 M$ levés et des robots déjà chez Toyota et Schaeffler.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/agility-robotics-clears-shareholder-vote-170500459.html",
+   "stat": {
+    "value": "2,5 Md$",
+    "label": "valorisation d'Agility Robotics dans l'opération"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Disney",
+   "title": "Des robots pour guider les voitures au parking",
+   "body": "Lors de son Demo Day, Disney a montré des robots autonomes de FieldAI inspirés de Cars pour guider les visiteurs au parking, et un projet de Physical Intelligence pour ranger les lunettes 3D.",
+   "why": "Des tests exploratoires : rien ne garantit encore leur arrivée dans les parcs.",
+   "source": "WDW News Today",
+   "url": "https://wdwnt.com/2026/11/ai-robots-could-soon-direct-parking-and-clean-attraction-glasses-at-disney-parks/"
+  },
+  {
+   "cat": "space",
+   "kicker": "NASA · Swift",
+   "title": "Le télescope Swift s'est écrasé sur Terre",
+   "body": "Le télescope de la NASA est rentré dans l'atmosphère mercredi à 13 h 39 (heure de Paris) au-dessus de Sumatra. Le vaisseau privé censé le remonter en orbite avait échoué cet été.",
+   "why": "Lancé en 2004 pour deux ans, Swift a duré 22 ans, une alerte pour Hubble, lui aussi menacé par la traînée.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+   "stat": {
+    "value": "2 000+",
+    "label": "sursauts gamma observés par Swift en 22 ans"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Mars",
+   "title": "Les volcans de Mars ne sont pas morts",
+   "body": "La sonde européenne TGO a détecté du chlorure d'hydrogène s'échappant de fissures près d'Alba Mons, selon une étude parue mercredi dans Science Advances.",
+   "why": "Les chercheurs y voient le signe d'une chambre magmatique endormie, pas éteinte.",
+   "source": "Space.com",
+   "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping"
+  },
+  {
+   "cat": "science",
+   "kicker": "Physique",
+   "title": "Une troisième forme de magnétisme confirmée",
+   "body": "Des chercheurs du SLAC ont prouvé, aux rayons X de l'ESRF à Grenoble, que le tellurure de manganèse est un « altermagnétique », ni ferro ni antiferromagnétique.",
+   "why": "Ces matériaux pourraient rendre les mémoires et centres de données plus rapides et moins énergivores.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+  },
+  {
+   "cat": "science",
+   "kicker": "Santé · Ebola",
+   "title": "Deux nouveaux vaccins testés en RDC",
+   "body": "L'OMS ajoute les candidats d'Oxford et de Moderna à l'essai mené en RDC contre le virus Bundibugyo, une forme d'Ebola sans vaccin homologué.",
+   "why": "Résultats attendus début 2027 ; des traitements par anticorps sont aussi en test.",
+   "source": "OMS",
+   "url": "https://who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
+  },
+  {
+   "cat": "games",
+   "kicker": "Arkane Lyon",
+   "title": "Le syndicat accuse Microsoft de sabotage",
+   "body": "Le STJV affirme que Microsoft a gelé les embauches d'Arkane Lyon pendant 19 mois, avant d'invoquer les retards de Marvel's Blade pour envisager la fermeture du studio.",
+   "why": "Des centaines d'emplois sont en jeu dans l'un des studios français les plus réputés.",
+   "source": "PC Gamer",
+   "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/"
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue des champions",
+   "title": "Lens humilié par Côme à Bollaert",
+   "body": "Lens a sombré 1-9 face au Côme de Cesc Fàbregas mercredi soir, avec un triplé de Douvikas. Ruben Aguilar a sauvé l'honneur.",
+   "why": "La plus lourde défaite à domicile d'un club français en Coupe d'Europe, selon les statistiques citées après le match.",
+   "source": "Kick Football",
+   "url": "https://www.kickfootball.fr/ligue-des-champions/ligue-des-champions-humiliation-historique-pour-lens-ecrase-9-1-par-come-a-bollaert-203515",
+   "stat": {
+    "value": "1-9",
+    "label": "score final de Lens-Côme"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Rolex Paris Masters",
+   "title": "Djokovic tombe, Fils qualifié pour Turin",
+   "body": "Hécatombe mercredi : Djokovic, Zverev et Medvedev éliminés. Quentin Halys a battu Tiafoe après avoir sauvé quatre balles de match.",
+   "why": "Cette victoire de Halys envoie Arthur Fils aux ATP Finals de Turin.",
+   "source": "TennisActu",
+   "url": "https://www.tennisactu.net/news-rolex-paris-masters-hecatombe-chez-les-favoris-les-resultats-live-de-mercredi-128052.html"
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Box-office",
+   "title": "Martin McDonagh en tête à Paris",
+   "body": "Wild Horse Nine, avec Sam Rockwell, prend la tête des premières séances parisiennes des nouveautés, devant L'Affaire Marie-Claire avec Charlotte Gainsbourg.",
+   "why": "Un bon départ pour le réalisateur de Three Billboards, au niveau des gros démarrages de l'année.",
+   "source": "Zickma",
+   "url": "https://www.zickma.fr/box-office-paris-du-4-novembre-2026-wild-horse-nine-en-tete-des-premieres-seances-des-nouveautes/",
+   "stat": {
+    "value": "1 502",
+    "label": "entrées aux premières séances parisiennes"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Grève",
+     "Cortège parisien de République à Nation"
+    ],
+    [
+     "Nasdaq",
+     "Premiers échanges d'Agility Robotics (AGLT)"
+    ],
+    [
+     "Tennis",
+     "Suite du Rolex Paris Masters avec Fils"
+    ]
+   ]
+  }
+ ]
+}

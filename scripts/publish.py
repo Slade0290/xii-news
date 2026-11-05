@@ -167,6 +167,18 @@ def main():
     else:
         print("Carrousel déjà publié, on passe aux stories.")
 
+    # 1 bis) liens des sources en commentaire sous le post
+    if state.get("carousel_id") and not state.get("comments_done"):
+        for i, msg in enumerate(man.get("comments", []), 1):
+            try:
+                call("POST", f"{state['carousel_id']}/comments", message=msg)
+                print(f"  commentaire des sources {i} publié")
+            except IGError as e:
+                print(f"::warning::Commentaire des sources non publié : {e}")
+                break
+        state["comments_done"] = True
+        save()
+
     # 2) stories
     done = state.setdefault("stories", [])
     for i, f in enumerate(man["stories"]):
