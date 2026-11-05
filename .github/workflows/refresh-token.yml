@@ -18,6 +18,7 @@ jobs:
           GH_TOKEN: ${{ secrets.SECRETS_PAT }}
         run: |
           [ -n "$IG_ACCESS_TOKEN" ] || { echo "::warning::Aucun jeton IG_ACCESS_TOKEN configuré."; exit 0; }
+          case "$IG_ACCESS_TOKEN" in IGA*) ;; *) echo "Jeton Meta (connexion unifiée ou Facebook) : pas de renouvellement nécessaire ici."; exit 0;; esac
           R=$(curl -sS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=$IG_ACCESS_TOKEN")
           NEW=$(echo "$R" | jq -r '.access_token // empty')
           if [ -z "$NEW" ]; then

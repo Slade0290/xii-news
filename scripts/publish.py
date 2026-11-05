@@ -7,7 +7,13 @@ Variables d'environnement :
   IG_ACCESS_TOKEN  jeton Instagram (obligatoire pour publier ; sans lui, simple essai à blanc)
   DRY_RUN=1        vérifie tout sans rien publier
   FORCE=1          republie même si l'édition est marquée comme déjà publiée
-  IG_API_VERSION   version de l'API, ex. v23.0 (facultatif)
+  IG_API_VERSION   version de l'API, ex. v23.0 (facultatif ; v23.0 par défaut côté Facebook)
+  IG_USER_ID       identifiant du compte Instagram (facultatif, trouvé automatiquement)
+
+Deux sortes de jetons sont acceptées :
+  - jeton « connexion Instagram » (commence par IGAA) -> graph.instagram.com
+  - jeton Meta « connexion unifiée » ou « connexion Facebook » (utilisateur système, utilisateur
+    ou Page) -> graph.facebook.com ; le compte Instagram est retrouvé via la Page liée.
 
 Ordre : le carrousel d'abord (sommaire + 12 infos), puis les 12 stories.
 L'avancement est noté dans published/<date>.json après chaque étape : si le robot s'arrête
@@ -20,7 +26,12 @@ TOKEN = os.environ.get("IG_ACCESS_TOKEN", "").strip()
 DRY = os.environ.get("DRY_RUN") == "1" or not TOKEN
 FORCE = os.environ.get("FORCE") == "1"
 VER = os.environ.get("IG_API_VERSION", "").strip()
-API = "https://graph.instagram.com/" + (VER + "/" if VER else "")
+IG_LOGIN = TOKEN.startswith("IGA")
+if IG_LOGIN:
+    API = "https://graph.instagram.com/" + (VER + "/" if VER else "")
+else:
+    API = "https://graph.facebook.com/" + (VER or "v23.0") + "/"
+FIXED_ID = os.environ.get("IG_USER_ID", "").strip()
 
 
 class IGError(Exception):
@@ -48,6 +59,32 @@ def call(method, path, **params):
         print(f"  erreur passagère ({err}), nouvel essai dans {wait} s")
         time.sleep(wait)
     raise IGError(err)
+
+
+def find_account():
+    """Renvoie (identifiant Instagram, @nom) quel que soit le type de jeton."""
+    if FIXED_ID:
+        info = call("GET", FIXED_ID, fields="username")
+        return FIXED_ID, info.get("username", "?")
+    if IG_LOGIN:
+        me = call("GET", "me", fields="user_id,username")
+        return me.get("user_id") or me.get("id"), me.get("username")
+    # Jeton de Page : la Page elle-même porte le compte Instagram
+    try:
+        me = call("GET", "me", fields="instagram_business_account{id,username}")
+        acc = me.get("instagram_business_account")
+        if acc:
+            return acc["id"], acc.get("username")
+    except IGError:
+        pass
+    # Jeton utilisateur ou utilisateur système : on parcourt ses Pages
+    pages = call("GET", "me/accounts", fields="name,instagram_business_account{id,username}").get("data", [])
+    for pg in pages:
+        acc = pg.get("instagram_business_account")
+        if acc:
+            return acc["id"], acc.get("username")
+    raise IGError("aucun compte Instagram professionnel trouvé avec ce jeton. Vérifie que @xii.news est bien "
+                  "relié (Page Facebook ou portefeuille business) et que les autorisations de publication sont accordées.")
 
 
 def wait_ready(container_id, label):
@@ -99,15 +136,14 @@ def main():
     if DRY:
         why = "DRY_RUN=1" if TOKEN else "aucun jeton IG_ACCESS_TOKEN configuré"
         if TOKEN:
-            me = call("GET", "me", fields="user_id,username")
-            print(f"Jeton valide : connecté au compte @{me.get('username')}.")
+            _, uname = find_account()
+            print(f"Jeton valide : connecté au compte @{uname}.")
         print(f"ESSAI À BLANC ({why}) : rien n'est publié.")
         print("Légende :\n" + man["caption"])
         return
 
-    me = call("GET", "me", fields="user_id,username")
-    ig_id = me.get("user_id") or me.get("id")
-    print(f"Compte : @{me.get('username')} ({ig_id})")
+    ig_id, uname = find_account()
+    print(f"Compte : @{uname} ({ig_id})")
 
     # 1) carrousel
     if not state.get("carousel_id"):
@@ -146,7 +182,7 @@ def main():
     state["done"] = True
     state["published_at"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
     save()
-    print(f"Terminé : 1 carrousel + {len(done)} stories publiés sur @{me.get('username')}.")
+    print(f"Terminé : 1 carrousel + {len(done)} stories publiés sur @{uname}.")
 
 
 if __name__ == "__main__":
