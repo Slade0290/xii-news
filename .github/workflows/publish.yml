@@ -1,0 +1,93 @@
+name: Publier XII News
+
+# Se lance tout seul quand l'édition du jour (daily/AAAA-MM-JJ.json) arrive sur main,
+# ou à la main depuis l'onglet Actions (bouton « Run workflow »).
+on:
+  push:
+    branches: [main]
+    paths: ["daily/*.json"]
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date de l'édition (AAAA-MM-JJ). Vide = la plus récente."
+        required: false
+      dry_run:
+        description: "Essai à blanc : tout vérifier sans publier"
+        type: boolean
+        default: false
+      force:
+        description: "Republier même si l'édition est déjà marquée publiée"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-instagram
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install pillow==11.0.0 requests==2.32.3
+
+      - name: Trouver l'édition à publier
+        id: pick
+        run: |
+          D="${{ inputs.date }}"
+          if [ -z "$D" ]; then
+            F=$(git diff --name-only HEAD~1 HEAD -- 'daily/*.json' 2>/dev/null | sort | tail -1)
+            [ -z "$F" ] && F=$(ls daily/*.json | sort | tail -1)
+            D=$(basename "$F" .json)
+          fi
+          [ -f "daily/$D.json" ] || { echo "::error::daily/$D.json introuvable"; exit 1; }
+          echo "date=$D" >> "$GITHUB_OUTPUT"
+          echo "Édition : $D"
+
+      - name: Fabriquer les visuels
+        run: python scripts/render.py "daily/${{ steps.pick.outputs.date }}.json" out brand/xii.jpg
+
+      - name: Mettre les images en ligne (branche media)
+        id: host
+        run: |
+          D="${{ steps.pick.outputs.date }}"
+          rm -rf /tmp/media && mkdir -p "/tmp/media/$D" && cp out/* "/tmp/media/$D/"
+          cd /tmp/media
+          git init -q -b media
+          git config user.name "xii-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add . && git commit -qm "Images du $D"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" media
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Publier sur Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+          FORCE: ${{ inputs.force && '1' || '' }}
+        run: |
+          python scripts/publish.py out \
+            "https://raw.githubusercontent.com/${{ github.repository }}/${{ steps.host.outputs.sha }}/${{ steps.pick.outputs.date }}" \
+            "${{ steps.pick.outputs.date }}"
+
+      - name: Noter l'avancement
+        if: always()
+        run: |
+          [ -n "$(git status --porcelain published)" ] || exit 0
+          git config user.name "xii-news-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add published && git commit -qm "Publication du ${{ steps.pick.outputs.date }}"
+          git pull -q --rebase origin main && git push -q origin HEAD:main

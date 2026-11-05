@@ -1,0 +1,259 @@
+{
+ "dateLabel": "Mercredi 4 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Élections américaines",
+   "title": "Les démocrates reprennent le Congrès",
+   "body": "Selon les projections de CBS News et de CNN ce matin, les démocrates remportent la Chambre des représentants et le Sénat aux élections de mi-mandat. Le dépouillement continue dans plusieurs États.",
+   "why": "Avant le scrutin, les républicains tenaient les deux chambres (53 sièges sur 100 au Sénat). Un Congrès démocrate peut bloquer les textes de la Maison-Blanche pendant deux ans.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine",
+   "title": "Rendez-vous à Abu Dhabi les 10 et 11 novembre",
+   "body": "L'émissaire américain Steve Witkoff annonce de nouvelles négociations entre la Russie et l'Ukraine, avec Washington comme médiateur. Sur le terrain, des frappes russes ont fait au moins 26 morts dans la région de Zaporijjia.",
+   "why": "Les deux camps visent en ce moment les infrastructures énergétiques, juste avant l'hiver.",
+   "source": "Presse Évasion",
+   "url": "https://www.presse-evasion.fr/article/revue-presse-03-11-2026"
+  },
+  {
+   "cat": "geo",
+   "kicker": "Israël",
+   "title": "Washington coupe l'aide militaire annuelle",
+   "stat": {
+    "value": "3,8 Md$",
+    "label": "d'aide militaire par an que Trump dit arrêter d'ici la fin de l'année"
+   },
+   "body": "En parallèle, l'opposition israélienne veut proposer Gadi Eisenkot comme Premier ministre à la place de Netanyahou après les législatives.",
+   "why": "Une partie de cette aide pourrait basculer dans le budget de la Défense américain via un projet de loi au Congrès.",
+   "source": "Foreign Exchanges",
+   "url": "https://www.foreignexchanges.news/p/world-roundup-november-3-2026"
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · États-Unis",
+   "title": "Négociations et frappes en même temps",
+   "body": "Washington affirme que les discussions avec Téhéran progressent, tout en frappant l'île iranienne de Qeshm, des frappes présentées comme défensives. Côté iranien, on juge un accord encore lointain.",
+   "why": "Une annonce conjointe est évoquée par certaines sources, mais rien n'est confirmé.",
+   "source": "Foreign Exchanges",
+   "url": "https://www.foreignexchanges.news/p/world-roundup-november-3-2026"
+  },
+  {
+   "cat": "geo",
+   "kicker": "Pologne",
+   "title": "Tusk dénonce une provocation à la frontière russe",
+   "body": "Le Premier ministre polonais dit avoir déjoué une provocation à la frontière de l'enclave russe de Kaliningrad et accuse Moscou de vouloir déstabiliser le pays.",
+   "why": "À Varsovie, le gouvernement est aussi en conflit avec le président Nawrocki sur la nomination de juges, ce qui fait descendre des manifestants dans la rue.",
+   "source": "Foreign Exchanges",
+   "url": "https://www.foreignexchanges.news/p/world-roundup-november-3-2026"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Résultats · Puces",
+   "title": "AMD et Arista s'envolent",
+   "stat": {
+    "value": "+14 %",
+    "label": "pour Arista après ses résultats, AMD prend +7 %"
+   },
+   "body": "AMD bat les attentes et annonce environ 17 milliards de dollars de chiffre d'affaires pour le quatrième trimestre. Arista, qui équipe les data centers en réseau, dépasse aussi largement les prévisions.",
+   "why": "La demande en matériel pour l'IA tient, alors que le Nasdaq a corrigé d'environ 10 % ces dernières semaines.",
+   "source": "Capp Notes",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-3-2026"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Big Tech",
+   "title": "Apple recule, Meta et Oracle lèvent des milliards",
+   "body": "Apple perd près de 2 % après une prévision de marge jugée faible et des inquiétudes sur la Chine. Meta emprunte 15 milliards de dollars, avec une demande près de quatre fois supérieure, et Oracle lève 20 milliards.",
+   "why": "Les géants s'endettent massivement pour financer leurs data centers d'IA.",
+   "source": "Capp Notes",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-3-2026"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Finlande · Google",
+   "title": "250 000 arbres coupés sans autorisation",
+   "body": "Google a défriché environ 250 000 arbres pour un data center en Finlande sans en avoir le droit. Le gouvernement, embarrassé, durcit les règles.",
+   "why": "La course aux data centers commence à se heurter aux règles environnementales en Europe.",
+   "source": "Presse Évasion",
+   "url": "https://www.presse-evasion.fr/article/revue-presse-03-11-2026"
+  },
+  {
+   "cat": "ia",
+   "kicker": "Anthropic · Bourse",
+   "title": "Le dossier d'entrée en Bourse se précise",
+   "stat": {
+    "value": "895 Md$",
+    "label": "d'engagements en calcul et infrastructure déclarés dans le dossier amendé"
+   },
+   "body": "Les plus gros partenaires sont Google (121 Md$), Amazon (110 Md$) et Microsoft (45 Md$). L'introduction est prévue sur le Nasdaq sous le ticker ANT.",
+   "why": "C'est la première fois qu'un grand labo d'IA ouvre ses comptes au public.",
+   "source": "Capp Notes",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-3-2026"
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI",
+   "title": "Objectif de levée revu à la baisse",
+   "body": "Selon le Financial Times, OpenAI viserait environ 20 milliards de dollars au lieu de 30, pour une valorisation de 1 250 milliards, et repousserait son entrée en Bourse à 2027.",
+   "why": "Signe que les investisseurs deviennent plus prudents sur le coût de l'IA. Info de fin octobre, toujours d'actualité.",
+   "source": "AI Central",
+   "url": "https://substack.aicentral.blog/p/the-ai-landscape-november-2026"
+  },
+  {
+   "cat": "ia",
+   "kicker": "Marché",
+   "title": "L'IA bon marché fait chuter Gartner",
+   "stat": {
+    "value": "−13 %",
+    "label": "pour Gartner, dont les clients craignent des services d'IA moins chers"
+   },
+   "body": "Le cabinet de conseil baisse ses prévisions. Thomson Reuters recule aussi de près de 10 %.",
+   "why": "Les entreprises de services et d'information sont les premières à subir la concurrence de l'IA.",
+   "source": "Capp Notes",
+   "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-3-2026"
+  },
+  {
+   "cat": "robot",
+   "kicker": "Meta",
+   "title": "Max, le robot qui fera le ménage",
+   "body": "Meta développe avec le chinois Fourier un humanoïde de 1,50 m et 48 kg, doté d'un visage expressif et de mains capables de saisir de petits objets. Une version 2 qui monte les escaliers est en cours.",
+   "why": "Aucune date de sortie : Meta ne prévoit pas de vendre ces prototypes pour l'instant.",
+   "source": "Siècle Digital",
+   "url": "https://siecledigital.fr/2026/11/03/meta-developpe-un-robot-humanoide-avec-lambition-de-nous-liberer-des-taches-menageres"
+  },
+  {
+   "cat": "robot",
+   "kicker": "Marché des humanoïdes",
+   "title": "Le boom est surtout chinois",
+   "stat": {
+    "value": "22 000",
+    "label": "humanoïdes livrés au 1er semestre 2026, soit environ +300 % sur un an"
+   },
+   "body": "L'investissement dans les startups du secteur atteint 11 milliards de dollars depuis janvier, dont 63 % pour des entreprises chinoises. Agibot et Unitree dominent les ventes. Tesla dit avoir lancé la production d'Optimus.",
+   "why": "Plus de la moitié de ces robots servent encore au spectacle, à la recherche ou à la collecte de données.",
+   "source": "Nextgov",
+   "url": "https://www.nextgov.com/emerging-tech/2026/11/my-feed-full-robots-someone-should-check-them/417005/"
+  },
+  {
+   "cat": "space",
+   "kicker": "Lanceurs",
+   "title": "Vulcan revole le 13 novembre",
+   "body": "Clouée au sol neuf mois pour des problèmes de tuyères sur ses boosters, la fusée de ULA doit emporter 40 satellites Internet Amazon Leo, avec six propulseurs d'appoint pour la première fois.",
+   "why": "Amazon a réservé 38 lancements Vulcan pour rattraper Starlink.",
+   "source": "Spaceflight Now",
+   "url": "https://spaceflightnow.com/2026/10/28/united-launch-alliance-announces-mid-november-return-to-flight-for-vulcan-rocket/"
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel de novembre",
+   "title": "Lève les yeux ce mois-ci",
+   "list": [
+    [
+     "5 nov",
+     "Pic des Taurides du Sud, quelques étoiles filantes par heure"
+    ],
+    [
+     "9 nov",
+     "Nouvelle lune, le ciel le plus noir du mois"
+    ],
+    [
+     "16 nov",
+     "Mars et Jupiter côte à côte dans le Lion, au petit matin"
+    ],
+    [
+     "17-18",
+     "Léonides, environ 15 par heure entre 2 h et 5 h 30"
+    ]
+   ],
+   "source": "Sterngucker",
+   "url": "https://www.sterngucker.de/fr/evenements-astronomiques/ciel-etoile-novembre/"
+  },
+  {
+   "cat": "science",
+   "kicker": "Astronomie",
+   "title": "Bételgeuse cache une compagne",
+   "body": "Des observations radio suggèrent qu'une étoile discrète, baptisée Siwarha, perturbe l'atmosphère de la géante rouge Bételgeuse.",
+   "why": "Ça pourrait expliquer les variations d'éclat qui intriguent les astronomes depuis des années.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm"
+  },
+  {
+   "cat": "science",
+   "kicker": "Origine de la vie",
+   "title": "Les briques de l'ADN trouvées sur un astéroïde",
+   "body": "Les échantillons de l'astéroïde Ryugu, rapportés par la sonde japonaise Hayabusa2, contiennent les cinq bases qui composent l'ADN et l'ARN.",
+   "why": "Un argument de plus pour l'idée que des ingrédients de la vie ont pu arriver sur Terre depuis l'espace.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
+  },
+  {
+   "cat": "games",
+   "kicker": "Nintendo",
+   "title": "Le remake de Zelda Ocarina of Time sort demain",
+   "body": "Le remake est attendu le 5 novembre, uniquement sur Switch 2. Le même jour sortent aussi Stellar Blade et Guardians of the Galaxy sur la console.",
+   "why": "Le mois est chargé : GTA 6 arrive le 19 novembre sur PS5 et Xbox Series.",
+   "stat": {
+    "value": "19 nov",
+    "label": "date de sortie de GTA 6, le jeu le plus attendu de l'année"
+   },
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/sorties-jeux-video-novembre-2026-gta-6-zelda-oot-725930"
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue des champions",
+   "title": "Le PSG atomise Villarreal",
+   "stat": {
+    "value": "6-0",
+    "label": "pour Paris, qui reste en tête de la phase de ligue"
+   },
+   "body": "Fabian Ruiz signe un doublé. Lille arrache son premier point avec un nul 0-0 à Bodø/Glimt. Au tennis, Djokovic passe au Rolex Paris Masters.",
+   "source": "Orange Sports",
+   "url": "https://sports.orange.fr/plus-de-sport/article/le-top-de-l-actu-sportive-du-3-novembre-exclu-CNT000002txS5j.html"
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Sorties",
+   "title": "Godzilla et Martin McDonagh en salles",
+   "list": [
+    [
+     "Kaiju",
+     "Godzilla Minus Zero, la suite de Takashi Yamazaki"
+    ],
+    [
+     "Thriller",
+     "Wild Horse Nine, espions de la CIA sur l'île de Pâques"
+    ],
+    [
+     "Drame",
+     "L'Affaire Marie-Claire, le procès de Bobigny en 1972"
+    ]
+   ],
+   "source": "Ozzak",
+   "url": "https://ozzak.fr/actu/hot-news/sorties-cinema-france-du-4-novembre-2026"
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "US",
+     "Fin du dépouillement des midterms et premiers chiffres définitifs"
+    ],
+    [
+     "FR",
+     "Budget : l'Assemblée pourrait rejeter la partie recettes"
+    ],
+    [
+     "Bourse",
+     "Réaction des marchés au nouveau Congrès américain"
+    ]
+   ]
+  }
+ ]
+}
