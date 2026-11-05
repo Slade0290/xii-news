@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: "Date de l'édition (AAAA-MM-JJ). Vide = la plus récente."
+        description: "Date de l'édition (AAAA-MM-JJ). Vide = la plus récente. « exemple » = édition de test."
         required: false
       dry_run:
         description: "Essai à blanc : tout vérifier sans publier"
@@ -47,17 +47,23 @@ jobs:
         id: pick
         run: |
           D="${{ inputs.date }}"
-          if [ -z "$D" ]; then
-            F=$(git diff --name-only HEAD~1 HEAD -- 'daily/*.json' 2>/dev/null | sort | tail -1)
-            [ -z "$F" ] && F=$(ls daily/*.json | sort | tail -1)
-            D=$(basename "$F" .json)
+          if [ "$D" = "exemple" ]; then
+            F=examples/exemple.json
+          else
+            if [ -z "$D" ]; then
+              F=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'daily/*.json' 2>/dev/null | sort | tail -1)
+              [ -z "$F" ] && F=$(ls daily/*.json 2>/dev/null | sort | tail -1)
+              D=$(basename "$F" .json)
+            fi
+            F="daily/$D.json"
           fi
-          [ -f "daily/$D.json" ] || { echo "::error::daily/$D.json introuvable"; exit 1; }
+          [ -f "$F" ] || { echo "::error::$F introuvable"; exit 1; }
           echo "date=$D" >> "$GITHUB_OUTPUT"
-          echo "Édition : $D"
+          echo "file=$F" >> "$GITHUB_OUTPUT"
+          echo "Édition : $D ($F)"
 
       - name: Fabriquer les visuels
-        run: python scripts/render.py "daily/${{ steps.pick.outputs.date }}.json" out brand/xii.jpg
+        run: python scripts/render.py "${{ steps.pick.outputs.file }}" out brand/xii.jpg
 
       - name: Mettre les images en ligne (branche media)
         id: host
@@ -76,7 +82,7 @@ jobs:
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_API_VERSION: ${{ vars.IG_API_VERSION }}
-          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+          DRY_RUN: ${{ (inputs.dry_run || inputs.date == 'exemple') && '1' || '' }}
           FORCE: ${{ inputs.force && '1' || '' }}
         run: |
           python scripts/publish.py out \
