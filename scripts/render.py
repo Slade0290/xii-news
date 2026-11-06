@@ -3,7 +3,8 @@
 
 Usage : python3 scripts/render.py <edition.json> <dossier_sortie> <logo.jpg>
 
-Entrée : {"dateLabel": "Jeudi 5 novembre 2026", "slides": [{cat, kicker, title, body, why, source, url, stat?, list?}, ...]}
+Entrée : {"dateLabel": "Jeudi 5 novembre 2026", "slides": [{cat, kicker, title, body, why, source, url, stat?, list?, image?}, ...]}
+  image (facultatif) : {"url": lien direct vers une photo libre de droits, "credit": "Auteur / licence"}, utilisée en fond de la story
 Sortie :
   post_01.jpg ... post_13.jpg   carrousel 1080x1350 : sommaire puis les 12 infos, chacune avec sa source
   story_01.jpg ... story_12.jpg stories 1080x1920 : les 12 mêmes infos, qui renvoient au post
@@ -236,6 +237,29 @@ def motif(img, cat, accent, seed, story):
     img.alpha_composite(layer)
 
 
+def story_photo(slide, h):
+    """Photo libre de droits (slide["image"]["url"]) recadrée en plein cadre pour la story ; None si absente ou illisible."""
+    info = slide.get("image") or {}
+    url = info.get("url") if isinstance(info, dict) else None
+    if not url:
+        return None
+    try:
+        import io, requests
+        r = requests.get(url, timeout=25, headers={"User-Agent": "XIINewsBot/1.0 (https://github.com/Slade0290/xii-news)"})
+        r.raise_for_status()
+        im = Image.open(io.BytesIO(r.content)).convert("RGB")
+        sw, sh = im.size
+        scale = max(W / sw, h / sh)
+        im = im.resize((max(W, round(sw * scale)), max(h, round(sh * scale))), Image.LANCZOS)
+        x, y = (im.size[0] - W) // 2, (im.size[1] - h) // 3
+        im = im.crop((x, y, x + W, y + h))
+        dark = Image.new("RGB", (W, h), (10, 12, 16))
+        return Image.blend(im, dark, 0.25).convert("RGBA")
+    except Exception as e:
+        print(f"Photo ignorée ({url}) : {e}", file=sys.stderr)
+        return None
+
+
 def shade(img, start):
     w, h = img.size
     layer = Image.new("RGBA", (w, h), (0, 0, 0, 0))
@@ -333,23 +357,29 @@ def render_actu(slide, date_label, F, out, n, total, story):
     name, accent = CATS.get(cat, CATS["watch"])
     M, MAXW = 72, W - 144
 
-    img = base_bg(h)
-    motif(img, cat, accent, n * 97 + 13, story)
-    red_arc(img, -W * 0.1, h * 1.02, W * 0.9, 285, 335, width=10, alpha=190)
-    shade(img, 0.36 if story else 0.30)
+    photo = story_photo(slide, h) if story else None
+    if photo is not None:
+        img = photo
+        shade(img, 0.22)
+    else:
+        img = base_bg(h)
+        motif(img, cat, accent, n * 97 + 13, story)
+        red_arc(img, -W * 0.1, h * 1.02, W * 0.9, 285, 335, width=10, alpha=190)
+        shade(img, 0.36 if story else 0.30)
     img = img.convert("RGB")
     d = ImageDraw.Draw(img, "RGBA")
 
     # en-tête
     if story:
-        gap, bw = 8, (W - 72 - 8 * (total - 1)) / total
-        for i in range(total):
-            x = 36 + i * (bw + gap)
-            d.rounded_rectangle([x, 40, x + bw, 46], radius=3, fill=(255, 255, 255, 240 if i <= n else 70))
         logo_mark(d, F, M, 80)
         df = F("Mono.ttf", 24, 500)
         dl = date_label.upper()
         d.text((W - M - d.textlength(dl, font=df), 100), dl, font=df, fill=INK + (190,))
+        credit = (slide.get("image") or {}).get("credit") if photo is not None else None
+        if credit:
+            cf = F("Mono.ttf", 20, 500)
+            ct = ("Photo : " + credit)[:70]
+            d.text((W - M - d.textlength(ct, font=cf), 140), ct, font=cf, fill=INK + (170,))
     else:
         logo_mark(d, F, M, 52, 0.9)
         cf = F("Mono.ttf", 26, 600)
