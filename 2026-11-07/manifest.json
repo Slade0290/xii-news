@@ -1,0 +1,98 @@
+{
+ "dateLabel": "Samedi 7 novembre 2026",
+ "carousel": [
+  "post_01.jpg",
+  "post_02.jpg",
+  "post_03.jpg",
+  "post_04.jpg",
+  "post_05.jpg",
+  "post_06.jpg",
+  "post_07.jpg",
+  "post_08.jpg",
+  "post_09.jpg",
+  "post_10.jpg",
+  "post_11.jpg",
+  "post_12.jpg",
+  "post_13.jpg"
+ ],
+ "stories": [
+  "story_01.jpg",
+  "story_02.jpg",
+  "story_03.jpg",
+  "story_04.jpg",
+  "story_05.jpg",
+  "story_06.jpg",
+  "story_07.jpg",
+  "story_08.jpg",
+  "story_09.jpg",
+  "story_10.jpg",
+  "story_11.jpg",
+  "story_12.jpg"
+ ],
+ "caption": "XII NEWS · Samedi 7 novembre 2026\nLe monde en 12 infos ce matin. Swipe 👉\n\n01 · BREAKING : Stephen Miller remplace Susie Wiles\n   Source : CBS News (cbsnews.com)\n02 · BREAKING : Inondations : deux morts en Corse-du-Sud\n   Source : Euronews (fr.euronews.com)\n03 · GÉOPOLITIQUE : Trump promet une décision imminente sur l'Iran\n   Source : CBS News (cbsnews.com)\n04 · GÉOPOLITIQUE : Missiles balistiques sur Kyiv\n   Source : The Kyiv Independent (kyivindependent.com)\n05 · ENTREPRISES : Le TGV M entre enfin en service\n   Source : Euronews (fr.euronews.com)\n06 · IA : OpenAI lève 11 Md$, sous ses ambitions\n   Source : TechCrunch (techcrunch.com)\n07 · ROBOTIQUE : Record de missions pour les robots ukrainiens\n   Source : The Kyiv Independent (kyivindependent.com)\n08 · ESPACE : Un Falcon 9 lance une mission secrète\n   Source : Space.com (space.com)\n09 · SCIENCE & SANTÉ : Un vaccin conçu par IA contre la grippe aviaire\n   Source : Euronews (fr.euronews.com)\n10 · JEUX VIDÉO : Wolverine : 2,4 millions en 50 jours\n   Source : Gameblog (gameblog.fr)\n11 · SPORT : Van Assche en demi-finale à Paris\n   Source : ATP Tour (atptour.com)\n12 · CULTURE & CINÉ : Malkovich brille dans Wild Horse Nine\n   Source : Euronews (fr.euronews.com)\n\n🔗 Les liens de toutes les sources sont en commentaire\n📲 Version longue : lien en bio\n🤖 Brief préparé avec l'aide d'une IA, chaque info est sourcée.\n\n#xiinews #actu #revuedepresse #geopolitique #tech #IA #robotique #espace #science #jeuxvideo #sport #cinema",
+ "comments": [
+  "🔗 Sources du jour\n01 · CBS News : https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/\n02 · Euronews : https://fr.euronews.com/2026/11/06/intemperies-deux-morts-en-corse-dans-des-inondations-le-gard-et-lherault-egalement-touches\n03 · CBS News : https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/\n04 · The Kyiv Independent : https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/\n05 · Euronews : https://fr.euronews.com/2026/11/06/sncf-le-tgv-m-nouveau-train-a-grande-vitesse-enfin-sur-les-rails\n06 · TechCrunch : https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/\n07 · The Kyiv Independent : https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/\n08 · Space.com : https://space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432\n09 · Euronews : https://fr.euronews.com/2026/11/06/cambridge-cree-un-vaccin-anti-grippe-aviaire-a-large-spectre-concu-par-ia\n10 · Gameblog : https://www.gameblog.fr/jeu-video/ed/news/marvels-wolverine-ventes-2-millions-50-jours-726286\n11 · ATP Tour : https://www.atptour.com/en/scores/current/paris/352/results\n12 · Euronews : https://fr.euronews.com/2026/11/06/wild-horse-nine-la-comedie-noire-de-mcdonagh-ou-malkovich-frole-loscar"
+ ],
+ "sources": [
+  {
+   "title": "Stephen Miller remplace Susie Wiles",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+  },
+  {
+   "title": "Inondations : deux morts en Corse-du-Sud",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/intemperies-deux-morts-en-corse-dans-des-inondations-le-gard-et-lherault-egalement-touches"
+  },
+  {
+   "title": "Trump promet une décision imminente sur l'Iran",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+  },
+  {
+   "title": "Missiles balistiques sur Kyiv",
+   "source": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/"
+  },
+  {
+   "title": "Le TGV M entre enfin en service",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/sncf-le-tgv-m-nouveau-train-a-grande-vitesse-enfin-sur-les-rails"
+  },
+  {
+   "title": "OpenAI lève 11 Md$, sous ses ambitions",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+  },
+  {
+   "title": "Record de missions pour les robots ukrainiens",
+   "source": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/"
+  },
+  {
+   "title": "Un Falcon 9 lance une mission secrète",
+   "source": "Space.com",
+   "url": "https://space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432"
+  },
+  {
+   "title": "Un vaccin conçu par IA contre la grippe aviaire",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/cambridge-cree-un-vaccin-anti-grippe-aviaire-a-large-spectre-concu-par-ia"
+  },
+  {
+   "title": "Wolverine : 2,4 millions en 50 jours",
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/marvels-wolverine-ventes-2-millions-50-jours-726286"
+  },
+  {
+   "title": "Van Assche en demi-finale à Paris",
+   "source": "ATP Tour",
+   "url": "https://www.atptour.com/en/scores/current/paris/352/results"
+  },
+  {
+   "title": "Malkovich brille dans Wild Horse Nine",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/wild-horse-nine-la-comedie-noire-de-mcdonagh-ou-malkovich-frole-loscar"
+  }
+ ]
+}
