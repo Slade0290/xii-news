@@ -1,0 +1,251 @@
+{
+ "dateLabel": "Samedi 7 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Maison-Blanche",
+   "title": "Stephen Miller remplace Susie Wiles",
+   "body": "Donald Trump a annoncé vendredi sur Truth Social que son adjoint Stephen Miller devient chef de cabinet de la Maison-Blanche dès lundi. Susie Wiles rejoint son équipe politique.",
+   "why": "Premier grand remaniement après la défaite républicaine aux midterms, au profit de l'architecte de la politique d'expulsions.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/President%27s_Park_(The_White_House_WHHO8571.jpg/1600px-President%27s_Park_(The_White_House_WHHO8571.jpg",
+    "credit": "National Park Service / domaine public"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Corse · Intempéries",
+   "title": "Inondations : deux morts en Corse-du-Sud",
+   "body": "Deux personnes se sont noyées dans la nuit de jeudi à vendredi, leur voiture emportée entre Bonifacio et Porto-Vecchio. Au moins 70 personnes ont été évacuées ou mises à l'abri.",
+   "why": "Plus de deux mois de pluie sont tombés en moins de 48 h ; le Gard et l'Hérault ont aussi été inondés.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/intemperies-deux-morts-en-corse-dans-des-inondations-le-gard-et-lherault-egalement-touches",
+   "stat": {
+    "value": "285 mm",
+    "label": "de pluie à Conca en moins de 48 heures"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · États-Unis",
+   "title": "Trump promet une décision imminente sur l'Iran",
+   "body": "Donald Trump assure qu'on saura bientôt s'il ordonne de nouvelles frappes. Vendredi, un marin est mort après l'attaque d'un pétrolier dans le Golfe.",
+   "why": "En parallèle, le président a appelé l'émir du Qatar pour évoquer une fin de la guerre.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine · Russie",
+   "title": "Missiles balistiques sur Kyiv",
+   "body": "Au moins six missiles balistiques ont visé Kyiv vendredi peu avant 23 h, heure locale, deux heures après une mise en garde de Volodymyr Zelensky.",
+   "why": "Zelensky redoute une frappe massive sur les ponts et l'énergie, avant les pourparlers d'Abou Dhabi.",
+   "source": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_2020-10-31.jpg/1600px-%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_2020-10-31.jpg",
+    "credit": "Wavemeart / CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Belgique",
+   "title": "Le roi refuse la démission de De Wever",
+   "body": "Le roi Philippe a refusé vendredi la démission du Premier ministre Bart De Wever, présentée lundi faute d'accord sur le budget 2027. Les cinq partis de la majorité promettent des concessions.",
+   "why": "Le gouvernement doit trouver 10 Md€ d'ici 2029 ; De Wever fera rapport au roi le 16 novembre.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/belgique-le-roi-refuse-la-demission-du-premier-ministre-et-demande-de-reprendre-les-negoci"
+  },
+  {
+   "cat": "biz",
+   "kicker": "SNCF · Alstom",
+   "title": "Le TGV M entre enfin en service",
+   "body": "Le nouveau TGV à deux niveaux d'Alstom accueille ses premiers clients lundi sur Paris-Marseille, avec plus de deux ans de retard : il était prévu pour les JO 2024.",
+   "why": "Les premières rames offrent 573 places, et jusqu'à 700 en classe unique.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/sncf-le-tgv-m-nouveau-train-a-grande-vitesse-enfin-sur-les-rails",
+   "stat": {
+    "value": "130",
+    "label": "rames commandées par la SNCF à Alstom"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Tesla",
+   "title": "Le Cybertruck, c'est fini en 2027",
+   "body": "Elon Musk a annoncé sur X que la production du pick-up s'arrêtera l'an prochain. L'usine texane fabriquera davantage de robotaxis Cybercab.",
+   "why": "Musk visait 250 000 ventes par an ; Tesla n'en a vendu que quelques dizaines de milliers en trois ans.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Fox · Roku",
+   "title": "Fox boucle le rachat de Roku",
+   "body": "Fox a finalisé vendredi l'acquisition de Roku pour 22 Md$, bien plus tôt que prévu : la clôture était attendue au premier semestre 2027.",
+   "why": "Fox se dit désormais 3e groupe télé américain par l'audience, avec accès à plus de 100 millions de foyers.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "stat": {
+    "value": "22 Md$",
+    "label": "le prix du rachat de Roku"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI",
+   "title": "OpenAI lève 11 Md$, sous ses ambitions",
+   "body": "Selon Bloomberg, OpenAI a levé 11 Md$ sur une valorisation de 1 250 Md$. Le tour pourrait atteindre 20 Md$, loin des 30 Md$ visés en septembre.",
+   "why": "Les acheteurs potentiels de l'IPO d'Anthropic la valoriseraient à 1 100 Md$ seulement, contre 2 000 Md$ espérés il y a un mois.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "stat": {
+    "value": "1 250 Md$",
+    "label": "valorisation d'OpenAI selon Bloomberg"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Dépenses IA",
+   "title": "Les entreprises freinent leurs dépenses en IA",
+   "body": "Selon l'indice de Ramp, les dépenses en tokens n'ont progressé que de 1,5 % en août-septembre, après +42 % de juin à juillet, avant un rebond de 8,9 % en octobre.",
+   "why": "Baisses de prix et chasse aux coûts pèsent sur la croissance des géants de l'IA.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+  },
+  {
+   "cat": "ia",
+   "kicker": "Cybersécurité",
+   "title": "800 outils de piratage IA exposés en ligne",
+   "body": "La société Censys a repéré plus de 800 déploiements d'Artex, un outil open source d'attaque autonome par agents IA, accessibles sans mot de passe.",
+   "why": "Certains contenaient des implants malveillants ; Artex a servi dans des attaques visant notamment la finance sud-coréenne.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+   "stat": {
+    "value": "800+",
+    "label": "instances d'Artex ouvertes sans mot de passe"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Ukraine · Robots terrestres",
+   "title": "Record de missions pour les robots ukrainiens",
+   "body": "Les véhicules terrestres sans pilote ukrainiens ont mené 31 398 missions en octobre, plus de quatre fois plus qu'en janvier, selon le ministère de la Défense.",
+   "why": "Logistique, évacuations, déminage : ils remplacent des véhicules trop exposés aux drones russes.",
+   "source": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/ukraines-ground-drones-complete-over-30-000-missions-in-record-month-for-robot-warfare/",
+   "stat": {
+    "value": "31 398",
+    "label": "missions de robots terrestres en octobre"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Physicl",
+   "title": "10 M$ pour entraîner les robots en simulation",
+   "body": "La start-up d'Alex de Vigan, fondateur de nfinite, lève 10 M$ auprès d'Inovia pour créer des environnements 3D réalistes où entraîner les robots.",
+   "why": "Réduire l'écart entre simulation et monde réel est l'un des grands verrous de la robotique.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+  },
+  {
+   "cat": "space",
+   "kicker": "SpaceX · Space Force",
+   "title": "Un Falcon 9 lance une mission secrète",
+   "body": "Un Falcon 9 a décollé de Vandenberg (Californie) samedi à 1 h 48, heure de Paris, pour la mission classifiée USSF-432. Le premier étage s'est posé sur une barge.",
+   "why": "C'est le 125e lancement de SpaceX en 2026 ; la charge utile n'a pas été dévoilée.",
+   "source": "Space.com",
+   "url": "https://space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+   "stat": {
+    "value": "125e",
+    "label": "lancement de SpaceX en 2026"
+   },
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vandenberg_launches_SpaceX_Falcon_9_(181007-F-UP786-001).jpg/1600px-Vandenberg_launches_SpaceX_Falcon_9_(181007-F-UP786-001).jpg",
+    "credit": "U.S. Air Force, Tech. Sgt. Jim Araos / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Grippe aviaire",
+   "title": "Un vaccin conçu par IA contre la grippe aviaire",
+   "body": "Des chercheurs de Cambridge ont conçu avec l'IA un vaccin visant de nombreux variants. Chez la souris et le furet, il a protégé tous les animaux, contre la moitié avec le vaccin candidat de l'OMS.",
+   "why": "Résultats précliniques publiés dans Cell Reports Medicine : les essais chez l'humain restent à mener.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/cambridge-cree-un-vaccin-anti-grippe-aviaire-a-large-spectre-concu-par-ia"
+  },
+  {
+   "cat": "science",
+   "kicker": "États-Unis · Santé",
+   "title": "Rougeole : record depuis 35 ans aux États-Unis",
+   "body": "Les CDC recensent 5 182 cas confirmés en 2026, plus du double de 2025 et le plus haut niveau depuis 1991. Au moins huit décès ont été signalés.",
+   "why": "La baisse de la vaccination fait revenir une maladie déclarée éliminée du pays en 2000.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/etats-unis-plus-de-5-000-cas-de-rougeole-en-2026-un-record-depuis-35-ans",
+   "stat": {
+    "value": "5 182",
+    "label": "cas de rougeole aux États-Unis en 2026"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "PlayStation",
+   "title": "Wolverine : 2,4 millions en 50 jours",
+   "body": "Selon le rapport financier de Sony, Marvel's Wolverine, sorti le 15 septembre sur PS5, s'est vendu à 2,4 millions d'exemplaires en 50 jours.",
+   "why": "Un démarrage bien plus lent que Spider-Man 2 (5 millions en 11 jours), pour un budget estimé à 300 M$.",
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/marvels-wolverine-ventes-2-millions-50-jours-726286",
+   "stat": {
+    "value": "2,4 M",
+    "label": "exemplaires vendus en 50 jours"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Tennis · Paris",
+   "title": "Van Assche en demi-finale à Paris",
+   "body": "Luca Van Assche a battu l'Australien Rinky Hijikata 6-4, 6-7, 7-5 en quart de finale du Masters 1000 de Paris. Il affronte Ben Shelton samedi.",
+   "why": "Dernier Français en lice, il défie la tête de série n°3 pour une place en finale.",
+   "source": "ATP Tour",
+   "url": "https://www.atptour.com/en/scores/current/paris/352/results",
+   "stat": {
+    "value": "7-5",
+    "label": "le troisième set remporté face à Hijikata"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma",
+   "title": "Malkovich brille dans Wild Horse Nine",
+   "body": "En salles, le nouveau film de Martin McDonagh suit deux agents de la CIA sur l'île de Pâques à la veille du coup d'État chilien de 1973, avec John Malkovich et Sam Rockwell.",
+   "why": "Malkovich a reçu la Coupe Volpi du meilleur acteur à Venise pour ce rôle.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/06/wild-horse-nine-la-comedie-noire-de-mcdonagh-ou-malkovich-frole-loscar",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ahu_Tongariki.jpg/1600px-Ahu_Tongariki.jpg",
+    "credit": "Rivi / CC BY-SA 3.0 via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "14h30",
+     "Tennis : Van Assche – Shelton en demi-finale du Masters de Paris"
+    ],
+    [
+     "17h",
+     "Tennis : Ruud – Alcaraz, seconde demi-finale"
+    ],
+    [
+     "21h10",
+     "Rugby : France – Fidji à Lyon, sur TF1"
+    ]
+   ]
+  }
+ ]
+}
