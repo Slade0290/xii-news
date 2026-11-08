@@ -1,0 +1,226 @@
+{
+ "dateLabel": "Dimanche 8 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Pologne · Cracovie",
+   "title": "Fusillade meurtrière sur la grand-place de Cracovie",
+   "body": "Samedi vers 15 h, un homme armé a ouvert le feu près de la place du Marché : six morts et 16 blessés. Le suspect, un Polonais de 24 ans, a été blessé puis arrêté.",
+   "why": "Le ministre de l'Intérieur décrit un suspect radicalisé, attiré par l'extrême droite. Deux jours de deuil national ont commencé.",
+   "source": "Euronews",
+   "url": "https://pl.euronews.com/2026/11/08/strzaly-na-rynku-w-krakowie-wszystko-co-wiemy-do-tej-pory"
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine · Énergie",
+   "title": "Pluie de missiles sur le réseau électrique ukrainien",
+   "body": "Dans la nuit de vendredi à samedi, la Russie a tiré 36 missiles balistiques et 172 drones. Coupures de courant dans cinq régions, dont Kyiv, et au moins neuf blessés.",
+   "why": "Zelensky y voit une pression avant les pourparlers prévus les 10 et 11 novembre à Abou Dhabi, et réclame des intercepteurs Patriot.",
+   "source": "AFP via Boursorama",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/l-ukraine-touchee-par-des-frappes-russes-massives-contre-le-reseau-energetique-a35b0fe31659cee931ff33b1fb02fe6e",
+   "stat": {
+    "value": "4 sur 36",
+    "label": "missiles balistiques interceptés, selon Zelensky"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · États-Unis",
+   "title": "Frappes américaines limitées sur l'île de Qeshm",
+   "body": "Donald Trump a confirmé des frappes limitées contre une défense antiaérienne iranienne. Les médias d'État ont signalé deux explosions sur l'île de Qeshm, dans le détroit d'Ormuz.",
+   "why": "Premières frappes depuis les midterms, alors que Téhéran étudie des propositions de médiation du Qatar.",
+   "source": "AP via CP24",
+   "url": "https://www.cp24.com/news/world/2026/11/07/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/05/qeshm_island_iran/23301805-2-eng-GB/Qeshm_Island_Iran.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Paraguay",
+   "title": "Le président Peña destitué puis assigné à résidence",
+   "body": "Destitué après la faillite de la banque Ueno, Santiago Peña a été placé en résidence surveillée à Asunción. Son vice-président Pedro Alliana a prêté serment.",
+   "why": "Le parquet le soupçonne notamment de trafic d'influence ; Alliana gouvernera jusqu'en août 2028.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
+   "stat": {
+    "value": "1 adulte sur 2",
+    "label": "a vu son épargne gelée par la faillite de Ueno"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2006/10/envisat_image_of_paraguay/9969728-2-eng-GB/Envisat_image_of_Paraguay.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Vatican · Uruguay",
+   "title": "Léon XIV lance sa tournée sud-américaine",
+   "body": "Le pape a célébré samedi une messe devant plus de 40 000 fidèles à Paysandú, en Uruguay, avant l'Argentine et le Pérou.",
+   "why": "Son message central : la paix est possible et chacun est appelé à la construire.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Berkshire Hathaway",
+   "title": "Berkshire rachète ses actions, ses profits reculent",
+   "body": "Au 3e trimestre, le conglomérat a racheté pour 9,6 Md$ de ses propres actions. Son bénéfice d'exploitation recule de près de 6 %, à 12,7 Md$.",
+   "why": "Un test pour Greg Abel, PDG depuis janvier, qui dispose d'un trésor de guerre encore en hausse.",
+   "source": "AP via ABC News",
+   "url": "https://abcnews.com/Business/wireStory/berkshire-hathaway-buys-back-96-billion-stock-profits-137939982",
+   "stat": {
+    "value": "377,4 Md$",
+    "label": "de trésorerie fin septembre"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Binance · Crypto",
+   "title": "Le directeur financier de Binance s'en va",
+   "body": "Kaiser Ng quitte la plateforme, remplacé par Justin Yek, un peu plus d'une semaine après le vol de 6,3 Md$ de cryptomonnaies à ses utilisateurs.",
+   "why": "Binance et le FBI accusent le groupe nord-coréen TraderTraitor ; 3,6 Md$ nets sont sortis dès le dégel des comptes.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "stat": {
+    "value": "6,3 Md$",
+    "label": "dérobés aux utilisateurs de Binance"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Nvidia · Chine",
+   "title": "Puces Nvidia : un acheteur chinois aux bureaux vides",
+   "body": "Selon le New York Times, une société chinoise autorisée par Washington à acheter des puces Nvidia avancées déclarait une adresse correspondant à un local vide.",
+   "why": "Le soupçon de sociétés-écrans relance le débat sur l'export des puces d'IA vers la Chine.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+  },
+  {
+   "cat": "ia",
+   "kicker": "États-Unis · Data centers",
+   "title": "Les data centers, grands perdants des midterms",
+   "body": "Presque toutes les mesures locales pour accélérer leur construction ont échoué et beaucoup de moratoires sont passés. Au Texas, la gouverneure élue veut les encadrer.",
+   "why": "Un frein possible à la course aux infrastructures de l'IA, déjà boudée par une partie de Wall Street.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+  },
+  {
+   "cat": "space",
+   "kicker": "Observatoire Rubin",
+   "title": "Rubin débusque deux compagnons de la Voie lactée",
+   "body": "Avec ses premières données, l'observatoire Vera C. Rubin a repéré Aquarius IV, une galaxie naine à 355 000 années-lumière, et Rubin-GC1, un amas caché par la poussière.",
+   "why": "Environ 65 galaxies satellites sont connues ; des centaines pourraient encore attendre.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm"
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel de novembre",
+   "title": "Mars, Jupiter et les Léonides au rendez-vous",
+   "body": "Trois rendez-vous à l'œil nu dans les prochaines semaines.",
+   "why": "Pour les deux premiers, levez-vous avant l'aube, loin des lumières.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+   "list": [
+    [
+     "15-16 nov.",
+     "Mars et Jupiter à 1,2°, au sud-est avant l'aube"
+    ],
+    [
+     "17-18 nov.",
+     "Léonides, jusqu'à 15 météores/h"
+    ],
+    [
+     "24 nov.",
+     "Super Lune au lever, vers le coucher du Soleil"
+    ]
+   ]
+  },
+  {
+   "cat": "science",
+   "kicker": "Climat · Métabolisme",
+   "title": "L'humanité expire 2 milliards de tonnes de CO2",
+   "body": "En respirant, l'humanité a émis 2,05 milliards de tonnes de CO2 en 2015, contre 1,18 en 1985, selon l'université de Bath dans The Lancet Planetary Health.",
+   "why": "Ce carbone récent ne réchauffe pas comme les fossiles, mais affine les modèles du cycle du carbone.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm",
+   "stat": {
+    "value": "+74 %",
+    "label": "de CO2 humain respiré entre 1985 et 2015"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Rockstar · GTA VI",
+   "title": "GTA VI : préchargement dès mardi",
+   "body": "Rockstar a dévoilé de nouvelles captures (club, salle de concert, plongée) avant la sortie du 19 novembre. Le préchargement ouvre le 10.",
+   "why": "Le jeu le plus attendu de ces dernières années arrive dans 11 jours.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-gta6-strip-club-music-venue-launch-gallery-3975245",
+   "stat": {
+    "value": "J-11",
+    "label": "avant la sortie de GTA VI, le 19 novembre"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Rugby · XV de France",
+   "title": "Les Bleus écrasent les Fidji 54-17",
+   "body": "À Décines, près de Lyon, la France a inscrit huit essais face aux Fidji. Antoine Dupont, homme du match, a signé le dernier.",
+   "why": "Romain Ntamack, touché à l'épaule, est incertain avant l'Afrique du Sud, vendredi 13 novembre au Stade de France.",
+   "source": "Equipe-France.fr",
+   "url": "https://www.equipe-france.fr/rugby/masculin/championnat-des-nations-2026-les-bleus-deroulent-face-aux-fidji-54-17-ntamack-blesse",
+   "stat": {
+    "value": "8",
+    "label": "essais inscrits par le XV de France"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Tennis · Paris",
+   "title": "Van Assche stoppé aux portes de la finale",
+   "body": "Le Français s'est incliné 5-7, 6-3, 6-4 face à Ben Shelton. L'Américain défie Carlos Alcaraz en finale ce dimanche.",
+   "why": "Pour sa première demi-finale de Masters 1000, le 47e mondial a mené d'un set, puis 3-1 dans le dernier.",
+   "source": "ATP Tour",
+   "url": "https://www.atptour.com/en/news/shelton-van-assche-paris-2026-sf"
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Sorties",
+   "title": "Dupontel, Carax et Ti West mercredi en salles",
+   "body": "Le 11 novembre sortent “Il faut brûler Maman” d'Albert Dupontel, “Scrooge” de Ti West et “Pierre ou les ambiguïtés” de Leos Carax.",
+   "why": "Un mercredi férié chargé, avec aussi “Comment braquer une banque” de David Leitch.",
+   "source": "AlloCiné",
+   "url": "https://www.allocine.fr/film/agenda/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "12h30",
+     "Tennis : finale du double à Paris, avec les Français Halys et Herbert"
+    ],
+    [
+     "15h",
+     "Tennis : Shelton – Alcaraz, finale du Masters de Paris (pas avant 15 h)"
+    ],
+    [
+     "20h45",
+     "Ligue 1 : Lens – Marseille"
+    ]
+   ]
+  }
+ ]
+}
