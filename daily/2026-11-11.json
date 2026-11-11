@@ -1,0 +1,238 @@
+{
+ "dateLabel": "Mercredi 11 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine · Russie · USA",
+   "title": "Ukraine-Russie : retour à la table à Abou Dhabi",
+   "body": "Mardi, Russes et Ukrainiens ont négocié près de quatre heures sous médiation américaine, une première depuis février. Un second jour de discussions est prévu ce mercredi.",
+   "why": "Kyiv évoque un vaste échange de prisonniers, mais territoires et cessez-le-feu divisent toujours les deux camps.",
+   "source": "AP via PBS",
+   "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+   "stat": {
+    "value": "4 h",
+    "label": "de discussions trilatérales mardi"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/abu_dhabi/22040628-1-eng-GB/Abu_Dhabi.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "États-Unis · Inflation",
+   "title": "L'inflation américaine plus forte que prévu",
+   "body": "Les prix à la consommation ont augmenté de 0,4 % en octobre aux États-Unis, contre 0,3 % attendu par les économistes, selon le département du Travail.",
+   "why": "Ce chiffre relance l'hypothèse d'une hausse des taux de la Réserve fédérale.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/",
+   "stat": {
+    "value": "+0,4 %",
+    "label": "hausse des prix en octobre, sur un mois"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Indonésie",
+   "title": "Le vice-président indonésien propose sa démission",
+   "body": "Gibran Rakabuming Raka, fils de l'ex-président Joko Widodo, a offert de démissionner mardi lors d'un entretien avec le président Prabowo Subianto. On ignore si l'offre est acceptée.",
+   "why": "La Cour suprême a jugé en octobre que ses diplômes ne remplissaient pas les conditions électorales.",
+   "source": "AP via NPR",
+   "url": "https://www.wvxu.org/news-from-npr/2026-11-10/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility"
+  },
+  {
+   "cat": "geo",
+   "kicker": "G7 · Liban",
+   "title": "Liban : le G7 redoute un vide sécuritaire",
+   "body": "Réunis à Paris, les ministres des Affaires étrangères du G7 ont convenu mardi d'éviter un « vide sécuritaire » après la fin du mandat de la Finul, le 31 décembre.",
+   "why": "Aucune percée sur ce qui remplacera la force de l'ONU, a reconnu Jean-Noël Barrot.",
+   "source": "AFP via The Times of Israel",
+   "url": "https://www.timesofisrael.com/g7-agrees-on-need-to-avert-security-void-in-lebanon-after-unifil-withdrawal/",
+   "stat": {
+    "value": "7 500",
+    "label": "Casques bleus de la Finul encore déployés"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Anthropic · Bourse",
+   "title": "Anthropic vise 1 400 milliards de dollars",
+   "body": "Le créateur de Claude a fixé une fourchette de 70 à 78 dollars par action pour son entrée au Nasdaq, sous le symbole ANT, avec 825 millions d'actions proposées.",
+   "why": "Les premières cotations sont attendues le 19 ou le 20 novembre, selon le Wall Street Journal.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/article/anthropic-seeks-14-trillion-valuation-in-ipo-130300928.html",
+   "stat": {
+    "value": "64,35 Md$",
+    "label": "levée maximale en haut de fourchette"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "PepsiCo · Emploi",
+   "title": "PepsiCo supprime un millier d'emplois",
+   "body": "Le géant des sodas et des snacks va supprimer environ 1 000 postes dans ses activités nord-américaines, selon une lettre interne révélée par CNBC.",
+   "why": "Ses volumes de boissons ont reculé de 2 % au 3e trimestre en Amérique du Nord, et le redressement tarde.",
+   "source": "Business Standard",
+   "url": "https://www.business-standard.com/world-news/pepsico-to-cut-over-1-000-jobs-amid-sluggish-sales-in-north-american-market-126111000389_1.html"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Western Union",
+   "title": "Western Union renonce à racheter Intermex",
+   "body": "Le spécialiste des transferts d'argent a mis fin mardi soir au rachat, bloqué par le régulateur californien, seul feu vert qui lui manquait.",
+   "why": "Les conditions de la Californie auraient imposé de profonds changements à son modèle, selon l'entreprise.",
+   "source": "Western Union via Stock Titan",
+   "url": "https://www.stocktitan.net/news/WU/western-union-announces-termination-of-agreement-to-acquire-3twvbgefug3f.html"
+  },
+  {
+   "cat": "ia",
+   "kicker": "New York · Régulation",
+   "title": "New York encadre les géants de l'IA",
+   "body": "L'État ouvre le portail de sa loi RAISE : les grands labos d'IA, comme OpenAI ou Anthropic, devront s'y enregistrer d'ici le 1er janvier 2027.",
+   "why": "Ils devront publier leurs règles de sécurité et signaler tout incident grave sous 72 heures.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+   "stat": {
+    "value": "1 M$",
+    "label": "amende maximale pour une première infraction"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Adobe · Création",
+   "title": "Adobe ouvre Photoshop et Premiere aux chatbots",
+   "body": "Adobe lance un serveur MCP qui donne accès à Photoshop, Illustrator, After Effects et Premiere depuis ChatGPT, Claude ou Gemini.",
+   "why": "L'éditeur ajoute un agent IA « toujours actif » et un outil de maquettes concurrent de Figma.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp"
+  },
+  {
+   "cat": "robot",
+   "kicker": "Google DeepMind",
+   "title": "Un humanoïde Gemini testé chez Mercedes",
+   "body": "Google DeepMind dévoile Gemini Robotics 2.5, son modèle qui pilote des robots. Testé sur plus de 200 tâches, il réussit 30 à 100 % plus souvent qu'avant.",
+   "why": "Sur des lignes Mercedes-Benz, l'humanoïde Apollo 2 d'Apptronik a préparé des pièces avec 96 % de réussite.",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "stat": {
+    "value": "96 %",
+    "label": "de réussite en préparation de pièces"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "SpaceX · Starship",
+   "title": "Starship tentera une double récupération vendredi",
+   "body": "SpaceX a installé mardi le propulseur Super Heavy sur son pas de tir au Texas. Décollage visé vendredi 13 novembre à 22 h 45, heure de Paris.",
+   "why": "Objectif inédit : récupérer le propulseur et le vaisseau, tout en déployant 26 satellites Starlink V3.",
+   "source": "Space.com",
+   "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt"
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel de France",
+   "title": "Pluie d'étoiles filantes : les Léonides arrivent",
+   "body": "Le pic des Léonides est attendu vers 1 h du matin le 18 novembre, heure de Paris : jusqu'à 15 météores par heure sous un ciel bien noir.",
+   "why": "Meilleur moment : de minuit à l'aube, après le coucher de la Lune. Aucun instrument nécessaire.",
+   "source": "EarthSky",
+   "url": "https://earthsky.org/astronomy-essentials/everything-you-need-to-know-leonid-meteor-shower/"
+  },
+  {
+   "cat": "science",
+   "kicker": "Climat · COP31",
+   "title": "Les émissions fossiles de CO2 reculent en 2026",
+   "body": "Selon le Global Carbon Budget, les émissions fossiles devraient baisser de 0,4 % cette année, à 38,2 milliards de tonnes. L'Inde (+4,4 %) fait exception.",
+   "why": "Avec la déforestation, le total atteint pourtant un record de 43,3 milliards de tonnes.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
+   "stat": {
+    "value": "-0,4 %",
+    "label": "émissions fossiles de CO2 prévues en 2026"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Santé · HPV",
+   "title": "Un chewing-gum contre le papillomavirus",
+   "body": "À Penn, des chercheurs ont conçu un chewing-gum à base de haricots. En laboratoire, ses extraits ont réduit de 93 % le HPV dans la salive de patients atteints de cancer.",
+   "why": "Résultat précoce : rien ne prouve encore qu'il prévienne ou soigne un cancer chez l'humain.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm"
+  },
+  {
+   "cat": "games",
+   "kicker": "Rockstar · GTA VI",
+   "title": "GTA 6 se télécharge déjà",
+   "body": "Le préchargement de GTA VI est ouvert depuis mardi 10 novembre sur PS5 et Xbox Series. Le jeu sortira le 19 novembre.",
+   "why": "Après plusieurs reports, le jeu le plus attendu de l'année arrive dans huit jours.",
+   "source": "Screen Rant via OpenCritic",
+   "url": "https://opencritic.com/news/39409/november-10-is-officially-the-day-gta-6-fans-have-been-waiting-for",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Football Manager 27",
+   "title": "Football Manager 27 est disponible",
+   "body": "Le jeu de gestion de Sports Interactive est sorti mardi à 17 h sur PC, PS5 et Xbox Series, et sur mobile via Netflix.",
+   "why": "Comptez 59,99 € sur consoles et 53,99 € sur Steam. La version physique PS5 arrive le 20 novembre.",
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/football-manager-27-date-heure-lancement-ou-acheter-726388"
+  },
+  {
+   "cat": "sport",
+   "kicker": "Bleus · Ligue des nations",
+   "title": "Cascade de forfaits chez les Bleus",
+   "body": "Marcus Thuram et Aurélien Tchouaméni ont déclaré forfait mardi, après Pierre Kalulu. Eli Junior Kroupi (Bournemouth, 20 ans) est appelé pour la première fois.",
+   "why": "Les Bleus de Zinédine Zidane, leaders de leur groupe, défient l'Italie jeudi à 20 h 45 à San Siro.",
+   "source": "Foot Mercato",
+   "url": "https://www.footmercato.net/a6627745059848400688-equipe-de-france-aurelien-tchouameni-forfait-a-son-tour",
+   "stat": {
+    "value": "3",
+    "label": "forfaits pour Zidane avant Italie-France"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2019/05/milan_italy/19383469-1-eng-GB/Milan_Italy.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Sorties",
+   "title": "Dupontel, Ti West et Cédric Kahn en salles",
+   "body": "Ce mercredi sortent Il faut brûler Maman d'Albert Dupontel, Scrooge de Ti West, nouvelle adaptation de Dickens, et 15/18 de Cédric Kahn.",
+   "why": "Aussi à l'affiche : Comment braquer une banque, de David Leitch, et Les Yeux verts.",
+   "source": "AlloCiné",
+   "url": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000230257.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Abou Dhabi",
+     "2e jour des pourparlers Ukraine-Russie-États-Unis"
+    ],
+    [
+     "11-Novembre",
+     "Commémorations du 108e anniversaire de l'Armistice de 1918"
+    ],
+    [
+     "COP31",
+     "Les négociations climat se poursuivent à Antalya, en Turquie"
+    ]
+   ]
+  }
+ ]
+}
