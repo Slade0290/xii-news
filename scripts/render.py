@@ -4,7 +4,7 @@
 Usage : python3 scripts/render.py <edition.json> <dossier_sortie> <logo.jpg>
 
 Entrée : {"dateLabel": "Jeudi 5 novembre 2026", "slides": [{cat, kicker, title, body, why, source, url, stat?, list?, image?}, ...]}
-  image (facultatif) : {"url": lien direct vers une photo libre de droits, "credit": "Auteur / licence"}, utilisée en fond de la story
+  image (facultatif) : {"url": lien direct vers une photo libre de droits, "credit": "Auteur / licence"}, utilisée en fond du post et de la story
 Sortie :
   post_01.jpg ... post_13.jpg   carrousel 1080x1350 : sommaire puis les 12 infos, chacune avec sa source
   story_01.jpg ... story_12.jpg stories 1080x1920 : les 12 mêmes infos, qui renvoient au post
@@ -238,7 +238,7 @@ def motif(img, cat, accent, seed, story):
 
 
 def story_photo(slide, h):
-    """Photo libre de droits (slide["image"]["url"]) recadrée en plein cadre pour la story ; None si absente ou illisible."""
+    """Photo libre de droits (slide["image"]["url"]) recadrée en plein cadre (story ou post du carrousel) ; None si absente ou illisible."""
     info = slide.get("image") or {}
     url = info.get("url") if isinstance(info, dict) else None
     if not url:
@@ -357,10 +357,10 @@ def render_actu(slide, date_label, F, out, n, total, story):
     name, accent = CATS.get(cat, CATS["watch"])
     M, MAXW = 72, W - 144
 
-    photo = story_photo(slide, h) if story else None
+    photo = story_photo(slide, h)
     if photo is not None:
         img = photo
-        shade(img, 0.22)
+        shade(img, 0.22 if story else 0.12)
     else:
         img = base_bg(h)
         motif(img, cat, accent, n * 97 + 13, story)
@@ -385,6 +385,11 @@ def render_actu(slide, date_label, F, out, n, total, story):
         cf = F("Mono.ttf", 26, 600)
         ct = f"{n + 1:02d}/{total:02d}"
         d.text((W - M - d.textlength(ct, font=cf), 66), ct, font=cf, fill=hexc(RED))
+        credit = (slide.get("image") or {}).get("credit") if photo is not None else None
+        if credit:
+            pf = F("Mono.ttf", 18, 500)
+            pt = ("Photo : " + credit)[:70]
+            d.text((W - M - d.textlength(pt, font=pf), 108), pt, font=pf, fill=INK + (170,))
 
     big = F("Archivo.ttf", S["title"], 900, 100)
     tl = wrap(d, slide.get("title", "").upper(), big, MAXW)
