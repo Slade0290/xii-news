@@ -1,0 +1,279 @@
+{
+ "dateLabel": "Jeudi 12 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Nvidia · Tech",
+   "title": "Nvidia prêt à écarter Jensen Huang",
+   "body": "Le conseil d'administration de Nvidia s'est réuni mercredi soir pour décider s'il évince son fondateur et PDG, selon Reuters. Aucune décision n'était annoncée jeudi matin.",
+   "why": "En cause : des liaisons révélées par la presse, dont une avec une femme que Washington soupçonne d'espionnage pour la Chine.",
+   "source": "Reuters via ThePrint",
+   "url": "https://theprint.in/world/nvidia-board-meets-to-decide-ceo-jensen-huangs-future-as-leadership-crisis-deepens/3096589/",
+   "stat": {
+    "value": "-8 %",
+    "label": "l'action Nvidia après la clôture mercredi"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2025/08/iss073e0420568orig.jpg",
+    "credit": "NASA / Nichole Ayers / domaine public"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine · Russie",
+   "title": "Accord pour un vaste échange de prisonniers",
+   "body": "Au terme de deux jours de pourparlers à Abou Dhabi, Kyiv et Moscou ont accepté mercredi un échange de prisonniers, annoncé par l'émissaire américain Jared Kushner.",
+   "why": "Les chiffres définitifs sont attendus jeudi : Volodymyr Zelensky évoquait 1 000 à 1 500 prisonniers de chaque côté.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/ukraine-russie-un-accord-sur-un-echange-de-prisonniers-a-abu-dhabi",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/12/kyiv_ukraine/22370879-3-eng-GB/Kyiv_Ukraine.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · Ormuz",
+   "title": "Ormuz : nouvelles attaques contre des pétroliers",
+   "body": "L'armée iranienne affirme qu'un pétrolier a heurté une mine et pris feu mercredi dans le détroit, au lendemain de l'incendie de trois tankers annoncé par les Gardiens de la révolution.",
+   "why": "Un cinquième du pétrole mondial transite d'ordinaire par ce passage.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/les-prix-du-petrole-montent-avec-les-attaques-contre-les-tankers-dans-le-detroit-dormuz",
+   "stat": {
+    "value": "91,7 $",
+    "label": "le baril de Brent mercredi en fin de matinée"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2011/03/middle_eastern_terrain/9737505-3-eng-GB/Middle_Eastern_terrain.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "OTAN · Lituanie",
+   "title": "Un drone échappe aux chasseurs de l'OTAN",
+   "body": "Dans la nuit de mardi à mercredi, des avions de l'OTAN ont tenté deux fois, sans succès, d'abattre un drone venu du Bélarus au-dessus du nord de la Lituanie.",
+   "why": "Son type et son origine restent inconnus ; les autorités lituaniennes parlent de la nuit la plus agitée de l'histoire du pays.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/otan-des-avions-chasseurs-echouent-a-abattre-un-drone-en-lituanie-alerte-dans-les-pays-bal",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/vilnius_lithuania/24383371-1-eng-GB/Vilnius_Lithuania.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Climat · COP31",
+   "title": "COP31 : l'Europe en ordre dispersé",
+   "body": "Le sommet des dirigeants de la COP31 se tient à Antalya, en Turquie, sans Emmanuel Macron, Friedrich Merz, Giorgia Meloni ni Pedro Sánchez. Ursula von der Leyen y représente l'UE.",
+   "why": "Pour la deuxième année de suite, aucun représentant du gouvernement américain n'est présent.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/cop31-a-antalya-plusieurs-dirigeants-cles-de-lue-absents-du-sommet"
+  },
+  {
+   "cat": "biz",
+   "kicker": "OpenAI · Résultats",
+   "title": "OpenAI creuse ses pertes, ses revenus s'envolent",
+   "body": "Au troisième trimestre, le chiffre d'affaires d'OpenAI a bondi d'environ 50 %, à 10 milliards de dollars, selon des documents consultés par le Wall Street Journal.",
+   "why": "Sa perte opérationnelle se creuse pourtant, alors que son rival Anthropic prépare son entrée en Bourse.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/openai-ameliore-sa-marge-mais-creuse-ses-pertes-a-109-milliards",
+   "stat": {
+    "value": "-10,9 Md$",
+    "label": "perte opérationnelle au 3e trimestre"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "CoreWeave · Cloud IA",
+   "title": "CoreWeave fait payer ses clients d'avance",
+   "body": "Le loueur de puissance de calcul pour l'IA a réalisé 3,66 milliards de dollars de chiffre d'affaires au 3e trimestre, mais perdu 709 millions.",
+   "why": "Il compte sur environ 9 milliards de prépaiements clients en trois mois pour financer sa croissance.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+   "stat": {
+    "value": "+168 %",
+    "label": "de chiffre d'affaires sur un an"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "SpaceX · Allemagne",
+   "title": "SpaceX commande des cellules solaires en Bavière",
+   "body": "SpaceX a passé une commande de 60 millions d'euros à l'allemand Singulus pour des cellules solaires destinées à ses futurs satellites Starmind.",
+   "why": "Ces satellites doivent servir de centres de données pour l'IA en orbite ; livraisons prévues dès début 2027.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/elon-musk-commande-60-millions-deuros-de-cellules-solaires-a-lentreprise-allemande-singulu"
+  },
+  {
+   "cat": "ia",
+   "kicker": "Google DeepMind",
+   "title": "AlphaGenome 2 lit l'ADN cellule par cellule",
+   "body": "DeepMind dévoile AlphaGenome 2, entraîné sur plus de 100 millions de profils de cellules issus de 68 tissus, pour prédire l'effet des variations de l'ADN.",
+   "why": "Il repère près de deux fois plus de variants qui modifient l'expression des gènes. Gratuit pour la recherche non commerciale.",
+   "source": "Google DeepMind",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "stat": {
+    "value": "x2",
+    "label": "variants détectés face à l'état de l'art"
+   },
+   "image": {
+    "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/03/london_uk/15317014-2-eng-GB/London_UK.jpg",
+    "credit": "ESA (données Copernicus 2015) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Cybersécurité · Asie",
+   "title": "Un agent IA au service de pirates",
+   "body": "Selon la société CloudSek, un groupe lié au Kazakhstan a utilisé l'agent IA open source Hermes pour voler plus de 2 000 documents de sécurité nationale au Tadjikistan.",
+   "why": "À partir de simples consignes, l'agent a lui-même planifié et exécuté l'attaque.",
+   "source": "Reuters via TEISS",
+   "url": "https://www.teiss.co.uk/news/kazakhstan-linked-hackers-used-ai-to-steal-tajik-government-documents-researchers-say-18447"
+  },
+  {
+   "cat": "robot",
+   "kicker": "NTT · Logistique",
+   "title": "NTT apprend aux robots à anticiper les chutes",
+   "body": "Le japonais NTT présente un modèle qui simule la physique d'un geste avant que le robot ne bouge, pour éviter chutes d'objets et effondrements de charges.",
+   "why": "Des essais sont prévus avec Mujin pour charger et décharger des bagages d'aéroport.",
+   "source": "NTT",
+   "url": "https://group.ntt/en/newsrelease/2026/11/11/261111b.html",
+   "stat": {
+    "value": "92,3 %",
+    "label": "de réussite au chargement, contre 73,1 %"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/717489main_8347233104_093f3c4614_o_full_full.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "XPeng · Chine",
+   "title": "La voiture volante de XPeng vise 2027",
+   "body": "Le chinois XPeng espère embarquer ses premiers passagers à l'été 2027 à bord de l'Aridge, un biplace électrique volant à basse altitude doté d'un pilote automatique.",
+   "why": "Vendu 300 000 dollars, il revendique plus de 7 000 précommandes, surtout en Chine.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/en-chine-les-voitures-volantes-de-xpeng-pourraient-transporter-des-passagers-des-2027"
+  },
+  {
+   "cat": "space",
+   "kicker": "SpaceX · Starship",
+   "title": "Starship : double récupération visée vendredi soir",
+   "body": "SpaceX vise vendredi 13 novembre, à partir de 23 h 45 heure de Paris, le 15e vol de Starship depuis le Texas, avec une fenêtre de 75 minutes.",
+   "why": "Objectif inédit : rattraper avec la tour le propulseur puis le vaisseau, après 26 satellites Starlink déployés.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vandenberg_launches_SpaceX_Falcon_9_(181007-F-UP786-001).jpg/1600px-Vandenberg_launches_SpaceX_Falcon_9_(181007-F-UP786-001).jpg",
+    "credit": "U.S. Air Force, Tech. Sgt. Jim Araos / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "RDC · Ebola",
+   "title": "Ebola : l'épidémie la plus meurtrière du Congo",
+   "body": "La RDC recense 11 042 cas et 5 387 morts depuis la déclaration de l'épidémie en mai, selon son ministère de la Santé. L'Ituri en est l'épicentre.",
+   "why": "Causée par le virus Bundibugyo, elle n'a ni vaccin ni traitement homologués ; l'OMS soutient deux candidats vaccins.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/epidemie-debola-la-plus-meurtriere-au-congo-11-042-cas-et-5-387-morts",
+   "stat": {
+    "value": "11 042",
+    "label": "cas recensés en RDC depuis mai"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2016/11/virunga_mountains/16484309-1-eng-GB/Virunga_Mountains.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2016) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Santé · Diabète",
+   "title": "Arrêt des GLP-1 : un risque cardiaque doublé",
+   "body": "Une étude italienne sur plus de 80 000 diabétiques de type 2 associe l'arrêt de ces traitements à un risque environ deux fois plus élevé d'infarctus, d'AVC ou de décès.",
+   "why": "Étude observationnelle parue dans The Lancet Regional Health Europe : elle ne prouve pas de lien de cause à effet.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/11/diabete-de-type-2-arreter-les-glp1-est-lie-a-un-risque-de-crise-cardiaque-avc-ou-deces-dou"
+  },
+  {
+   "cat": "games",
+   "kicker": "Nintendo · Zelda",
+   "title": "Ocarina of Time : 5,2 millions en quatre jours",
+   "body": "Sorti le 5 novembre sur Switch 2, le remake de Zelda: Ocarina of Time s'est vendu à plus de 5,2 millions d'exemplaires dans le monde en quatre jours, dont 810 000 au Japon.",
+   "why": "Selon Nintendo, c'est le meilleur lancement mondial d'un jeu qu'il édite sur Switch 2.",
+   "source": "KultureGeek",
+   "url": "https://kulturegeek.fr/news-363788/zelda-ocarina-of-time-nintendo-annonce-dexcellentes-ventes-lancement",
+   "stat": {
+    "value": "5,2 M",
+    "label": "exemplaires vendus du 5 au 8 novembre"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/10/kyoto_and_osaka/17836143-2-eng-GB/Kyoto_and_Osaka.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Switch 2 · Sorties",
+   "title": "Metaphor et Pikmin 4 débarquent sur Switch 2",
+   "body": "Ce jeudi 12 novembre sortent sur Switch 2 Metaphor: ReFantazio et Pikmin 4 édition Nintendo Switch 2 + Dandori Academy.",
+   "why": "Une semaine avant GTA VI, attendu le 19 novembre sur PS5 et Xbox Series.",
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/sorties-jeux-video-novembre-2026-gta-6-zelda-oot-725930"
+  },
+  {
+   "cat": "sport",
+   "kicker": "NBA · Spurs",
+   "title": "Wembanyama porte les Spurs à 10 victoires d'affilée",
+   "body": "Victor Wembanyama a signé 32 points à 13 sur 18 au tir, 9 rebonds et 5 contres mercredi lors de la victoire de San Antonio face aux Bulls, 124-119.",
+   "why": "Menés de 22 points, les Spurs ont renversé le match pour un 10e succès de rang.",
+   "source": "AFP via Yahoo Sports",
+   "url": "https://sports.yahoo.com/articles/wembanyama-leads-spurs-10th-straight-045101671.html",
+   "stat": {
+    "value": "32",
+    "label": "points pour Victor Wembanyama"
+   },
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/87000/87299/iss046e005093.jpg",
+    "credit": "NASA (ISS046-E-5093) / domaine public"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Spotify · Musique",
+   "title": "Spotify prépare des remix créés par IA",
+   "body": "Selon la presse américaine, Spotify prévoit pour début 2027 une option à 4 ou 5 dollars par mois pour créer ses propres remix et reprises de chansons grâce à l'IA.",
+   "why": "Les artistes originaux seraient rémunérés et pourraient refuser ; Universal, Merlin et Believe ont signé.",
+   "source": "Deseret News",
+   "url": "https://www.deseret.com/entertainment/2026/11/11/spotify-to-launch-ai-generated-remixes-and-covers/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/stockholm_sweden/24383236-1-eng-GB/Stockholm_Sweden.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Moscou",
+     "Jared Kushner et Steve Witkoff attendus chez Vladimir Poutine"
+    ],
+    [
+     "Nvidia",
+     "Le sort de Jensen Huang toujours entre les mains du conseil"
+    ],
+    [
+     "20 h 45",
+     "Italie-France en Ligue des nations, à Milan"
+    ]
+   ]
+  }
+ ]
+}
