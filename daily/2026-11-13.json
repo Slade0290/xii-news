@@ -1,0 +1,277 @@
+{
+ "dateLabel": "Vendredi 13 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Nvidia · Tech",
+   "title": "Jensen Huang quitte la tête de Nvidia",
+   "body": "Le cofondateur de Nvidia a démissionné jeudi, avec effet immédiat, de ses postes de PDG, de président et d'administrateur, après des révélations du New York Times sur sa vie privée.",
+   "why": "La directrice financière Colette Kress assure l'intérim ; le géant des puces pour l'IA cherche un successeur.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/12/le-patron-emblematique-de-nvidia-jensen-huang-demissionne",
+   "stat": {
+    "value": "33 ans",
+    "label": "à la tête de l'entreprise qu'il a cofondée"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2025/08/iss073e0420568orig.jpg",
+    "credit": "NASA / Nichole Ayers / domaine public"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine · Russie",
+   "title": "Après Poutine, les émissaires américains voient Zelensky",
+   "body": "Steve Witkoff et Jared Kushner ont vu Vladimir Poutine environ deux heures jeudi au Kremlin, puis Volodymyr Zelensky à Dublin, en marge d'une réunion de plus de 40 pays européens.",
+   "why": "Kushner évoque des principes partagés, mais les positions restent éloignées, notamment sur les territoires.",
+   "source": "AP via PBS",
+   "url": "https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/12/dublin_ireland/24642724-2-eng-GB/Dublin_Ireland.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · Ormuz",
+   "title": "Ormuz : quatre pétroliers touchés par des explosions",
+   "body": "L'armée iranienne affirme que quatre pétroliers ont été frappés par des explosions mercredi et jeudi dans le détroit, pour avoir emprunté des routes non autorisées.",
+   "why": "Au moins 10 navires ont été touchés depuis début novembre ; Reuters n'a pas pu vérifier la version iranienne.",
+   "source": "Reuters via Yahoo",
+   "url": "https://www.yahoo.com/news/articles/four-tankers-struck-explosions-strait-162708977.html",
+   "stat": {
+    "value": "4",
+    "label": "pétroliers touchés en deux jours, selon Téhéran"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/05/qeshm_island_iran/23301805-2-eng-GB/Qeshm_Island_Iran.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Yémen · Arabie saoudite",
+   "title": "Les Houthis visent le pétrole saoudien",
+   "body": "Les rebelles yéménites disent avoir attaqué une station de pompage de l'oléoduc Est-Ouest, un site pétrolier à Yanbu et un bâtiment d'Aramco à Riyad.",
+   "why": "La coalition menée par Riyad dit avoir détruit deux drones ; aucun dégât n'est confirmé à ce stade.",
+   "source": "Reuters via Cyprus Mail",
+   "url": "https://cyprus-mail.com/2026/11/12/yemens-houthis-say-they-attacked-pumping-station-on-saudi-arabias-east-west-oil-pipeline",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2024/10/earth_from_space_riyadh_saudi_arabia/26376673-1-eng-GB/Earth_from_Space_Riyadh_Saudi_Arabia.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2024) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine · Drones",
+   "title": "Starshield : Kyiv dénonce un bridage de ses drones",
+   "body": "Volodymyr Zelensky affirme que des restrictions américaines sur le réseau satellitaire Starshield limitent la vitesse des drones ukrainiens à 161 km/h.",
+   "why": "Selon Kyiv, ce plafond freine l'interception des drones russes.",
+   "source": "AP via PBS",
+   "url": "https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Tesla · SpaceX",
+   "title": "Tesla et SpaceX se rapprochent d'une fusion",
+   "body": "Les deux groupes d'Elon Musk avancent dans leurs négociations de fusion, qui pourrait être annoncée dès décembre ou début 2027, selon Bloomberg.",
+   "why": "Les contrats militaires de SpaceX et la dépendance de Tesla à la Chine compliquent l'opération.",
+   "source": "Reuters via Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/spacex-tesla-merger-talks-progress-bloomberg-news-reports-5023102",
+   "stat": {
+    "value": "3 450 Md$",
+    "label": "capitalisation cumulée de SpaceX et Tesla"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss036e009405.jpg",
+    "credit": "NASA (ISS036-E-9405) / domaine public"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Mercedes · Allemagne",
+   "title": "Mercedes gèle ses investissements en Allemagne",
+   "body": "Le constructeur suspend tout nouvel investissement sur ses sites allemands et envisage plus sérieusement des fermetures d'usines, faute d'avancée avec le syndicat IG Metall.",
+   "why": "Selon Mercedes, une heure de travail coûte jusqu'à cinq fois plus en Allemagne qu'en Europe de l'Est.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/12/mercedes-benz-gele-ses-investissements-en-allemagne-et-envisage-de-fermer-des-usines",
+   "stat": {
+    "value": "x5",
+    "label": "coût horaire allemand face à l'Europe de l'Est"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · Levée",
+   "title": "OpenAI lève 15 milliards, deux fois moins qu'espéré",
+   "body": "OpenAI a levé environ 15 milliards de dollars sur la base d'une valorisation de 1 250 milliards, selon CNBC. Elle visait jusqu'à 30 milliards.",
+   "why": "Une levée de transition avant une entrée en Bourse attendue en 2027.",
+   "source": "Dealroom, d'après CNBC",
+   "url": "https://dealroom.co/news/172395-openai-raises-15b-at-a-1-25t-valuation-half-its-original-target-as-it-br/",
+   "stat": {
+    "value": "1 250 Md$",
+    "label": "la valorisation d'OpenAI"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "United · Agents IA",
+   "title": "United ferme la porte aux agents IA",
+   "body": "United Airlines va empêcher les assistants IA tiers de réserver des vols ou de gérer des réservations à la place de ses clients.",
+   "why": "La compagnie invoque des risques de cybersécurité et des règles fédérales, comme l'enregistrement qui doit être validé par un humain.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/chicago_creation/23476803-2-eng-GB/Chicago_creation.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Agile Robots · Munich",
+   "title": "SoftBank mise 500 M$ sur des humanoïdes allemands",
+   "body": "La start-up munichoise Agile Robots lève 500 millions de dollars auprès de SoftBank, Nvidia et Hitachi, ce qui la valorise 8,5 milliards.",
+   "why": "Elle veut grandir aux États-Unis et en Allemagne, où son usine peut produire 10 000 humanoïdes par an.",
+   "source": "Reuters via Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/softbank-nvidia-back-germanys-agile-robots-at-85-billion-valuation-5020769",
+   "stat": {
+    "value": "8,5 Md$",
+    "label": "la valorisation d'Agile Robots"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2015/07/southern_bavaria/15524903-1-eng-GB/Southern_Bavaria.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2015) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Humanoïdes · USA",
+   "title": "Les États-Unis pourraient produire 400 000 humanoïdes",
+   "body": "J.P. Morgan estime que la production américaine de robots humanoïdes pourrait atteindre 300 000 à 400 000 unités en 2030, puis environ 1,5 million en 2035.",
+   "why": "La pénurie de main-d'œuvre tire la demande, mais mains, actionneurs et capacités de production freinent.",
+   "source": "Reuters via Investing.com",
+   "url": "https://investing.com/news/stock-market-news/us-humanoid-robot-production-could-hit-400000-by-2030-as-deployment-ramps-jp-morgan-says-5020778",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/717489main_8347233104_093f3c4614_o_full_full.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "SpaceX · Starship",
+   "title": "Starship tente ce soir un double rattrapage",
+   "body": "Le 15e vol de Starship doit décoller du Texas ce vendredi, dans une fenêtre de 75 minutes ouverte à 23 h 45, heure de Paris.",
+   "why": "Inédit : la tour doit rattraper le propulseur, puis le vaisseau samedi, environ 22 h 30 après le décollage.",
+   "source": "Space.com",
+   "url": "https://space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+   "stat": {
+    "value": "23 h 45",
+    "label": "ouverture de la fenêtre de tir (Paris)"
+   },
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vandenberg_launches_SpaceX_Falcon_9_(181007-F-UP786-001).jpg/1600px-Vandenberg_launches_SpaceX_Falcon_9_(181007-F-UP786-001).jpg",
+    "credit": "U.S. Air Force, Tech. Sgt. Jim Araos / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "ESA · Hera",
+   "title": "Hera inspecte le site du crash de DART",
+   "body": "La sonde européenne Hera étudie désormais l'astéroïde Didymos et sa lune Dimorphos à 25-30 km de distance. Elle se rapprochera à 20 km le mois prochain.",
+   "why": "Objectif : mesurer l'effet de l'impact de DART en 2022, pour savoir un jour dévier un astéroïde menaçant.",
+   "source": "Euronews (AFP)",
+   "url": "https://fr.euronews.com/2026/11/12/la-sonde-europeenne-hera-inspecte-de-pres-lasteroide-dimorphos-pour-la-defense-planetaire",
+   "image": {
+    "url": "https://media.esa.int/global/public/common/misc/2026/10/af1-sci-261005t170516-0-didymos-1791550244.png",
+    "credit": "ESA / CC BY 4.0"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "PFAS · NIH",
+   "title": "Polluants éternels liés à des cancers du sein agressifs",
+   "body": "Une étude des NIH sur près de 3 900 Américaines associe les plus fortes expositions au PFOS et au PFOA à davantage de cancers du sein sans récepteurs d'œstrogènes.",
+   "why": "Une association, pas une preuve de causalité ; ces deux PFAS ont été en grande partie retirés du marché.",
+   "source": "ScienceDaily (NIH)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+   "stat": {
+    "value": "+93 %",
+    "label": "de cas chez les plus exposées au PFOS"
+   },
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "GTA VI · Pocketpair",
+   "title": "GTA VI : un studio offre des congés",
+   "body": "Pocketpair, le studio de Palworld, accorde à ses salariés un congé spécial du 19 au 23 novembre pour jouer à GTA VI, qui sort le 19 sur PS5 et Xbox Series.",
+   "why": "Repoussé deux fois, le jeu le plus attendu de l'année arrive dans six jours.",
+   "source": "Inven Global",
+   "url": "https://www.invenglobal.com/articles/28552/boss-what-about-us-pocketpair-grants-special-leave-for-gta-6-launch",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Bleus · Ligue des nations",
+   "title": "Les Bleus renversés par l'Italie à Milan",
+   "body": "L'équipe de France s'est inclinée 3-1 jeudi en Ligue des nations, malgré l'ouverture du score de Michael Olise dès la 10e minute.",
+   "why": "Italie et France ont 10 points, la Belgique 9 : tout se joue dimanche, avec France-Turquie à Bordeaux.",
+   "source": "AFP via Gulf News",
+   "url": "https://gulfnews.com/sport/football/england-beat-croatia-reach-nations-league-quarters-as-italy-beat-zidanes-france-1.500745715",
+   "stat": {
+    "value": "3-1",
+    "label": "Italie-France jeudi soir"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2019/05/milan_italy/19383469-1-eng-GB/Milan_Italy.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Box-office",
+   "title": "Moulin reste en tête du box-office",
+   "body": "Le film historique avec Gilles Lellouche a attiré 229 270 spectateurs en deuxième semaine, devant les nouveautés L'affaire Marie-Claire et Wild Horse Nine.",
+   "why": "Godzilla Minus Zéro et Un bon patron complètent le tableau des nouveautés, plus loin.",
+   "source": "AlloCiné",
+   "url": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000231899.html",
+   "stat": {
+    "value": "575 448",
+    "label": "entrées en deux semaines"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "10 h",
+     "Rapport mensuel de l'AIE sur le marché du pétrole"
+    ],
+    [
+     "14 h 30",
+     "Prix à la production américains d'octobre"
+    ],
+    [
+     "23 h 45",
+     "Décollage visé de Starship pour un double rattrapage"
+    ]
+   ]
+  }
+ ]
+}
