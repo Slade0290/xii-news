@@ -1,0 +1,288 @@
+{
+ "dateLabel": "Samedi 14 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Chine · APEC",
+   "title": "Trump, Xi et Poutine réunis jeudi en Chine",
+   "body": "La Maison Blanche annonce une rencontre à trois le 19 novembre à Shenzhen, en marge de l'APEC. Au menu : le désarmement nucléaire et la guerre en Iran.",
+   "why": "Selon Washington, l'Ukraine ne sera pas abordée et aucun tête-à-tête Trump-Poutine n'est prévu.",
+   "source": "Reuters (via Boursorama)",
+   "url": "https://boursorama.com/actualite-economique/actualites/trump-rencontrera-poutine-et-xi-en-chine-dit-la-maison-blanche-bc3ca20e9030e4153a0bdb174ff320ad",
+   "stat": {
+    "value": "19 nov.",
+    "label": "sommet à trois à Shenzhen"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/02/the-cities-of-southeast-china-glitter-brightly-49644009528-o.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine · Europe",
+   "title": "L'Europe s'invite aux pourparlers sur l'Ukraine",
+   "body": "L'Europe sera représentée au prochain round, attendu la semaine prochaine à Abu Dhabi, par le groupe E5 (Royaume-Uni, France, Allemagne, Italie, Pologne) et les institutions de l'UE.",
+   "why": "Le Kremlin n'a pas confirmé et dit attendre des gages européens.",
+   "source": "RTÉ",
+   "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/abu_dhabi/22040628-1-eng-GB/Abu_Dhabi.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · Bahreïn",
+   "title": "Bahreïn : deux drones iraniens abattus",
+   "body": "Les Gardiens de la révolution disent avoir détruit un radar américain à Bahreïn, en riposte à une frappe sur le port iranien de Sirik. L'armée américaine affirme avoir abattu deux drones.",
+   "why": "Bahreïn abrite la 5e flotte américaine : la tension remonte dans le Golfe.",
+   "source": "AP",
+   "url": "https://www.stuff.co.nz/world-news/361059295/us-military-downs-2-iranian-attack-drones-iran-claims-s",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/11/the_gulf/18905683-2-eng-GB/The_Gulf.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Taïwan · Chine",
+   "title": "Taïwan dénonce une « intimidation silencieuse »",
+   "body": "Selon Taipei, la Chine a massé à un moment plus de 100 navires militaires et garde-côtes autour de l'île et dans le Pacifique ouest, lors d'exercices non annoncés.",
+   "why": "Ces manœuvres précèdent le sommet de l'APEC, que Pékin accueille à Shenzhen.",
+   "source": "Taipei Times",
+   "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710",
+   "stat": {
+    "value": "100+",
+    "label": "navires chinois massés selon Taïwan"
+   },
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss072e435710/iss072e435710~large.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine · Kyiv",
+   "title": "Kyiv : un institut de traumatologie touché",
+   "body": "Lors d'une attaque russe dans la nuit de jeudi, des débris de drone ont incendié l'Institut de traumatologie de Kyiv : 3 blessés, 30 personnes évacuées.",
+   "why": "Les frappes continuent malgré la relance des négociations.",
+   "source": "The Kyiv Independent",
+   "url": "https://kyivindependent.com/3-injured-dozens-evacuated-after-russian-drone-damages-kyiv-medical-facility-in-overnight-attack/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/12/kyiv_ukraine/22370879-3-eng-GB/Kyiv_Ukraine.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Eramet · État",
+   "title": "L'État devient premier actionnaire d'Eramet",
+   "body": "Le groupe minier lance une augmentation de capital d'environ 500 M€, souscrite à 64 % par l'Agence des participations de l'État. L'action a perdu 10,6 % vendredi.",
+   "why": "Paris veut sécuriser l'accès aux métaux critiques : manganèse, nickel, lithium.",
+   "source": "AFP (via Boursorama)",
+   "url": "https://www.boursorama.com/bourse/actualites/eramet-lance-son-augmentation-de-capital-au-terme-de-laquelle-l-etat-va-devenir-premier-actionnaire-c00669ea1f6729b7aea6f3b8d2b7a7d1",
+   "stat": {
+    "value": "500 M€",
+    "label": "levée ouverte du 18 au 27 novembre"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2026/04/earth_from_space_land_of_rainforests/27206991-1-eng-GB/Earth_from_Space_Land_of_rainforests.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2025) / CC BY 4.0"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Microsoft · Panne",
+   "title": "Microsoft : une panne mondiale de 18 heures",
+   "body": "Outlook, Teams, Copilot et des outils de sécurité sont tombés à partir de jeudi, d'abord aux Amériques puis dans le monde. Le service revenait peu à peu vendredi.",
+   "why": "Microsoft évoque des serveurs devenus indisponibles et exclut toute attaque.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Allemagne · Nucléaire",
+   "title": "Berlin lorgne un tiers d'Urenco",
+   "body": "Le gouvernement allemand envisage de racheter la part d'un tiers que détiennent RWE et E.ON dans Urenco, le spécialiste de l'enrichissement d'uranium basé à Londres.",
+   "why": "Un actif stratégique pour l'approvisionnement des centrales européennes.",
+   "source": "Reuters (via MarketScreener)",
+   "url": "https://www.marketscreener.com/news/germany-eyes-rwe-e-on-s-stakes-in-nuclear-firm-urenco-newspapers-say-ce785ed9df88f32c"
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · ChatGPT",
+   "title": "ChatGPT peut maintenant payer vos achats",
+   "body": "OpenAI lance Wallet : ses agents choisissent les articles et passent commande, après validation par Face ID ou empreinte. Réservé pour l'instant à une partie des abonnés Pro aux États-Unis.",
+   "why": "Le shopping délégué à l'IA arrive, alors qu'Amazon interdit les agents sur son site.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Justice · IA",
+   "title": "Des ONG veulent geler l'IA de pointe",
+   "body": "Public Citizen et trois autres associations attaquent OpenAI, Google, Anthropic, Meta et l'IA de SpaceX devant un tribunal de San Francisco.",
+   "why": "Elles demandent d'interdire tout modèle plus puissant que les plus avancés actuels.",
+   "source": "Just Security",
+   "url": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/"
+  },
+  {
+   "cat": "ia",
+   "kicker": "LangChain · Levée",
+   "title": "LangChain valorisée 3 milliards de dollars",
+   "body": "La start-up d'outils pour agents IA lève 300 M$ en série C, menée par CapitalG, avec GIC, IVP et Sapphire Ventures.",
+   "why": "Les briques logicielles des agents IA attirent les gros chèques.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "stat": {
+    "value": "3 Md$",
+    "label": "valorisation de LangChain"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "ASUS · Usines",
+   "title": "ASUS confie l'emballage à un robot",
+   "body": "ASUS présente Gallop, un robot à deux bras qui emballe 15 types d'accessoires de cartes mères. Objectif : 99,5 % de réussite en 20 secondes, le rythme d'un ouvrier.",
+   "why": "Pilotes chez des clients en 2027, commercialisation visée fin 2028.",
+   "source": "Interesting Engineering",
+   "url": "https://interestingengineering.com/ai-robotics/asus-gallop-humanoid-robot-unveiled",
+   "stat": {
+    "value": "99,5 %",
+    "label": "taux de réussite visé"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/717489main_8347233104_093f3c4614_o_full_full.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "SpaceX · Starship",
+   "title": "Starship en orbite, le booster explose en mer",
+   "body": "Le vol 15 a placé le vaisseau en orbite et déployé 26 satellites Starlink. Le rattrapage du booster a été annulé : il a fini dans le golfe du Mexique.",
+   "why": "Ce soir vers 22h15 (Paris), SpaceX tente une première : rattraper le vaisseau avec la tour.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+   "stat": {
+    "value": "26",
+    "label": "satellites Starlink V3 déployés"
+   },
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SpaceX_Starship_ignition_during_IFT-5.jpg/1600px-SpaceX_Starship_ignition_during_IFT-5.jpg",
+    "credit": "Steve Jurvetson / CC BY 2.0 via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel · Léonides",
+   "title": "Les Léonides culminent mardi soir",
+   "body": "Le pic de cette pluie d'étoiles filantes est attendu dans la nuit du 17 au 18 novembre, vers 0h45 en France, avec jusqu'à 15 météores par heure.",
+   "why": "Mieux vaut observer après le coucher de la Lune, avant l'aube du 18.",
+   "source": "Star Walk",
+   "url": "https://starwalk.space/fr/news/leonid-meteor-shower"
+  },
+  {
+   "cat": "science",
+   "kicker": "Soleil · Terre",
+   "title": "Tempête solaire : la Terre a aggravé le choc",
+   "body": "Pendant la tempête géante de mai 2024, 85 % des ions mesurés par le satellite japonais Arase venaient de l'atmosphère terrestre, pas du vent solaire.",
+   "why": "Les prévisions, centrées sur le Soleil, pourraient sous-estimer les tempêtes extrêmes.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+   "stat": {
+    "value": "85 %",
+    "label": "des ions venaient de notre atmosphère"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss066e023536.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Game Awards",
+   "title": "Game Awards : GTA VI dans la course",
+   "body": "Les nommés des Game Awards 2026 seront dévoilés mardi 17 novembre. GTA VI, attendu le 19, est éligible : la date limite est le 20 novembre.",
+   "why": "La cérémonie aura lieu le 10 décembre à Los Angeles.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/04/earth_from_space_blooming_california/24853620-1-eng-GB/Earth_from_Space_Blooming_California.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2023) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Rockstar · Syndicat",
+   "title": "Rockstar : 1 600 salariés votent un syndicat",
+   "body": "Les employés britanniques de Rockstar votent jusqu'au 26 novembre sur la reconnaissance du syndicat IWGB, en pleine sortie de GTA VI.",
+   "why": "Ce serait le plus grand syndicat reconnu du jeu vidéo au Royaume-Uni.",
+   "source": "The Register",
+   "url": "https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319"
+  },
+  {
+   "cat": "sport",
+   "kicker": "XV de France",
+   "title": "Les Bleus font tomber les Springboks",
+   "body": "Au Stade de France, le XV de France bat l'Afrique du Sud, championne du monde, avec des essais de Grandidier-Nkanang, Attisogbe et Bielle-Biarrey.",
+   "why": "Les Bleus mettent un pied en finale du Championnat des nations.",
+   "source": "RTÉ",
+   "url": "https://www.rte.ie/sport/rugby/2026/1113/1599077-dupont-guides-france-to-nail-biting-win-over-south-africa/",
+   "stat": {
+    "value": "21-19",
+    "label": "France - Afrique du Sud"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Tennis · Turin",
+   "title": "Arthur Fils découvre les ATP Finals",
+   "body": "Le Masters débute dimanche à Turin. Pour sa première participation, Fils est versé dans le groupe de Zverev, Shelton et Jodar.",
+   "why": "Le double Arribagé-Olivetti est aussi qualifié.",
+   "source": "FFT",
+   "url": "https://www.fft.fr/actualites/masters-atp-finals-arthur-fils-olivetti-arribage-tirage-sort-poules-turin"
+  },
+  {
+   "cat": "culture",
+   "kicker": "Musique · U2",
+   "title": "U2 sort son premier album en neuf ans",
+   "body": "« Carnaval De Luz », 16e album studio du groupe, est sorti vendredi. Produit par Jacknife Lee, il compte Brian Eno et Martin Garrix parmi ses collaborateurs.",
+   "why": "Un retour l'année des 50 ans du groupe irlandais.",
+   "source": "U2.com",
+   "url": "https://www.u2.com/blogs/news/out-now-1",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/12/dublin_ireland/24642724-2-eng-GB/Dublin_Ireland.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "22h15",
+     "Starship : tentative de rattrapage du vaisseau par la tour"
+    ],
+    [
+     "Demain",
+     "Début des ATP Finals à Turin avec Arthur Fils"
+    ],
+    [
+     "Jeudi",
+     "Sommet Trump-Xi-Poutine à Shenzhen"
+    ]
+   ]
+  }
+ ]
+}
