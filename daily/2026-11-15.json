@@ -1,0 +1,190 @@
+{
+  "dateLabel": "Dimanche 15 novembre 2026",
+  "slides": [
+    {
+      "cat": "breaking",
+      "kicker": "Iran · Ormuz",
+      "title": "Trois pétroliers en feu dans le détroit d'Ormuz",
+      "body": "Selon la marine iranienne, trois pétroliers ont pris feu samedi après avoir heurté des mines. L'un a été touché le matin dans l'est du détroit, deux autres plus tard.",
+      "why": "Téhéran restreint le passage sur cette route pétrolière clé ; Reuters n'a pas pu vérifier ces affirmations.",
+      "source": "Reuters (via ThePrint)",
+      "url": "https://theprint.in/world/three-tankers-aflame-in-the-strait-of-hormuz-after-hitting-mines-says-iranian-navy/3099100/",
+      "stat": {"value": "3", "label": "pétroliers touchés par des mines samedi"},
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/05/qeshm_island_iran/23301805-2-eng-GB/Qeshm_Island_Iran.jpg", "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "breaking",
+      "kicker": "États-Unis · Aérien",
+      "title": "Plus de 6 100 vols annulés aux États-Unis",
+      "body": "Après l'arrêt national de plus de quatre heures vendredi, le chaos a continué samedi. American, United, Delta et JetBlue ont supprimé une large part de leurs vols.",
+      "why": "Le régulateur FAA espère un retour à la normale d'ici la fin de dimanche.",
+      "source": "Reuters (via ThePrint)",
+      "url": "https://theprint.in/world/us-flight-chaos-spills-into-weekend-after-four-hour-stoppage/3099149/",
+      "stat": {"value": "6 100+", "label": "vols annulés, selon FlightAware samedi soir"},
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/chicago_creation/23476803-2-eng-GB/Chicago_creation.jpg", "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "geo",
+      "kicker": "Gaza",
+      "title": "Un chef militaire du Hamas tué à Gaza",
+      "body": "Samir Abu Younis, commandant de la brigade de Rafah, a été tué dans une frappe israélienne à Khan Younès. Le Hamas et l'armée israélienne ont confirmé sa mort.",
+      "why": "Malgré le cessez-le-feu d'octobre 2025, les frappes israéliennes se poursuivent dans l'enclave.",
+      "source": "Reuters (via ThePrint)",
+      "url": "https://theprint.in/world/senior-hamas-commander-killed-in-israeli-strike-in-gaza/3099206/",
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2011/03/middle_eastern_terrain/9737505-3-eng-GB/Middle_Eastern_terrain.jpg", "credit": "ESA / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "geo",
+      "kicker": "Arabie saoudite",
+      "title": "Riyad visée par deux missiles houthis",
+      "body": "La coalition menée par l'Arabie saoudite dit avoir intercepté deux missiles balistiques visant Riyad et trois drones dans la province orientale.",
+      "why": "Les Houthis multiplient les attaques contre la capitale et les sites pétroliers du royaume.",
+      "source": "Reuters (via ThePrint)",
+      "url": "https://theprint.in/world/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province/3099074/",
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2024/10/earth_from_space_riyadh_saudi_arabia/26376673-1-eng-GB/Earth_from_Space_Riyadh_Saudi_Arabia.jpg", "credit": "ESA (données Copernicus Sentinel 2024) / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "geo",
+      "kicker": "Asie · ASEAN",
+      "title": "Manille accueille le sommet de l'ASEAN",
+      "body": "Le 49e sommet de l'ASEAN se tient du 15 au 17 novembre à Manille. Donald Trump est attendu le 17 pour un sommet spécial ASEAN-États-Unis.",
+      "why": "Lula, Carney, Albanese et Guterres sont déjà sur place, Modi et Takaichi arrivent lundi.",
+      "source": "ANI (via ThePrint)",
+      "url": "https://theprint.in/world/manila-turns-into-global-diplomatic-epicentre-as-world-leaders-gather-for-49th-asean-summit/3099115"
+    },
+    {
+      "cat": "biz",
+      "kicker": "MSC · Meyer Werft",
+      "title": "MSC sur le point d'avaler Meyer Werft",
+      "body": "L'armateur genevois MSC est proche d'un accord pour reprendre environ 80 % du chantier naval allemand, détenus par l'État fédéral et la Basse-Saxe depuis son sauvetage fin 2024.",
+      "why": "Selon Der Spiegel, la signature pourrait intervenir dès mardi.",
+      "source": "Reuters (via gCaptain)",
+      "url": "https://gcaptain.com/msc-nears-deal-to-buy-majority-stake-in-german-shipyard-meyer-werft/",
+      "stat": {"value": "80 %", "label": "du capital visé par MSC"},
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2009/09/wadden_sea/9987732-2-eng-GB/Wadden_Sea.jpg", "credit": "ESA / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "biz",
+      "kicker": "Télécoms · Pérou",
+      "title": "Millicom rachète Entel Pérou",
+      "body": "Le groupe télécom Millicom (marque Tigo) s'offre Entel Pérou pour 1,714 milliard de dollars, dettes locatives comprises. La clôture est attendue début décembre.",
+      "why": "Tigo étend sa présence en Amérique latine.",
+      "source": "Millicom (communiqué via The Manila Times)",
+      "url": "https://manilatimes.net/2026/11/14/tmt-newswire/globenewswire/millicom-tigo-signs-agreement-to-acquire-entel-peru-expanding-its-presence-across-latin-america/2469873",
+      "stat": {"value": "1,7 Md$", "label": "prix d'Entel Pérou"}
+    },
+    {
+      "cat": "ia",
+      "kicker": "Take-Two · GTA",
+      "title": "Le patron de GTA tacle OpenAI et Anthropic",
+      "body": "Interrogé par IGN, Strauss Zelnick (Take-Two) juge « ironique » que des entreprises d'IA, elles-mêmes bâties sur leur propriété intellectuelle, laissent copier des jeux existants.",
+      "why": "À quatre jours de GTA VI, l'éditeur veut protéger son jeu des clones générés par IA.",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-take-two-ceo-calls-out-anthropic-and-openai-over-ai-game-clones-as-its-ironic-to-stomp-on-someone-elses-ip/",
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg", "credit": "ESA (données Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "ia",
+      "kicker": "Nvidia · Congrès",
+      "title": "Le Sénat convoque Jensen Huang",
+      "body": "Le président de la commission bancaire du Sénat demande à l'ex-patron de Nvidia et au secrétaire au Commerce Howard Lutnick de témoigner en décembre.",
+      "why": "Le Congrès veut comprendre les liens présumés de Huang avec une espionne chinoise présumée.",
+      "source": "AFP (via The Manila Times)",
+      "url": "https://www.manilatimes.net/2026/11/14/world/americas-emea/us-lawmakers-summon-nvidia-ex-chief-huang/2469538",
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg", "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "robot",
+      "kicker": "Allemagne · Énergie",
+      "title": "Des humanoïdes pour surveiller le réseau électrique",
+      "body": "Neura Robotics s'allie à E.ON et enviaM pour former son robot 4NE1 à l'inspection de postes électriques, au TUM RoboGym de l'aéroport de Munich.",
+      "why": "Les premiers essais sur le terrain sont prévus en 2027.",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/11/14/neura-robotics-partners-with-e-on-to-bring-humanoid-robots-to-energy-infrastructure/107100",
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2015/07/southern_bavaria/15524903-1-eng-GB/Southern_Bavaria.jpg", "credit": "ESA (données Copernicus Sentinel 2015) / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "space",
+      "kicker": "SpaceX · Starship",
+      "title": "Starship rattrapé par sa tour, une première",
+      "body": "Samedi vers 22h20 (Paris), le vaisseau Starship a été saisi par les bras de sa tour au Texas après 22 heures et demie de vol et le largage de 26 satellites Starlink.",
+      "why": "Le booster, lui, a renoncé à sa capture et fini dans le golfe du Mexique.",
+      "source": "Space.com",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+      "stat": {"value": "22 h 30", "label": "de vol avant la capture"},
+      "image": {"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SpaceX_Starship_ignition_during_IFT-5.jpg/1600px-SpaceX_Starship_ignition_during_IFT-5.jpg", "credit": "Steve Jurvetson / CC BY 2.0 via Wikimedia Commons"}
+    },
+    {
+      "cat": "space",
+      "kicker": "Système solaire",
+      "title": "Une possible planète naine au-delà de Pluton",
+      "body": "L'objet glacé 2026 ED138, repéré par l'astrophysicien Matthew Holman, mesurerait 600 à 1 500 km et orbite à environ 46 unités astronomiques du Soleil.",
+      "why": "Il pourrait devenir la sixième planète naine reconnue.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+    },
+    {
+      "cat": "science",
+      "kicker": "Santé · Alzheimer",
+      "title": "Le cerveau trahit Alzheimer des années avant",
+      "body": "Des chercheurs de Stanford ont créé un score fondé sur l'IRM fonctionnelle de repos. Testé sur plus de 1 300 adultes de 55 à 70 ans, il prédit le déclin cognitif.",
+      "why": "Ce n'est pas un outil de diagnostic, préviennent les auteurs, mais une piste de dépistage précoce.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "stat": {"value": "85 %", "label": "de précision pour distinguer les deux groupes"},
+      "image": {"url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg", "credit": "USGS / domaine public"}
+    },
+    {
+      "cat": "games",
+      "kicker": "Rockstar · GTA VI",
+      "title": "GTA VI débarque jeudi sur consoles",
+      "body": "Le jeu sort le 19 novembre sur PS5 et Xbox Series X|S, avec un déblocage attendu à minuit. Le préchargement est ouvert et le jeu pèse jusqu'à 212 Go.",
+      "why": "C'est la sortie la plus attendue de l'histoire du jeu vidéo ; la version PC n'est pas datée.",
+      "source": "Journal du Geek",
+      "url": "https://www.journaldugeek.com/2026/11/03/gta-6-date-du-prechargement-poids-du-jeu-et-heure-de-sortie-voici-quand-vous-pourrez-vraiment-y-jouer/",
+      "stat": {"value": "212 Go", "label": "taille maximale du téléchargement"},
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg", "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "sport",
+      "kicker": "Bleus · Ligue des nations",
+      "title": "Les Bleus doivent rebondir ce soir",
+      "body": "Battue 3-1 en Italie jeudi, la France de Zinédine Zidane reçoit la Turquie à 20h45 à Bordeaux, pour la dernière journée de groupe.",
+      "why": "Un match décisif pour la qualification en quarts de finale.",
+      "source": "Équipe de France",
+      "url": "https://www.equipe-france.fr/football/masculin/ligue-des-nations-de-l-uefa-2026-2027/6e-journee-de-groupe-france-turquie",
+      "stat": {"value": "20h45", "label": "coup d'envoi de France-Turquie (TF1)"},
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/11/bordeaux_in_big/26970392-1-eng-GB/Bordeaux_in_big.png", "credit": "ESA/NASA–T. Pesquet/W. Harald / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "sport",
+      "kicker": "Ski alpin · Levi",
+      "title": "Chevrier et Lamure dans le top 7",
+      "body": "L'Allemande Emma Aicher a gagné samedi le slalom de Levi (Finlande). Marion Chevrier finit 6e et Marie Lamure 7e.",
+      "why": "Un bon début de saison pour le slalom féminin français.",
+      "source": "Ski-Nordique.net",
+      "url": "https://www.ski-nordique.net/?id=6756664",
+      "list": [["1re", "Emma Aicher (ALL)"], ["6e", "Marion Chevrier (+1,23 s)"], ["7e", "Marie Lamure (+1,49 s)"]]
+    },
+    {
+      "cat": "culture",
+      "kicker": "Ciné · Mercredi",
+      "title": "Hunger Games revient au cinéma mercredi",
+      "body": "« Hunger Games : Lever de soleil sur la moisson » de Francis Lawrence sort le 18 novembre, avec « Les Braves » de Lukas Dhont et « Malika » de Mounia Meddour.",
+      "why": "Une grosse semaine de sorties avant les fêtes.",
+      "source": "AlloCiné",
+      "url": "https://www.allocine.fr/film/agenda/sem-2026-11-18/",
+      "image": {"url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg", "credit": "ESA / CC BY-SA 3.0 IGO"}
+    },
+    {
+      "cat": "watch",
+      "kicker": "À surveiller aujourd'hui",
+      "title": "Dans la journée",
+      "list": [
+        ["14h", "MotoGP : Grand Prix du Portugal, avec Quartararo et Zarco (Canal+)"],
+        ["Turin", "Début des ATP Finals, avec Arthur Fils"],
+        ["20h45", "France-Turquie à Bordeaux, Ligue des nations (TF1)"]
+      ]
+    }
+  ]
+}
