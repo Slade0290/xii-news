@@ -38,9 +38,15 @@ class IGError(Exception):
     pass
 
 
+RATE_CODES = (4, 17, 32, 613)       # quotas d'appels Meta (app, utilisateur, page) : ils se libèrent sur une heure glissante
+RATE_WAITS = [60, 180, 300, 600]     # attentes (s) quand un quota est atteint, environ 19 min au total
+TRANSIENT_WAITS = [10, 20, 30, 40]   # attentes (s) pour les autres erreurs passagères
+
+
 def call(method, path, **params):
     params["access_token"] = TOKEN
-    for attempt in range(4):
+    for attempt in range(len(RATE_WAITS) + 1):
+        rate = False
         try:
             r = requests.request(method, API + path, params=params if method == "GET" else None,
                                  data=params if method == "POST" else None, timeout=60)
@@ -52,11 +58,15 @@ def call(method, path, **params):
                 return body
             e = body.get("error", {})
             err = f"{r.status_code} {e.get('type', '')} code={e.get('code')} {e.get('message', r.text[:300])}"
-            transient = r.status_code >= 500 or e.get("is_transient") or e.get("code") in (1, 2, 4, 17, 32, 613)
+            rate = e.get("code") in RATE_CODES
+            transient = rate or r.status_code >= 500 or e.get("is_transient") or e.get("code") in (1, 2)
             if not transient:
                 raise IGError(err)
-        wait = 10 * (attempt + 1)
-        print(f"  erreur passagère ({err}), nouvel essai dans {wait} s")
+        if attempt >= len(RATE_WAITS):
+            break
+        wait = RATE_WAITS[attempt] if rate else TRANSIENT_WAITS[attempt]
+        kind = "quota d'appels Meta atteint" if rate else "erreur passagère"
+        print(f"  {kind} ({err}), nouvel essai dans {wait} s")
         time.sleep(wait)
     raise IGError(err)
 
@@ -88,14 +98,15 @@ def find_account():
 
 
 def wait_ready(container_id, label):
-    for _ in range(60):
+    # Vérification espacée (toutes les 15 s) pour ménager le quota d'appels de l'app Meta.
+    for _ in range(20):
         st = call("GET", container_id, fields="status_code,status").get("status_code")
         if st == "FINISHED":
             return
         if st in ("ERROR", "EXPIRED"):
             raise IGError(f"Instagram a refusé {label} (statut {st}). Vérifie que l'image est un JPEG accessible publiquement.")
-        time.sleep(3)
-    raise IGError(f"{label} : Instagram n'a pas fini de traiter l'image après 3 minutes")
+        time.sleep(15)
+    raise IGError(f"{label} : Instagram n'a pas fini de traiter l'image après 5 minutes")
 
 
 def publish_container(ig_id, container_id):
@@ -104,7 +115,7 @@ def publish_container(ig_id, container_id):
             return call("POST", f"{ig_id}/media_publish", creation_id=container_id)["id"]
         except IGError as e:
             if "9007" in str(e) or "not ready" in str(e).lower():
-                time.sleep(5)
+                time.sleep(15)
                 continue
             raise
     raise IGError("publication refusée : le contenu n'était toujours pas prêt")
@@ -152,6 +163,7 @@ def main():
             c = call("POST", f"{ig_id}/media", image_url=url(f), is_carousel_item="true")["id"]
             children.append(c)
             print(f"  image {i}/{len(man['carousel'])} envoyée")
+        time.sleep(10)
         for i, c in enumerate(children, 1):
             wait_ready(c, f"l'image {i} du carrousel")
         parent = call("POST", f"{ig_id}/media", media_type="CAROUSEL", children=",".join(children),
@@ -185,6 +197,7 @@ def main():
         if i < len(done):
             continue
         c = call("POST", f"{ig_id}/media", media_type="STORIES", image_url=url(f))["id"]
+        time.sleep(5)
         wait_ready(c, f"la story {i + 1}")
         done.append(publish_container(ig_id, c))
         save()
