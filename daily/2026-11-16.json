@@ -1,0 +1,283 @@
+{
+ "dateLabel": "Lundi 16 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Chine · USA · Russie",
+   "title": "Sommet inédit Xi-Trump-Poutine jeudi à Shenzhen",
+   "body": "Pékin a confirmé lundi que Xi Jinping réunira Vladimir Poutine et Donald Trump le 19 novembre à Shenzhen, en marge de l'APEC. Ce serait leur premier sommet à trois.",
+   "why": "Trump veut parler réduction des arsenaux nucléaires ; selon Washington, l'Ukraine ne devrait pas être au menu.",
+   "source": "AFP (via The Korea Times)",
+   "url": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
+   "stat": {
+    "value": "19 nov.",
+    "label": "date du premier sommet à trois"
+   },
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/02/the-cities-of-southeast-china-glitter-brightly-49644009528-o.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Estonie · Russie",
+   "title": "L'Estonie va fermer sa frontière avec la Russie",
+   "body": "Tous les points de passage seront fermés à partir du 1er décembre. Samedi, une tentative d'incendie visant une usine de drones près de Tallinn a été déjouée ; huit personnes ont été arrêtées.",
+   "why": "Le Premier ministre estonien y voit un épisode de la guerre hybride russe contre l'Europe.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/15/lestonie-denonce-une-tentative-dincendie-dune-usine-de-drones-orchestree-par-moscou-et-fer",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/tallinn_estonia/24383281-1-eng-GB/Tallinn_Estonia.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Tchéquie · Médias",
+   "title": "Prague descend dans la rue pour ses médias publics",
+   "body": "Dimanche, une foule estimée par les médias entre 350 000 et 400 000 personnes a envahi la plaine de Letná contre la réforme du financement de la télévision et de la radio publiques.",
+   "why": "Le gouvernement Babiš veut remplacer la redevance par le budget de l'État ; les opposants craignent pour l'indépendance des rédactions.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/15/des-dizaines-de-milliers-de-personnes-a-prague-contre-la-politique-mediatique-du-gouvernem",
+   "stat": {
+    "value": "350 000+",
+    "label": "manifestants à Prague, selon les médias"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/prague_czech_republic/24383011-1-eng-GB/Prague_Czech_Republic.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Cap-Vert · Élection",
+   "title": "José Maria Neves réélu au Cap-Vert",
+   "body": "Selon les résultats provisoires rapportés par l'agence Lusa, le président sortant obtient 63,8 % des voix dès le premier tour. Sa rivale Joana Rosa a reconnu sa défaite.",
+   "why": "L'abstention atteint environ 68 %, contre 52 % en 2021.",
+   "source": "Lusa (via Observador)",
+   "url": "https://observador.pt/2026/11/15/joana-rosa-reconhece-derrota-eleitoral-nas-presidenciais-de-cabo-verde/",
+   "stat": {
+    "value": "63,8 %",
+    "label": "des voix pour Neves (résultats provisoires)"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/06/cabo_verde/17540755-1-eng-GB/Cabo_Verde.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "UE · Méditerranée",
+   "title": "L'UE arraisonne un pétrolier de la flotte fantôme",
+   "body": "Des militaires de l'opération européenne Irini sont montés à bord du MV Midag, soupçonné d'appartenir à la flotte fantôme russe et naviguant sous faux pavillon, a annoncé Kaja Kallas dimanche.",
+   "why": "Les ministres européens des Affaires étrangères doivent approuver lundi de nouvelles sanctions contre cette flotte.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/15/un-petrolier-de-la-flotte-fantome-russe-arraisonne-en-mediterranee"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Japon · Économie",
+   "title": "L'économie japonaise recule légèrement",
+   "body": "Le PIB du Japon a reculé de 0,1 % en rythme annualisé de juillet à septembre, selon des données préliminaires publiées lundi. La consommation a baissé, plombée par la météo et les prix.",
+   "why": "Le pétrole cher, lié à la guerre en Iran, et un yen proche de 160 pour un dollar pèsent sur le pays.",
+   "source": "AP (via WKMG)",
+   "url": "https://www.clickorlando.com/business/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high/",
+   "stat": {
+    "value": "-0,1 %",
+    "label": "PIB annualisé, juillet-septembre"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/02/earth_from_space_tokyo_japan/26591205-1-eng-GB/Earth_from_Space_Tokyo_Japan.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2024) / CC BY 4.0"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "SK hynix · Puces",
+   "title": "SK hynix ouvre une salle blanche aux fournisseurs",
+   "body": "Le géant coréen des mémoires construit à Yongin « Trinity Fab », un banc d'essai de 3 305 m² où les PME testeront leurs matériaux et machines. Coût : 874,6 milliards de wons.",
+   "why": "L'objectif affiché est de réduire d'au moins 30 % le délai de mise sur le marché des équipements coréens.",
+   "source": "Korea JoongAng Daily",
+   "url": "https://www.koreajoongangdaily.com/business/inside-sk-hynixs-655-million-chip-test-bed/12971453",
+   "stat": {
+    "value": "655 M$",
+    "label": "coût du projet, partagé avec l'État"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Pax Silica · Alliés",
+   "title": "Dix pays s'unissent pour protéger l'IA",
+   "body": "Les États-Unis, la Corée du Sud, le Japon, l'Inde, le Royaume-Uni et cinq autres pays ont adopté dimanche la Déclaration de San Francisco pour protéger les technologies d'IA et leurs chaînes d'approvisionnement.",
+   "why": "Le texte, vu comme une réponse à la Chine, précède la rencontre Trump-Xi ; l'Allemagne, les Pays-Bas et la Suède doivent signer cette semaine.",
+   "source": "Korea JoongAng Daily",
+   "url": "https://www.koreajoongangdaily.com/korea/seoul-joins-usled-ai-pact-as-washington-rallies-allies-before-trumpxi-talks/12974938",
+   "stat": {
+    "value": "10",
+    "label": "pays signataires dès dimanche"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Apple · Santé",
+   "title": "Apple teste l'IA comme conseillère santé",
+   "body": "Apple a lancé aux États-Unis une app d'étude avec OpenEvidence : jusqu'à 200 000 utilisateurs d'iPhone évalueront pendant plus d'un an des réponses santé générées par IA.",
+   "why": "Apple assure que les données seront anonymisées et ne serviront pas à entraîner des modèles.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "stat": {
+    "value": "200 000",
+    "label": "participants visés, sur 12 mois et plus"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "LG · Corée du Sud",
+   "title": "LG prépare la certification de ses humanoïdes",
+   "body": "LG Electronics a signé avec l'institut public coréen KIRIA un accord pour bâtir des tests de sécurité, de fiabilité et de facilité d'usage des robots humanoïdes.",
+   "why": "LG vise une certification pilote pour son robot CLOiD et dévoilera un humanoïde bipède début 2027.",
+   "source": "Aju Press",
+   "url": "https://www.ajupress.com/view/20261116102248628",
+   "image": {
+    "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/04/earth_from_space_seoul_south_korea/24817240-1-eng-GB/Earth_from_Space_Seoul_South_Korea.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2023) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Chine · Foshan",
+   "title": "Une usine chinoise vise 10 000 humanoïdes par an",
+   "body": "À Foshan, Leju Robotics et Dongfang Precision assemblent trois modèles d'humanoïdes dans une usine de 15 000 m² ouverte en mars 2026.",
+   "why": "Le défi n'est plus de fabriquer un robot, mais d'en produire des milliers au même standard.",
+   "source": "CNN (via WKMG)",
+   "url": "https://www.clickorlando.com/news/2026/11/15/inside-the-chinese-factory-building-humanoid-robots-for-the-world/",
+   "stat": {
+    "value": "10 000",
+    "label": "robots par an visés à terme"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "ULA · Amazon",
+   "title": "Échec de Vulcan : 40 satellites Amazon perdus",
+   "body": "Lancée dimanche de Cap Canaveral, la fusée Vulcan de ULA a subi une anomalie environ 10 minutes après le décollage et n'a pas atteint l'orbite avec ses 40 satellites Amazon Leo.",
+   "why": "C'est le premier échec total de ULA depuis sa création en 2006 ; Vulcan devrait être clouée au sol.",
+   "source": "Spaceflight Now",
+   "url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+   "stat": {
+    "value": "40",
+    "label": "satellites Amazon Leo perdus"
+   },
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vulcan_Centaur_rollout_(Peregrine).jpg/1600px-Vulcan_Centaur_rollout_(Peregrine).jpg",
+    "credit": "NASA / Ben Smegelsky / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel · Léonides",
+   "title": "Pluie d'étoiles filantes dans la nuit de mardi",
+   "body": "Les Léonides culminent dans la nuit du 17 au 18 novembre, vers 0 h 45 heure de Paris selon l'IMO : jusqu'à 15 météores par heure en conditions idéales.",
+   "why": "Le mieux : observer après le coucher de la Lune et avant l'aube du 18, à l'œil nu.",
+   "source": "Star Walk",
+   "url": "https://starwalk.space/fr/news/leonid-meteor-shower",
+   "list": [
+    [
+     "Pic",
+     "Nuit du 17 au 18 nov., vers 0 h 45"
+    ],
+    [
+     "Taux",
+     "Jusqu'à 15 par heure"
+    ],
+    [
+     "Où",
+     "Vers la constellation du Lion"
+    ]
+   ]
+  },
+  {
+   "cat": "science",
+   "kicker": "France · Fertilité",
+   "title": "L'Assurance maladie écrit aux Français de 29 ans",
+   "body": "Tous les Français de 29 ans doivent recevoir d'ici fin novembre un message sur leur compte ameli sur la fertilité, la consultation préconceptionnelle et l'autoconservation des gamètes.",
+   "why": "Selon le gouvernement, 15 à 25 % des couples qui veulent un enfant rencontrent des difficultés.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/03/fertilite-le-gouvernement-lance-une-campagne-dinformation-aupres-des-francais-de-29-ans",
+   "stat": {
+    "value": "15-25 %",
+    "label": "des couples ont du mal à concevoir"
+   },
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Xbox · Anniversaire",
+   "title": "La Xbox fête ses 25 ans",
+   "body": "La première Xbox est sortie le 15 novembre 2001 en Amérique du Nord. Microsoft marque l'anniversaire avec un magazine numérique sur 25 ans de jeux et les titres à venir.",
+   "why": "Le cap tombe à quatre jours de la sortie de GTA VI, attendu jeudi sur consoles.",
+   "source": "Xbox Wire",
+   "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Xbox-console.jpg/1600px-Xbox-console.jpg",
+    "credit": "Evan-Amos / domaine public via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Bleus · Ligue des nations",
+   "title": "Les Bleus battent la Turquie et finissent premiers",
+   "body": "Dimanche à Bordeaux, la France de Zinédine Zidane a battu la Turquie 2-1 : un but contre son camp de Topçu, puis Kroupi à la 80e, avant la réduction de Bardakcı.",
+   "why": "Les Bleus terminent en tête de leur groupe et filent en quarts de finale.",
+   "source": "Foot Mercato",
+   "url": "https://www.footmercato.net/live/7651576242403462193-france-vs-turquie",
+   "stat": {
+    "value": "2-1",
+    "label": "France-Turquie, dimanche à Bordeaux"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/11/bordeaux_in_big/26970392-1-eng-GB/Bordeaux_in_big.png",
+    "credit": "ESA/NASA–T. Pesquet/W. Harald / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Mercredi",
+   "title": "Lukas Dhont revient avec « Les Braves »",
+   "body": "Mercredi sort « Les Braves (Coward) », drame historique du réalisateur belge de « Close ». Même jour : « Hunger Games : Lever de soleil sur la moisson », « Camembert » et « Malika ».",
+   "why": "Hunger Games domine en nombre de séances, mais la semaine mêle blockbuster et cinéma d'auteur.",
+   "source": "AlloCiné",
+   "url": "https://www.allocine.fr/film/agenda/sem-2026-11-18/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "UE",
+     "Les ministres des Affaires étrangères doivent adopter de nouvelles sanctions contre la flotte fantôme russe"
+    ],
+    [
+     "COP31",
+     "À Antalya, les ministres prennent le relais ; un premier projet de décision finale est attendu en début de semaine"
+    ],
+    [
+     "Manille",
+     "Suite du sommet de l'ASEAN, avant l'arrivée de Donald Trump mardi"
+    ]
+   ]
+  }
+ ]
+}
