@@ -1,0 +1,260 @@
+{
+ "dateLabel": "Mercredi 18 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Ukraine · Crimée",
+   "title": "Le pont de Crimée en partie effondré",
+   "body": "Une opération ukrainienne de drones et de missiles, dans la nuit de lundi à mardi, a fait tomber une partie du pont de Kertch dans la mer, selon les images publiées. Moscou a suspendu le trafic routier et ferroviaire.",
+   "why": "Ce pont de 19 km est le principal lien terrestre entre la Russie et la Crimée annexée.",
+   "stat": {
+    "value": "19 km",
+    "label": "longueur du pont entre la Russie et la Crimée"
+   },
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/17/ukraine-frappe-le-pont-de-crimee-avec-drones-et-missiles-apres-des-semaines-dattaques",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_2020-10-31.jpg/1600px-%D0%9F%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BC%D1%96%D1%81%D1%82_2020-10-31.jpg",
+    "credit": "Wavemeart / CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Nvidia · Résultats",
+   "title": "Nvidia double ses ventes sans Jensen Huang",
+   "body": "Pour ses premiers résultats depuis la démission de Jensen Huang, Nvidia affiche 115,8 milliards de dollars de chiffre d'affaires trimestriel et vise 130 milliards au trimestre suivant.",
+   "why": "L'action, en recul d'environ 10 % depuis le départ de Huang, gagnait 4 % après la clôture.",
+   "stat": {
+    "value": "+103 %",
+    "label": "chiffre d'affaires sur un an (115,8 Md$)"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2025/08/iss073e0420568orig.jpg",
+    "credit": "NASA / Nichole Ayers / domaine public"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Serbie · Parlement",
+   "title": "Les étudiants prennent le Parlement serbe",
+   "body": "Le nouveau Parlement, où la Liste des étudiants détient 140 des 250 sièges, a tenu mardi sa séance inaugurale. La coalition du président Vučić en compte 103.",
+   "why": "La majorité a 90 jours pour former un gouvernement ; une présidentielle anticipée doit avoir lieu d'ici le 27 décembre.",
+   "stat": {
+    "value": "140/250",
+    "label": "sièges pour la Liste des étudiants"
+   },
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/17/serbie-le-nouveau-parlement-domine-par-les-etudiants-tient-sa-premiere-seance",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss034e061717/iss034e061717~large.jpg",
+    "credit": "NASA (ISS034-E-61717) / domaine public"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "États-Unis · Asie",
+   "title": "Trump à Manille avant le sommet de Shenzhen",
+   "body": "Arrivé mardi aux Philippines pour l'ASEAN, Donald Trump a réuni le Quad (Australie, Inde, Japon) et signé une déclaration commerciale avec la Thaïlande, qui doit supprimer ses droits de douane sur les produits américains.",
+   "why": "La tournée doit culminer jeudi avec une rencontre inédite à trois avec Xi Jinping et Vladimir Poutine.",
+   "source": "ABC News",
+   "url": "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/PIA03353/PIA03353~large.jpg",
+    "credit": "NASA/JPL / domaine public"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Spatial · Europe",
+   "title": "Iceye veut racheter Avio pour 2 milliards",
+   "body": "Le finlandais Iceye, opérateur de satellites radar, a lancé mardi une offre à 41 € par action sur le motoriste et fabricant de fusées italien Avio, soit environ 2,05 milliards d'euros.",
+   "why": "Il veut bâtir un groupe européen de l'espace et de la défense ; l'opération sera scrutée à Rome, l'État détenant 30 % de Leonardo, premier actionnaire d'Avio.",
+   "stat": {
+    "value": "2,05 Md€",
+    "label": "valeur de l'offre (41 € par action)"
+   },
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/17/iceye-offre-2-milliards-deuros-pour-litalien-avio-afin-de-creer-une-entreprise-spatiale-eu",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/NHQ202112230018/NHQ202112230018~large.jpg",
+    "credit": "NASA / Bill Ingalls / domaine public"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Apple · Justice",
+   "title": "Apple poursuivie à Paris pour l'iPhone",
+   "body": "Le parquet poursuit Apple pour avoir entravé, de 2021 à 2024, la réparation d'iPhone hors de son réseau agréé. Un procès de quatre jours doit s'ouvrir le 17 juin.",
+   "why": "Apple, qui juge ces accusations infondées, risque une amende pouvant atteindre 5 % de son chiffre d'affaires annuel.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/17/apple-jugee-a-paris-pour-obsolescence-programmee-et-blocage-des-reparations-diphone",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss074e0437596/iss074e0437596~large.jpg",
+    "credit": "NASA (ISS074-E-437596) / domaine public"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Nvidia · Chine",
+   "title": "Nvidia renonce à vendre ses H200 en Chine",
+   "body": "La directrice générale par intérim, Colette Kress, a annoncé que Nvidia ne vendrait plus ses puces H200 en Chine, au lendemain de nouvelles règles américaines sur l'accès à distance aux puces.",
+   "why": "Jefferies estime que ces règles pourraient retirer 44 à 62 Md$ aux ventes data centers de Nvidia l'an prochain.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+  },
+  {
+   "cat": "ia",
+   "kicker": "Anthropic · Bourse",
+   "title": "Amazon et Google, poids lourds d'Anthropic",
+   "body": "Selon les documents de son entrée en Bourse, Amazon détiendra 14,7 % et Google 13,7 % du créateur de Claude, en actions sans droit de vote. Sept groupes, dont Google et Nvidia, achèteront aussi 26 Md$ d'actions.",
+   "why": "L'introduction d'Anthropic au Nasdaq, attendue cette semaine, s'annonce comme l'une des plus grosses de l'histoire.",
+   "stat": {
+    "value": "~30 %",
+    "label": "du capital pour Amazon et Google réunis"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "IA · Médicaments",
+   "title": "Isomorphic Labs lève 5 milliards de dollars",
+   "body": "La start-up de conception de médicaments par IA, issue de Google DeepMind, boucle une série C co-menée par Greenoaks et Sequoia.",
+   "why": "Elle veut amener ses candidats-médicaments en essais cliniques, après des résultats précliniques en oncologie et immunologie.",
+   "stat": {
+    "value": "5 Md$",
+    "label": "levés en série C"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Google · Gemini",
+   "title": "Gemini gardera vos chats deux mois",
+   "body": "Google va conserver environ deux mois, au lieu de 72 heures, les conversations Gemini temporaires ou tenues avec l'historique désactivé. Déploiement mondial dans les semaines à venir.",
+   "why": "Google invoque la sécurité ; un réglage séparé permettra de refuser que ses chats entraînent l'IA.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+  },
+  {
+   "cat": "space",
+   "kicker": "NASA · Voyager 1",
+   "title": "Voyager 1 à un jour-lumière de la Terre",
+   "body": "Lancée en 1977, la sonde atteint ce mercredi environ 25,9 milliards de km de nous : la lumière met désormais un jour entier à parcourir cette distance.",
+   "why": "Aucun engin humain n'est allé aussi loin ; Voyager 2 n'atteindra ce cap que vers 2035.",
+   "stat": {
+    "value": "24 h",
+    "label": "pour qu'un signal fasse le trajet"
+   },
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/PIA22915/PIA22915~large.jpg",
+    "credit": "NASA/JPL-Caltech / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Génétique · PNAS",
+   "title": "Un gène néandertalien lié à moins de schizophrénie",
+   "body": "Un variant hérité de Néandertal, près du gène DAAM1, est associé à un lobe occipital un peu plus petit, selon une étude de Hugo Zeberg et Svante Pääbo publiée dans PNAS.",
+   "why": "Avec deux copies du variant, le risque de schizophrénie serait réduit d'environ 10 %.",
+   "stat": {
+    "value": "-10 %",
+    "label": "de risque avec deux copies du variant"
+   },
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/17/un-variant-genetique-neandertalien-associe-a-un-risque-moindre-de-schizophrenie",
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "ONU · Santé",
+   "title": "L'ONU alerte sur les perturbateurs endocriniens",
+   "body": "Un rapport onusien, premier état des lieux depuis 2012, réclame une action internationale urgente : ces substances sont retrouvées jusque dans le lait maternel et le sang du cordon.",
+   "why": "Sur plus de 350 000 produits chimiques enregistrés, la grande majorité n'a jamais été évaluée pour ces effets.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/17/les-nations-unies-alertent-sur-les-perturbateurs-endocriniens-menace-pour-la-sante-et-lenv"
+  },
+  {
+   "cat": "games",
+   "kicker": "Rockstar · GTA VI",
+   "title": "GTA 6 sort cette nuit à minuit",
+   "body": "Après plusieurs reports, Grand Theft Auto VI se débloque le 19 novembre à 0 h en France, sur PS5 et Xbox Series, en version dématérialisée.",
+   "why": "La sortie suit l'heure locale : la Nouvelle-Zélande y joue dès midi ce mercredi, heure de Paris.",
+   "stat": {
+    "value": "0 h",
+    "label": "jeudi 19 novembre, heure de Paris"
+   },
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/gta-6-heures-sortie-comment-jouer-avant-722435",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "NBA · Spurs",
+   "title": "Les Pistons stoppent la série des Spurs",
+   "body": "San Antonio s'est incliné 105-93 face à Detroit mardi soir, ce qui met fin à 12 victoires de rang. Victor Wembanyama a compilé 25 points et 18 rebonds.",
+   "why": "C'est la première fois cette saison que les Spurs perdent après avoir mené de plus de dix points.",
+   "stat": {
+    "value": "105-93",
+    "label": "Detroit-San Antonio, mardi soir"
+   },
+   "source": "AP (via Yahoo Sports)",
+   "url": "https://sports.yahoo.com/articles/cunningham-jenkins-lead-surge-pistons-035412932.html",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/87000/87299/iss046e005093.jpg",
+    "credit": "NASA (ISS046-E-5093) / domaine public"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Mercredi",
+   "title": "Hunger Games remonte aux 16 ans d'Haymitch",
+   "body": "« Hunger Games : Lever de soleil sur la moisson », de Francis Lawrence d'après Suzanne Collins, sort ce mercredi. Joseph Zada y incarne le jeune Haymitch Abernathy.",
+   "why": "Le nouveau volet de la saga (2 h 38) mène une semaine qui compte aussi « Les Braves » de Lukas Dhont et « Camembert ».",
+   "source": "AlloCiné",
+   "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000004528.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Anthropic",
+     "Fixation du prix de l'introduction au Nasdaq (70-78 $ par action), cotation prévue jeudi sous « ANT »"
+    ],
+    [
+     "GTA VI",
+     "Premiers joueurs en Nouvelle-Zélande dès 12 h, heure de Paris ; sortie en France à minuit"
+    ],
+    [
+     "Shenzhen",
+     "Veille du sommet inédit Trump-Xi-Poutine prévu jeudi en marge de l'APEC"
+    ]
+   ]
+  }
+ ]
+}
