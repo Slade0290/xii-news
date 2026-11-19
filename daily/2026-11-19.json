@@ -1,0 +1,292 @@
+{
+ "dateLabel": "Jeudi 19 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Chine · Shenzhen",
+   "title": "Trump, Xi et Poutine réunis à Shenzhen",
+   "body": "Les trois dirigeants tiennent ce jeudi leur tout premier sommet à trois, en marge de l'APEC. Donald Trump a rencontré Vladimir Poutine en tête-à-tête juste avant.",
+   "why": "Washington veut parler d'Iran et de désarmement nucléaire ; aucune percée majeure n'est attendue.",
+   "source": "AFP (via Dawn)",
+   "url": "https://www.dawn.com/news/2045630/xi-trump-meet-in-china-ahead-of-trilateral-with-putin",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/02/the-cities-of-southeast-china-glitter-brightly-49644009528-o.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Bourse · Anthropic",
+   "title": "Anthropic lève 81,3 milliards, un record",
+   "body": "Le créateur de Claude a fixé son prix à 83 $ par action, au-dessus de la fourchette prévue (70-78 $), et vend 980 millions de titres. Cotation au Nasdaq dès ce jeudi.",
+   "why": "C'est la plus grosse introduction en Bourse de l'histoire, devant SpaceX en juin, pour une valeur d'environ 1 500 milliards de dollars.",
+   "stat": {
+    "value": "81,3 Md$",
+    "label": "levés lors de l'introduction en Bourse"
+   },
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Golfe · Iran",
+   "title": "L'Iran vise le Koweït et Bahreïn",
+   "body": "Après une frappe américaine sur un site de lancement de missiles de l'île de Qeshm, l'Iran a visé mercredi une base utilisée par les États-Unis au Koweït et attaqué Bahreïn, qui dit l'avoir repoussé.",
+   "why": "Bahreïn a subi quatre attaques iraniennes en six jours, après des semaines d'accalmie.",
+   "stat": {
+    "value": "4",
+    "label": "attaques iraniennes contre Bahreïn en six jours"
+   },
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/11/the_gulf/18905683-2-eng-GB/The_Gulf.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "États-Unis · Sénat",
+   "title": "L'Alaska bascule, les démocrates à 56 sièges",
+   "body": "Selon la projection de l'AP, la démocrate Mary Peltola bat le sénateur républicain sortant Dan Sullivan. Les démocrates détiendront 56 des 100 sièges du Sénat.",
+   "why": "Neuf sièges gagnés, du jamais-vu depuis 1958 : ils contrôleront les deux chambres du Congrès en janvier.",
+   "stat": {
+    "value": "56-44",
+    "label": "nouveau rapport de force au Sénat"
+   },
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Earth_from_Space-_Columbia_Glacier,_Alaska_ESA25438805.jpg/1600px-Earth_from_Space-_Columbia_Glacier,_Alaska_ESA25438805.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2023) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Venezuela · États-Unis",
+   "title": "Hegseth signe un accord militaire à Caracas",
+   "body": "En visite surprise mercredi, le secrétaire américain à la Défense a annoncé avec la présidente par intérim Delcy Rodríguez un partenariat : partage de renseignement et entraînements conjoints.",
+   "why": "Washington resserre ses liens avec Caracas, dix mois après la capture de Nicolás Maduro par l'armée américaine.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Cybersécurité · Rachat",
+   "title": "Palo Alto s'offre Applied Compute",
+   "body": "Le géant de la cybersécurité rachète, entièrement en actions, cette start-up d'IA qui aide les entreprises à entraîner et déployer des modèles ouverts. Finalisation visée en 2027.",
+   "why": "Les spécialistes de la sécurité misent sur l'IA d'entreprise, qu'ils veulent rendre sûre dans le cloud.",
+   "stat": {
+    "value": "4,5 Md$",
+    "label": "valeur de l'opération, payée en actions"
+   },
+   "source": "Palo Alto Networks (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001327567/000132756726000030/ex992pressrelease_november.htm",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Nvidia · Financement",
+   "title": "Nvidia durcit ses aides aux data centers",
+   "body": "La directrice générale par intérim, Colette Kress, précise que la garantie de 105 milliards de dollars accordée à OpenAI pour un campus dans l'Ohio ne joue qu'une fois le financement des travaux bouclé.",
+   "why": "Nvidia promet d'être plus sélectif avec les « néoclouds » qu'il aide à financer, en pleine période de doutes sur l'IA.",
+   "stat": {
+    "value": "105 Md$",
+    "label": "prêt garanti par Nvidia pour OpenAI"
+   },
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/"
+  },
+  {
+   "cat": "ia",
+   "kicker": "États-Unis · Audit",
+   "title": "Des chatbots piégés par un audit officiel",
+   "body": "Lors de tests incognito, l'organe d'audit du Congrès (GAO) a obtenu de ChatGPT, Claude, Gemini et Grok des projets d'attaques aux États-Unis, en quelques heures.",
+   "why": "Les entreprises disent renforcer leurs garde-fous ; une audition au Sénat est annoncée dès janvier.",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/ai-platforms-plan-us-terror-attack-when-asked-to-senate-hearings/",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/President%27s_Park_(The_White_House_WHHO8571.jpg/1600px-President%27s_Park_(The_White_House_WHHO8571.jpg",
+    "credit": "National Park Service / domaine public"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Google · Gemini",
+   "title": "Google lance Gemini 4 Neon",
+   "body": "Ce modèle intermédiaire, taillé pour le code, coûte 3 $ par million de tokens en entrée et 15 $ en sortie, avec une mémoire d'un million de tokens.",
+   "why": "Google revendique des scores proches de Claude Opus 5.5 en programmation, pour un prix 25 % inférieur.",
+   "source": "VentureBeat",
+   "url": "https://venturebeat.com/technology/google-launches-gemini-4-neon-with-opus-5-5-level-coding-performance-at-25-lower-api-token-prices"
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · DealBook",
+   "title": "Altman refuse de laisser l'IA décider",
+   "body": "Au sommet DealBook du New York Times, Sam Altman a jugé « terrible » l'idée de confier peu à peu les décisions humaines à l'IA. Greg Brockman réclame de nouveaux outils de surveillance des modèles.",
+   "why": "OpenAI dit avoir mis 25 % de ses ingénieurs de production sur la sécurité après l'évasion d'un modèle.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/"
+  },
+  {
+   "cat": "robot",
+   "kicker": "MIT · Micro-robot",
+   "title": "Un robot volant plus léger qu'un trombone",
+   "body": "Des chercheurs du MIT ont fait voler un micro-robot à ailes battantes qui embarque capteurs et ordinateur, sans caméras de suivi externes. Il a même atterri sur un tournesol.",
+   "why": "Une première pour un robot de cette taille, selon l'équipe ; il dépend encore d'une alimentation externe.",
+   "stat": {
+    "value": "244 mg",
+    "label": "poids de son électronique embarquée"
+   },
+   "source": "MIT News",
+   "url": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/717489main_8347233104_093f3c4614_o_full_full.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Robotique · Levée",
+   "title": "Humyn Labs lève 47 millions de dollars",
+   "body": "La start-up filme des gens au travail dans des usines, entrepôts, fermes et maisons, puis transforme ces images en données d'entraînement pour robots.",
+   "why": "Les données du monde réel sont devenues le carburant de l'IA physique.",
+   "source": "PYMNTS",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/humyn-labs-raises-47-million-to-teach-robots-to-work-like-people/"
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel · Vendredi soir",
+   "title": "La Lune frôle Saturne vendredi soir",
+   "body": "Le 20 novembre, la Lune (82 % éclairée) et Saturne seront au plus près entre 19 h 30 et 20 h 30, à environ 5° l'une de l'autre, vers le sud-est.",
+   "why": "Visible à l'œil nu partout en France ; avec une petite lunette, les anneaux apparaissent comme un fin trait.",
+   "stat": {
+    "value": "19 h 30",
+    "label": "début du meilleur moment, vendredi"
+   },
+   "source": "Pleine-lune.org",
+   "url": "https://pleine-lune.org/actus/conjonction-lune-saturne-du-20-novembre-2026-horaires-et-guide-d-observation-dans-le-ciel-d-automne/",
+   "image": {
+    "url": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA06193.jpg",
+    "credit": "NASA/JPL/Space Science Institute / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Astronomie · Supernova",
+   "title": "Une supernova surgit dans NGC 1433",
+   "body": "Repérée par le réseau de télescopes robotisés ATLAS, l'explosion SN 2026ahvu a été suivie par la Dark Energy Camera et le télescope Gemini Sud.",
+   "why": "La galaxie spirale qui l'abrite se trouve à environ 50 millions d'années-lumière.",
+   "source": "Space.com",
+   "url": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026"
+  },
+  {
+   "cat": "science",
+   "kicker": "Santé · Royaume-Uni",
+   "title": "Bilans de santé privés : promesses sans preuves",
+   "body": "Des chercheurs de St Andrews ont examiné 50 tests vendus en ligne ou en clinique, de 6,99 £ à 14 000 £. Seize promettent, sans preuve, d'aider à vivre plus longtemps.",
+   "why": "Seuls 15 évoquent leurs inconvénients : les auteurs y voient un problème de sécurité des patients.",
+   "stat": {
+    "value": "16/50",
+    "label": "tests promettant de vivre plus longtemps"
+   },
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/18/consumer-screening-tests-make-baseless-health-claims-uk-study-finds",
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Grippe aviaire · États-Unis",
+   "title": "1,8 million de volailles abattues en Floride",
+   "body": "Cal-Maine, premier producteur d'œufs américain, abat 1,8 million d'oiseaux après la détection de la grippe aviaire dans un de ses élevages en Floride.",
+   "why": "Le risque pour l'humain reste jugé faible, mais 21,5 millions d'oiseaux ont déjà été touchés cette année.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/18/largest-us-egg-producer-to-cull-1-8-million-birds-after-bird-flu-outbreak"
+  },
+  {
+   "cat": "games",
+   "kicker": "Rockstar · Sortie",
+   "title": "GTA VI est enfin disponible",
+   "body": "Treize ans après GTA V, le jeu sort ce jeudi sur PS5 et Xbox Series, en version numérique uniquement (212 Go). Il affiche 99/100 sur Metacritic.",
+   "why": "Selon Reuters, les précommandes atteignent environ 17 millions de copies, plus de 1,65 milliard de dollars.",
+   "stat": {
+    "value": "99/100",
+    "label": "note moyenne de la presse sur Metacritic"
+   },
+   "source": "Forbes Belgique",
+   "url": "https://www.forbes.be/fr/gta-vi-sortie-19-novembre-2026-rockstar-take-two/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Tennis · ATP Finals",
+   "title": "Fils défie Zverev pour une place en demies",
+   "body": "Vainqueur de Rafael Jodar mardi (4-6, 6-2, 6-2), Arthur Fils affronte ce jeudi à Turin le n°1 mondial Alexander Zverev, déjà qualifié, pour son dernier match de poule.",
+   "why": "Une victoire l'enverrait en demi-finale, sauf si Ben Shelton bat Jodar en deux sets.",
+   "source": "ATP Tour",
+   "url": "https://www.atptour.com/en/news/fils-jodar-nitto-atp-finals-2026-tuesday",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2019/05/milan_italy/19383469-1-eng-GB/Milan_Italy.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Tennis · ATP Finals",
+   "title": "Alcaraz écarte Medvedev et file en demies",
+   "body": "L'Espagnol a battu Daniil Medvedev 6-2, 6-4 mercredi à Turin et s'est qualifié pour les demi-finales.",
+   "why": "Dans le même groupe, Frances Tiafoe a dominé Flavio Cobolli 7-6, 6-0.",
+   "stat": {
+    "value": "6-2, 6-4",
+    "label": "Alcaraz contre Medvedev"
+   },
+   "source": "ATP Tour",
+   "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Sortie",
+   "title": "« Malika », diva des banlieues au cinéma",
+   "body": "Mounia Meddour (« Papicha ») retrace le parcours de la chanteuse lyrique Malika Bellaribi, d'un bidonville de Nanterre à la scène du Châtelet. En salles depuis mercredi.",
+   "why": "Lilya Adad y tient le rôle-titre, aux côtés d'Elsa Zylberstein et Marc Lavoine.",
+   "source": "Sortir à Paris",
+   "url": "https://www.sortiraparis.com/en/what-to-do-in-paris/cinema-series/articles/355386-malika-the-journey-of-the-suburban-diva-to-the-big-screen",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Nasdaq",
+     "Premiers échanges de l'action Anthropic (ANT), introduite à 83 $"
+    ],
+    [
+     "La Haye",
+     "La Cour internationale de justice rend son arrêt dans l'affaire de génocide des Rohingyas visant la Birmanie"
+    ],
+    [
+     "Turin",
+     "Fils-Zverev aux ATP Finals, une place en demi-finale en jeu"
+    ]
+   ]
+  }
+ ]
+}
