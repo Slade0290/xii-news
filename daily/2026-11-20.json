@@ -1,0 +1,334 @@
+{
+ "dateLabel": "Vendredi 20 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Birmanie · Rohingya",
+   "title": "La CIJ reconnaît la Birmanie coupable de génocide",
+   "body": "Jeudi, la Cour internationale de justice a jugé que les forces birmanes ont commis des actes de génocide contre les Rohingya en 2017. Elle ordonne des poursuites, des réparations et le retour des réfugiés.",
+   "why": "C'est la première fois que la Cour condamne un État en vertu de la Convention de 1948 sur le génocide.",
+   "source": "ONU Info",
+   "url": "https://news.un.org/fr/story/2026/11/1159874",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/07/gulf_of_martaban_myanmar/23385922-1-eng-GB/Gulf_of_Martaban_Myanmar.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "10 000",
+    "label": "Rohingya tués lors des opérations de 2017, selon la Cour"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Wall Street · Bourse",
+   "title": "Le Dow Jones chute de plus de 1 100 points",
+   "body": "Jeudi, le Dow Jones a perdu 2,2 % et repassé sous les 50 000 points, le Nasdaq a cédé 2,25 %. Des petits porteurs ont vendu d'autres titres pour acheter l'action Anthropic.",
+   "why": "L'euphorie autour de l'IA vacille le jour même de l'entrée en Bourse la plus attendue du secteur.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "-1 101",
+    "label": "points pour le Dow Jones, clôturé à 49 097"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Yémen · Arabie saoudite",
+   "title": "Les Houthis visent le cœur de Riyad",
+   "body": "La coalition menée par Riyad dit avoir intercepté un tir de missile houthi visant la capitale saoudienne, qui a causé des dégâts matériels. Les Houthis affirment avoir visé l'aéroport et le quartier financier.",
+   "why": "Ce conflit, relancé depuis l'été, a fait voler en éclats la trêve conclue en 2022 sous l'égide de l'ONU.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2024/10/earth_from_space_riyadh_saudi_arabia/26376673-1-eng-GB/Earth_from_Space_Riyadh_Saudi_Arabia.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2024) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "2 260",
+    "label": "morts depuis l'escalade d'août, selon l'OMS"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine · Europe",
+   "title": "À Berlin, l'Europe exige sa place à la table",
+   "body": "Après le sommet de Shenzhen, la « coalition des volontaires » s'est réunie à Berlin avec Zelensky et les émissaires américains Kushner et Witkoff. Pour Merz, aucun accord ne réussira sans l'Europe.",
+   "why": "Les Européens refusent qu'un accord de paix pour l'Ukraine se négocie sans eux.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2015/09/berlin_germany/15628971-1-eng-GB/Berlin_Germany.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2015) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Salvador · Élection",
+   "title": "Bukele vise un troisième mandat d'affilée",
+   "body": "Nayib Bukele doit officialiser sa candidature à la présidentielle du 28 février 2027. Une réforme de 2025 autorise un troisième mandat et allonge sa durée de 5 à 6 ans.",
+   "why": "Grand favori, il est critiqué pour son état d'urgence, qui a mené à l'arrestation de plus de 1 % de la population.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term"
+  },
+  {
+   "cat": "biz",
+   "kicker": "Banque · Europe",
+   "title": "Commerzbank : Berlin cède à UniCredit",
+   "body": "UniCredit et le gouvernement allemand ont levé les principaux blocages au rachat de Commerzbank : le siège restera à Francfort et Berlin renonce à nommer deux administrateurs.",
+   "why": "Le futur ensemble pèserait plus de 1 300 Md€ d'actifs, un géant bancaire européen.",
+   "source": "RTÉ (Reuters)",
+   "url": "https://www.rte.ie/news/business/2026/1119/1599786-unicredit-germany-reach-broad-agreement-on-commerzbank/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/11/frankfurt_in_big/26970815-1-eng-GB/Frankfurt_in_big.png",
+    "credit": "ESA/NASA–T. Pesquet/W. Harald / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Chimie · Allemagne",
+   "title": "BASF renonce à avaler Evonik",
+   "body": "Après deux offres en numéraire rejetées, la dernière à 24 € par action (environ 11,2 Md€), le chimiste allemand abandonne le rachat de son rival. L'action Evonik a chuté de 17 %.",
+   "why": "Le plus gros projet de fusion de la chimie allemande tombe à l'eau.",
+   "source": "Reuters (via Global Banking & Finance Review)",
+   "url": "https://www.globalbankingandfinance.com/basf-ends-pursuit-evonik-bids-rejected/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/05/rhine_river_germany/24050014-1-eng-GB/Rhine_River_Germany.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018-21) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "-17 %",
+    "label": "chute de l'action Evonik jeudi"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Fintech · Rachat",
+   "title": "TPG s'offre BILL pour 6 Md$",
+   "body": "Le fonds TPG, associé à Corpay, va racheter en numéraire la fintech américaine de paiements entre entreprises, à 63,25 $ par action, soit 31 % de prime. BILL quittera la Bourse.",
+   "why": "Près de 500 000 entreprises utilisent BILL pour payer leurs factures.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bill-holdings-taken-private-tpg-233844629.html"
+  },
+  {
+   "cat": "ia",
+   "kicker": "Anthropic · Nasdaq",
+   "title": "Anthropic s'envole pour son premier jour en Bourse",
+   "body": "Introduite à 83 $, l'action ANT a ouvert à 111,50 $ au Nasdaq avant de refluer et de clôturer à 97,17 $. Wall Street a reculé d'environ 2 % le même jour.",
+   "why": "La plus grosse introduction en Bourse de l'histoire teste l'appétit des marchés pour l'IA.",
+   "source": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "97,17 $",
+    "label": "cours de clôture, contre 83 $ à l'introduction"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Alibaba · Résultats",
+   "title": "Le cloud IA d'Alibaba bondit de 53 %",
+   "body": "Au trimestre de septembre, la division IA et cloud a généré 60,97 Md de yuans. Le chiffre d'affaires total dépasse les attentes, mais le e-commerce en Chine recule de 5 %.",
+   "why": "L'IA porte la croissance du géant chinois, dont les investissements augmentent de 60 %.",
+   "source": "Reuters (via MarketScreener)",
+   "url": "https://www.marketscreener.com/news/china-s-alibaba-beats-quarterly-revenue-estimates-ce785ed2d98af226",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2024/10/earth_from_space_kunshan_china/26341015-1-eng-GB/Earth_from_Space_Kunshan_China.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2024) / CC BY 4.0"
+   },
+   "stat": {
+    "value": "+53 %",
+    "label": "revenus IA et cloud sur un an"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Google · Agents",
+   "title": "Gemini peut désormais piloter votre Mac",
+   "body": "Google ajoute à l'app Gemini pour macOS un agent qui utilise les applis et le web à la place de l'utilisateur, qui peut valider ou stopper chaque action. Aux États-Unis d'abord.",
+   "why": "La course aux agents IA qui manipulent l'ordinateur s'accélère.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+  },
+  {
+   "cat": "robot",
+   "kicker": "Main robotique",
+   "title": "Une main robotique imprimable à moins de 650 $",
+   "body": "Des chercheurs du NJIT ont conçu une main humanoïde imprimée en 3D, actionnée par des tiges et non par des tendons. Elle réussit les 33 types de prise de la classification de Feix.",
+   "why": "Une main agile et bon marché, bientôt en open source, met l'humanoïde à la portée des petits labos.",
+   "source": "Humanoids Daily",
+   "url": "https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/717489main_8347233104_093f3c4614_o_full_full.jpg",
+    "credit": "NASA / domaine public"
+   },
+   "stat": {
+    "value": "15",
+    "label": "articulations motorisées pour 570 g"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "XPENG · IRON",
+   "title": "Le robot IRON de XPENG attendu sur scène",
+   "body": "Le constructeur chinois tiendra son AI Day le 25 novembre à Canton, où son humanoïde IRON interagira en direct. Sa production de masse est annoncée pour le 1er janvier 2027.",
+   "why": "Les constructeurs auto chinois misent sur leur savoir-faire industriel pour produire des humanoïdes.",
+   "source": "Humanoids Daily",
+   "url": "https://www.humanoidsdaily.com/news/xpeng-ai-day-2026-november-25-guangzhou",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2024/02/the-cities-of-southeast-china-glitter-brightly-49644009528-o.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Chine · Tiangong",
+   "title": "Un Pakistanais bientôt à bord de la station chinoise",
+   "body": "La fusée Longue Marche 2F de Shenzhou-24 a rejoint son pas de tir à Jiuquan. Le décollage est attendu dans les prochains jours, avec le premier astronaute étranger de Tiangong.",
+   "why": "Pour la première fois, la Chine ouvre sa station spatiale à un astronaute étranger.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/NHQ202112230018/NHQ202112230018~large.jpg",
+    "credit": "NASA / Bill Ingalls / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "JAXA · Hayabusa2",
+   "title": "Hayabusa2 renonce à se poser sur un astéroïde",
+   "body": "Après la panne de son dernier moteur ionique en août, la sonde japonaise abandonne l'atterrissage sur 1998 KY26 prévu en 2031. Elle survolera l'astéroïde 2015 BM510 en avril 2028.",
+   "why": "La sonde, qui a rapporté des grains de Ryugu en 2020, s'use après 12 ans dans l'espace.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+   "image": {
+    "url": "https://media.esa.int/global/public/common/misc/2026/10/af1-sci-261005t170516-0-didymos-1791550244.png",
+    "credit": "ESA / CC BY 4.0"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Commotions · ECT",
+   "title": "Commotions : une prise de sang pour l'ECT",
+   "body": "Chez d'anciens joueurs de football américain, des chercheurs de l'université de Boston ont trouvé un fragment de protéine tau bien plus élevé dans le sang en cas d'ECT avancée. Étude parue dans JAMA.",
+   "why": "Cette maladie liée aux chocs répétés à la tête ne se diagnostique aujourd'hui qu'après la mort.",
+   "source": "GBH News",
+   "url": "https://wgbh.org/news/health/2026-11-19/new-research-may-pave-way-for-diagnosing-cte-before-death",
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   },
+   "stat": {
+    "value": "21",
+    "label": "anciens joueurs suivis jusqu'à l'autopsie"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Dépression",
+   "title": "Antidépresseurs : lesquels tiennent sur la durée",
+   "body": "Une méta-analyse de 115 essais (plus de 30 000 patients) parue dans The Lancet Psychiatry place l'escitalopram, la duloxétine et l'agomélatine devant la fluoxétine sur six mois ou plus.",
+   "why": "Une piste pour les médecins, pas un classement individuel : plus de la moitié des essais ont un fort risque de biais.",
+   "source": "ScienceDaily",
+   "url": "http://www.sciencedaily.com/releases/2026/11/261118065515.htm"
+  },
+  {
+   "cat": "games",
+   "kicker": "GTA VI · Ventes",
+   "title": "GTA VI : 19 millions de copies au lancement",
+   "body": "Selon une estimation du cabinet Sensor Tower, GTA VI s'est vendu à environ 19,1 millions d'exemplaires dès sa sortie, pour 1,84 milliard de dollars. Take-Two n'a encore donné aucun chiffre officiel.",
+   "why": "Au premier jour, GTA V s'était vendu à 11,2 millions d'exemplaires : le record tomberait.",
+   "source": "Men's Journal (d'après Reuters)",
+   "url": "https://www.mensjournal.com/news/gta-6-sales-19-million-copies-gta-v-record",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "19,1 M",
+    "label": "copies vendues selon Sensor Tower (estimation)"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Clair Obscur",
+   "title": "Expedition 33 perd sa directrice narrative",
+   "body": "Jennifer Svedberg-Yen, qui dirigeait la narration de Clair Obscur: Expedition 33, a confirmé avoir quitté le studio français Sandfall en juillet.",
+   "why": "Un départ clé pour le studio montpelliérain, alors que la suite est attendue.",
+   "source": "Gameblog",
+   "url": "https://www.gameblog.fr/jeu-video/ed/news/clair-obscur-expedition-33-depart-scenariste-726928"
+  },
+  {
+   "cat": "sport",
+   "kicker": "ATP Finals · Turin",
+   "title": "Fils éliminé par Zverev malgré cinq balles sauvées",
+   "body": "Arthur Fils s'est incliné 6-4, 7-6 (6) face à Alexander Zverev jeudi soir à Turin. Le Français a écarté cinq balles de match dans le tie-break avant de céder.",
+   "why": "Le dernier Français en simple quitte le Masters, où il a signé sa première victoire.",
+   "source": "Tennis Majors",
+   "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/fils-eliminated-shelton-into-the-atp-finals-semi-finals-as-zverev-wins-group-mcenroe-867361.html",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147412/iss062e102588zm.jpg",
+    "credit": "NASA (ISS062-E-102588) / domaine public"
+   },
+   "stat": {
+    "value": "6-4, 7-6",
+    "label": "Zverev bat Fils à Turin"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "NBA · Spurs",
+   "title": "Wembanyama dynamite les Clippers",
+   "body": "Victor Wembanyama a marqué 32 points et pris 11 rebonds lors de la victoire des Spurs contre les Clippers (124-112).",
+   "why": "San Antonio a gagné 13 de ses 14 derniers matchs, porté par son pivot français.",
+   "source": "Field Level Media",
+   "url": "https://fieldlevelmedia.com/nba/victor-wembanyama-stephon-castle-carry-spurs-past-clippers/",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/87000/87299/iss046e005093.jpg",
+    "credit": "NASA (ISS046-E-5093) / domaine public"
+   },
+   "stat": {
+    "value": "124-112",
+    "label": "Spurs-Clippers, avec 32 points de Wemby"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Box-office",
+   "title": "Hunger Games écrase le box-office français",
+   "body": "Hunger Games : Lever de soleil sur la moisson a réuni plus de 154 000 spectateurs en France pour son premier jour. Il entre dans le top 10 des démarrages de 2026.",
+   "why": "C'est le meilleur démarrage du distributeur Metropolitan depuis le Covid.",
+   "source": "Boxoffice Pro",
+   "url": "https://www.boxofficepro.fr/box-office-1er-jour-hunger-games-lever-de-soleil-sur-la-moisson-jupiter-camembert/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Antalya",
+     "Clôture prévue de la COP31, le financement climatique en suspens"
+    ],
+    [
+     "Nasdaq",
+     "Deuxième séance de cotation pour l'action Anthropic (ANT)"
+    ],
+    [
+     "Turin",
+     "Medvedev-Tiafoe aux ATP Finals, une place en demi-finale en jeu"
+    ]
+   ]
+  }
+ ]
+}
