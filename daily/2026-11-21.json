@@ -1,0 +1,330 @@
+{
+ "dateLabel": "Samedi 21 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Wall Street · IA",
+   "title": "Nvidia plonge, le Nasdaq vit sa pire semaine",
+   "body": "Vendredi, Nvidia a chuté de 14 % et le Nasdaq 100 de 5,6 %, sa pire semaine depuis mars 2020. Le S&P 500 a reculé pour la 7e séance d'affilée et entre en correction.",
+   "why": "La crainte d'un essoufflement des investissements dans l'IA gagne tous les marchés.",
+   "source": "Bloomberg (via Swissinfo)",
+   "url": "https://www.swissinfo.ch/eng/nasdaq-100-has-worst-week-since-2020-on-ai-drama:-markets-wrap/92410554",
+   "stat": {
+    "value": "-14 %",
+    "label": "pour l'action Nvidia sur la seule journée de vendredi"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Pérou · Séisme",
+   "title": "Un séisme de magnitude 6,7 secoue les Andes",
+   "body": "La secousse a frappé vendredi à 19h09 heure locale, à 34 km au nord de Junín et 108 km de profondeur, selon l'USGS. Ressentie à Lima, elle n'a pas fait de victime signalée dans l'immédiat.",
+   "why": "Le Pérou, sur la ceinture de feu du Pacifique, reste l'un des pays les plus exposés aux séismes.",
+   "source": "AP",
+   "url": "https://www.wral.com/news/ap/d9c0a-magnitude-6-7-earthquake-shakes-peru-s-andes-with-no-damage-or-casualties-immediately-reported/",
+   "stat": {
+    "value": "6,7",
+    "label": "de magnitude, à 108 km de profondeur"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/12/earth_from_space_pariacaca_mountain_range_peru/27027349-1-eng-GB/Earth_from_Space_Pariacaca_Mountain_Range_Peru.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Iran · États-Unis",
+   "title": "Iran-USA : le mémorandum d'Islamabad enterré",
+   "body": "Le chef de la diplomatie iranienne, Abbas Araghchi, juge le mémorandum caduc après une violation américaine. Vendredi, Donald Trump a estimé inacceptables les conditions posées par Téhéran.",
+   "why": "Les canaux passent toujours par le Qatar et le Pakistan, mais aucun accord n'est en vue sur Ormuz.",
+   "source": "The Times of Israel",
+   "url": "https://www.timesofisrael.com/trump-says-iran-wants-deal-but-terms-unacceptable-vance-sidesteps-question-on-his-approval-of-war/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/05/qeshm_island_iran/23301805-2-eng-GB/Qeshm_Island_Iran.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "UE · Royaume-Uni",
+   "title": "Londres et Bruxelles scellent leur réconciliation",
+   "body": "Au sommet de Bruxelles, le Premier ministre Andy Burnham et les dirigeants de l'UE ont signé trois accords : mobilité des jeunes, normes agricoles et liaison des marchés carbone.",
+   "why": "C'est le rapprochement le plus net depuis le Brexit, que Londres chiffre à 0,5 % de PIB en plus.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
+   "stat": {
+    "value": "100 000",
+    "label": "jeunes pourront vivre et travailler jusqu'à 3 ans de l'autre côté"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/brussels_belgium/24382245-1-eng-GB/Brussels_Belgium.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine · Pologne",
+   "title": "Frappes géantes sur les ponts de Kyiv",
+   "body": "La Russie a tiré 84 missiles de croisière, 3 balistiques et 404 drones, endommageant trois ponts sur le Dniepr. La Pologne dit que son espace aérien a été violé trois fois.",
+   "why": "L'escalade intervient en pleine relance des pourparlers de paix menés par Washington.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/12/kyiv_ukraine/22370879-3-eng-GB/Kyiv_Ukraine.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "BYD · Jaguar Land Rover",
+   "title": "Le SUV Ti7 de BYD interdit dans l'UE",
+   "body": "Le tribunal de La Haye, en référé, juge que le Ti7 copie le design protégé du Defender de Land Rover. La vente dans l'UE et la production dans l'usine hongroise de BYD sont bloquées.",
+   "why": "Un revers pour le géant chinois, qui annonce faire appel, au moment où il s'installe en Europe.",
+   "source": "Reuters (via Yahoo Finance)",
+   "url": "https://uk.finance.yahoo.com/news/chinas-byd-suv-infringes-jlr-184130700.html",
+   "image": {
+    "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/10/the_netherlands/20813141-1-eng-GB/The_Netherlands.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Cybersécurité · Rachat",
+   "title": "CrowdStrike en discussions pour racheter Zscaler",
+   "body": "Selon deux sources, CrowdStrike négocie le rachat de Zscaler, valorisé environ 32 Md$. L'action Zscaler a bondi d'environ 17 % après la clôture, CrowdStrike a perdu 8 %.",
+   "why": "Ce serait l'un des plus gros rachats de l'histoire de la cybersécurité.",
+   "source": "Reuters (via AOL)",
+   "url": "https://www.aol.com/articles/crowdstrike-talks-acquire-zscaler-sources-213231000.html",
+   "stat": {
+    "value": "32 Md$",
+    "label": "la valeur boursière de Zscaler à la clôture de vendredi"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Maths · Anthropic",
+   "title": "Riemann : une preuve revendiquée avec l'IA",
+   "body": "Le mathématicien Levent Alpöge, d'Anthropic, affirme avoir prouvé avec Claude l'hypothèse de Riemann, posée en 1859. Sa preuve est vérifiée par ordinateur, mais n'a pas encore de version lisible.",
+   "why": "Si elle tient, l'IA aurait aidé à résoudre l'un des sept problèmes du millénaire.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "stat": {
+    "value": "167 ans",
+    "label": "que l'hypothèse de Riemann résiste aux mathématiciens"
+   },
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/RiemannCriticalLine.svg/1600px-RiemannCriticalLine.svg.png",
+    "credit": "Slonzor / Wikimedia Commons / domaine public"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Nvidia · Rachat",
+   "title": "Nvidia lorgne la start-up Inception",
+   "body": "Nvidia serait en discussions avancées pour racheter Inception, créatrice des modèles Mercury, pour au moins 500 M$, selon The Information. Aucune des deux sociétés n'a confirmé.",
+   "why": "Ses modèles de diffusion génèrent du texte bien plus vite que les modèles classiques.",
+   "source": "The Neuron",
+   "url": "https://www.theneuron.ai/news/nvidia-inception-acquisition-diffusion-ai/",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/04/aitken_cooling_2-1.jpeg",
+    "credit": "NASA/Ames/Derek Shaw / domaine public"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "ONU · Armes autonomes",
+   "title": "Robots tueurs : un accord a minima à Genève",
+   "body": "Les États de la Convention sur certaines armes classiques promettent de négocier des règles d'ici deux ans. Une centaine de pays voulaient un texte contraignant ; Russie, États-Unis et Israël s'y opposaient.",
+   "why": "Les armes autonomes se multiplient sur les champs de bataille sans cadre international.",
+   "source": "Reuters (via Taylorville Daily News)",
+   "url": "https://www.taylorvilledailynews.com/states-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028/",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flags_onu_geneva2.jpg",
+    "credit": "Yann Forget / CC BY-SA 2.0 via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Tesla · Optimus",
+   "title": "Musk promet un Optimus sans script",
+   "body": "Elon Musk annonce d'ici un à deux mois une démonstration non préprogrammée du robot Optimus. Faire la vaisselle seul prendrait encore 12 à 18 mois.",
+   "why": "Les délais annoncés par Musk ont souvent glissé, mais la course aux humanoïdes s'accélère.",
+   "source": "Humanoid Beat",
+   "url": "https://humanoidbeat.com/news/musk-optimus-unscripted-demo-month-or-two-dishes-12-18-months-tomorrowx.html",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valkyrie-robot-4.jpg/1600px-Valkyrie-robot-4.jpg",
+    "credit": "NASA/JSC / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "NASA · Mars",
+   "title": "Pannes en série pour Perseverance et Odyssey",
+   "body": "La radio principale de Perseverance a lâché et l'orbiteur Mars Odyssey a perdu une roue de réaction. La NASA a suspendu leurs travaux scientifiques et espère reprendre fin novembre.",
+   "why": "Odyssey, en orbite depuis 2001, sert de relais radio aux engins posés sur Mars.",
+   "source": "Space.com",
+   "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia24/pia24744/PIA24744.jpg",
+    "credit": "NASA/JPL-Caltech / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel de la semaine",
+   "title": "Pleine Lune mardi, près des Pléiades",
+   "body": "La pleine Lune tombe mardi 24 novembre à 15h53. Vers 18h30, elle sera à environ 14° au-dessus de l'horizon est, près des Pléiades.",
+   "why": "Une belle occasion d'observer la Lune à l'œil nu dès le début de soirée.",
+   "source": "Cité de l'espace",
+   "url": "https://en.cite-espace.com/space-news/the-sky-in-november-2026/",
+   "list": [
+    [
+     "Mar. 24 nov.",
+     "Pleine Lune à 15h53, visible à l'est dès 18h30"
+    ],
+    [
+     "Lun. 30 nov.",
+     "Lune, Mars et Jupiter alignées vers 2h et 6h"
+    ]
+   ],
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/psd/earths-moon/outreach-materials/NASA-LRO-Moon-mosaic.png",
+    "credit": "NASA / LRO / SVS / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "COP31 · Antalya",
+   "title": "La COP31 joue les prolongations",
+   "body": "Prévue pour s'achever vendredi, la conférence climat d'Antalya se poursuit ce samedi. Le projet d'accord final ne mentionne pas les énergies fossiles.",
+   "why": "Le monde file vers un dépassement de +1,5 °C, et les pays vulnérables réclament plus de financements.",
+   "source": "AP (via Yahoo)",
+   "url": "https://www.yahoo.com/news/science/articles/climate-talks-overtime-nations-wrestle-020900412.html",
+   "stat": {
+    "value": "+1,8 °C",
+    "label": "le réchauffement projeté par l'ONU même dans le meilleur scénario"
+   },
+   "image": {
+    "url": "https://eol.jsc.nasa.gov/DatabaseImages/EO/highres/ISS067/ISS067-E-372979.JPG",
+    "credit": "NASA / ISS Crew Earth Observations / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Santé mentale · Sport",
+   "title": "Bouger souvent compte plus que bouger fort",
+   "body": "Une étude norvégienne sur 10 460 étudiants suivis un an montre que la fréquence de l'exercice est le facteur le plus lié à moins d'anxiété et de dépression.",
+   "why": "L'étude est observationnelle, mais elle conforte la recommandation de 150 minutes par semaine.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm"
+  },
+  {
+   "cat": "games",
+   "kicker": "GTA VI · Record",
+   "title": "GTA VI : 3,79 Md$ en un jour",
+   "body": "Take-Two annonce 3,79 milliards de dollars de ventes au détail le premier jour, et 32,5 millions d'unités vendues avant la sortie. Le jeu affiche 99 sur Metacritic.",
+   "why": "Take-Two parle du plus gros lancement de l'histoire du divertissement, tous secteurs confondus.",
+   "source": "Take-Two Interactive",
+   "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+   "stat": {
+    "value": "3,79 Md$",
+    "label": "de ventes mondiales au détail le jour du lancement"
+   },
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/84000/84737/iss041e074232_lrg.jpg",
+    "credit": "NASA / ISS Expedition 41 / domaine public"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Ubisoft · IA",
+   "title": "Ubisoft lance Motherbrain et supprime 166 postes",
+   "body": "Ubisoft crée Motherbrain, un studio interne d'IA bâti autour de sa R&D parisienne. En parallèle, 166 postes sont supprimés à Montréal et Québec.",
+   "why": "L'éditeur français a supprimé environ 800 emplois depuis janvier pour économiser 200 M€.",
+   "source": "Presse-citron",
+   "url": "https://www.presse-citron.net/en-plein-gta-6-le-monument-francais-du-jeu-video-ubisoft-lance-motherbrain-et-supprime-166-postes/",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/48000/48471/ISS026-E-012474_lrg.jpg",
+    "credit": "NASA / ISS Expedition 26 / domaine public"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "ATP Finals · Turin",
+   "title": "Le dernier carré est complet à Turin",
+   "body": "Medvedev a battu Tiafoe 6-3, 6-4 vendredi. Samedi : Zverev-Medvedev et Alcaraz-Shelton. En double, les Français Arribagé et Olivetti jouent aussi leur demi-finale.",
+   "why": "Aucune paire française n'avait atteint ce stade depuis Herbert et Mahut, titrés en 2021.",
+   "source": "Tennis Majors",
+   "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/medvedev-beats-tiafoe-to-complete-a-by-the-book-atp-finals-last-four-867503.html",
+   "stat": {
+    "value": "6-3, 6-4",
+    "label": "Medvedev contre Tiafoe pour la dernière place en demies"
+   },
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147412/iss062e102588_lrg.jpg",
+    "credit": "NASA / ISS Expedition 62 / domaine public"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue 1 · 11e journée",
+   "title": "Troyes renverse Le Havre et respire",
+   "body": "Menés dès la 3e minute, les Troyens s'imposent 3-1 grâce à un doublé d'Antoine Mille et un penalty de Renaud Ripart. Ils sortent de la zone rouge.",
+   "why": "Le Havre, lanterne rouge, s'enfonce un peu plus.",
+   "source": "Flashscore",
+   "url": "https://www.flashscore.fr/actualites/en-plein-dans-le-mille-troyes-renverse-le-havre-et-sort-de-la-zone-rouge/WxOTB3bf/",
+   "stat": {
+    "value": "3-1",
+    "label": "Troyes-Le Havre, vendredi soir"
+   },
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/9000/9098/europe_AMO_2008243_lrg.jpg",
+    "credit": "NASA / Jeff Schmaltz, MODIS / domaine public"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Box-office",
+   "title": "Hunger Games vise 110 M$ dès son week-end",
+   "body": "Lever de soleil sur la moisson a récolté 21 M$ en avant-premières aux États-Unis. En France, il a attiré 154 104 spectateurs pour son premier jour.",
+   "why": "Ce serait le 4e meilleur démarrage de la saga, bien au-dessus du préquel de 2023.",
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/timlammers/2026/11/20/hunger-games-sunrise-on-the-reaping-eyes-110-million-opening-weekend/",
+   "stat": {
+    "value": "110 M$",
+    "label": "de recettes attendues en Amérique du Nord ce week-end"
+   },
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/8000/8708/lanight_iss06_E-36913_dem_lrg.jpg",
+    "credit": "NASA / Jesse Allen / domaine public"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Paris, 14h",
+     "« Acte VI » : manifestation contre la vie chère, de République à Nation"
+    ],
+    [
+     "Nice, 17h15",
+     "Nice-PSG en Ligue 1, le leader face à une équipe invaincue à domicile"
+    ],
+    [
+     "Saint-Denis, 21h10",
+     "Rugby : France-Argentine au Stade de France, sur TF1"
+    ]
+   ]
+  }
+ ]
+}
