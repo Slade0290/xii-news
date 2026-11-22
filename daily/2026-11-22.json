@@ -1,0 +1,312 @@
+{
+ "dateLabel": "Dimanche 22 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Iran · Bahreïn",
+   "title": "L'Iran revendique des frappes sur Bahreïn",
+   "body": "Samedi soir, les Gardiens de la révolution ont affirmé avoir visé deux bases américaines à Bahreïn et détruit deux radars Patriot. Bahreïn signale un incendie sur un site industriel, sans blessé.",
+   "why": "Nouvelle escalade directe entre l'Iran et les États-Unis dans le Golfe.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+   "stat": {
+    "value": "2 radars",
+    "label": "Patriot détruits, selon les Gardiens de la révolution"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/11/the_gulf/18905683-2-eng-GB/The_Gulf.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "Golfe de Finlande",
+   "title": "Un cargo russe en feu près de l'OTAN",
+   "body": "Samedi matin, deux drones ont frappé le Sparta II, cargo russe sous sanctions américaines qui faisait route vers Kaliningrad. En feu, il a dérivé dans les eaux finlandaises. L'attaque n'a pas été revendiquée.",
+   "why": "La guerre en Ukraine déborde sur la Baltique, entre deux pays de l'OTAN.",
+   "source": "ERR News",
+   "url": "https://news.err.ee/1610202715/russian-cargo-ship-on-fire-in-gulf-of-finland-after-reported-drone-strike",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/tallinn_estonia/24383281-1-eng-GB/Tallinn_Estonia.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Détroit d'Ormuz",
+   "title": "Des pétroliers touchés dans le détroit d'Ormuz",
+   "body": "Samedi, l'agence britannique UKMTO a signalé deux pétroliers touchés au large d'Oman. La marine iranienne affirme qu'un autre a heurté une mine. Aucune victime n'est signalée.",
+   "why": "Avant la guerre, près d'un cinquième du brut mondial passait par ce détroit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/05/qeshm_island_iran/23301805-2-eng-GB/Qeshm_Island_Iran.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "UE · Indonésie",
+   "title": "L'UE et l'Indonésie signent un accord historique",
+   "body": "Signé samedi à Bruxelles après dix ans de négociations, l'accord supprime les droits de douane sur plus de 98 % des exportations européennes vers l'Indonésie. Il doit encore être ratifié.",
+   "why": "L'Europe diversifie ses partenaires en pleine guerre commerciale.",
+   "source": "AFP (via The Star)",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/21/eu-and-indonesia-officially-sign-039ambitious039-trade-deal",
+   "stat": {
+    "value": "98 %",
+    "label": "des exportations européennes exemptées de droits de douane"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/brussels_belgium/24382245-1-eng-GB/Brussels_Belgium.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Bourse de Taipei",
+   "title": "Taïwan interdit la vente à découvert",
+   "body": "Après une chute de 6,23 % vendredi, le régulateur interdit dès lundi la vente à découvert de toute action qui a baissé la veille. Une première depuis 2015.",
+   "why": "La Bourse du cœur mondial des puces vacille avec la chute des valeurs de l'IA.",
+   "source": "Focus Taiwan (CNA)",
+   "url": "https://focustaiwan.tw/business/202611210013",
+   "stat": {
+    "value": "-28,5 %",
+    "label": "pour le Taiex depuis son record du 6 octobre"
+   },
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss072e435710/iss072e435710~large.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Amazon · Decart",
+   "title": "Amazon tout près d'avaler Decart pour 7,5 Md$",
+   "body": "Selon le Financial Times, Amazon est en négociations finales pour racheter la start-up d'IA Decart, dont le logiciel aide à passer d'une puce IA à une autre. L'annonce pourrait venir dès la semaine prochaine.",
+   "why": "Un atout pour réduire la dépendance du cloud aux puces Nvidia.",
+   "source": "Financial Times (via Seeking Alpha)",
+   "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart",
+   "stat": {
+    "value": "7,5 Md$",
+    "label": "valeur du rachat en discussion"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "SoftBank · SK Hynix",
+   "title": "SoftBank a rêvé d'acheter SK Hynix",
+   "body": "Masayoshi Son a sondé Wall Street pour financer un rachat du géant coréen des puces mémoire à 1 000 Md$, selon The Information. SoftBank assure que le projet n'est plus à l'étude.",
+   "why": "Un montant inédit, signe de la ruée sur les puces mémoire pour l'IA.",
+   "source": "Reuters (via The Star)",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/11/21/softbanks-son-explored-1-trillion-buyout-of-sk-hynix-the-information-reports",
+   "stat": {
+    "value": "1 000 Md$",
+    "label": "prix du rachat envisagé par Masayoshi Son"
+   },
+   "image": {
+    "url": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/04/earth_from_space_seoul_south_korea/24817240-1-eng-GB/Earth_from_Space_Seoul_South_Korea.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2023) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Signal · Vie privée",
+   "title": "Signal bloque les captures d'écran face aux IA",
+   "body": "La messagerie restreint désormais les captures d'écran sur iPhone et Android, pour empêcher les assistants IA intégrés aux téléphones de lire les conversations.",
+   "why": "Les agents IA des systèmes menacent la confidentialité du chiffrement.",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/04/aitken_cooling_2-1.jpeg",
+    "credit": "NASA/Ames/Derek Shaw / domaine public"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Sécurité · IA",
+   "title": "OpenRouter écarte trois fournisseurs après des fuites",
+   "body": "Un chercheur de Dragos a glissé 2 millions de faux secrets dans des requêtes IA ; certains ont été exploités. OpenRouter a retiré 3 fournisseurs et 125 points d'accès de son offre sans conservation.",
+   "why": "Les requêtes envoyées aux IA transitent par des intermédiaires pas toujours sûrs.",
+   "source": "The Hacker News",
+   "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+   "stat": {
+    "value": "2 millions",
+    "label": "de faux secrets semés dans des requêtes IA"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Robot mou",
+   "title": "Un robot sans électronique court à 17 km/h",
+   "body": "À UC San Diego, un robot à six pattes imprimé en 3D d'une seule pièce atteint 4,72 m/s, propulsé uniquement par de l'air comprimé.",
+   "why": "Sans puce, il pourrait aller là où l'électronique lâche : radiations, catastrophes.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/this-squishy-little-robot-can-run-10-mph-without-electronics-2000842623",
+   "stat": {
+    "value": "4,72 m/s",
+    "label": "vitesse de pointe, environ 100 fois l'ancien modèle"
+   },
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/KSC-20220524-PH-KLS01_0039/KSC-20220524-PH-KLS01_0039~large.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Drone pliable",
+   "title": "Ce drone se replie pour passer partout",
+   "body": "Des chercheurs de la NTNU, en Norvège, ont conçu un quadrirotor dont les bras se plient au contact : sa largeur passe de 31,3 à 14,1 cm pour franchir un trou de 15 cm.",
+   "why": "Utile pour explorer grottes, ruines ou conduites étroites.",
+   "source": "IEEE Spectrum",
+   "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/PIA26676/PIA26676~large.jpg",
+    "credit": "NASA/JPL-Caltech / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "ESA · JAXA",
+   "title": "BepiColombo enfin en orbite autour de Mercure",
+   "body": "Après 8 ans de voyage et 9 survols planétaires, la sonde euro-japonaise a été capturée par Mercure samedi soir, après une poussée de 37 minutes.",
+   "why": "Seulement la 2e sonde de l'histoire placée en orbite autour de Mercure.",
+   "source": "Eos (AGU)",
+   "url": "https://eos.org/research-and-developments/bepicolombo-arrives-at-mercury",
+   "stat": {
+    "value": "8 ans",
+    "label": "de voyage depuis son lancement en 2018"
+   },
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001922/GSFC_20171208_Archive_e001922~orig.png",
+    "credit": "NASA/JHUAPL/Carnegie / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Kourou · Lundi",
+   "title": "Ariane 6 emporte des satellites Amazon lundi",
+   "body": "Le 10e vol d'Ariane 6 (VA271), en version 4 boosters, doit décoller de Kourou lundi 23 novembre, avec une fenêtre de 12h09 à 12h38 heure de Paris.",
+   "why": "Ariane 6 enchaîne les vols commerciaux pour la constellation d'Amazon.",
+   "source": "CNES",
+   "url": "https://cnes.fr/en/node/2970"
+  },
+  {
+   "cat": "science",
+   "kicker": "Climat · Glaciers",
+   "title": "Les lacs glaciaires, des barrages à surveiller",
+   "body": "Les lacs glaciaires ont grossi de moitié depuis les années 1990. Dans Nature Climate Change, un chercheur de Cambridge demande de les surveiller comme des barrages.",
+   "why": "Plus de 15 millions de personnes sont exposées à leurs vidanges brutales.",
+   "source": "Eurasia Review",
+   "url": "https://www.eurasiareview.com/21112026-hazardous-glacial-lakes-need-reservoir-style-safety-oversight/",
+   "stat": {
+    "value": "15 M",
+    "label": "de personnes exposées aux crues de lacs glaciaires"
+   },
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss074e0573516/iss074e0573516~large.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Microplastiques",
+   "title": "Les microplastiques produisent des molécules agressives",
+   "body": "Au contact de l'eau, les microplastiques génèrent spontanément des radicaux oxydants capables d'abîmer les cellules, selon une étude de Columbia publiée dans Nature.",
+   "why": "Un mécanisme nouveau, même si aucun effet sur la santé n'est encore démontré.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm"
+  },
+  {
+   "cat": "games",
+   "kicker": "GTA VI · Metacritic",
+   "title": "GTA VI et Zelda bombardés de mauvaises notes",
+   "body": "Noté 99 par la presse, GTA VI est tombé autour de 5/10 chez les joueurs sur Metacritic. En représailles, des fans ont fait chuter la note du remake de Zelda Ocarina of Time de 9,6 à 8,9.",
+   "why": "Les notes des joueurs deviennent un champ de bataille entre communautés.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire",
+   "stat": {
+    "value": "99",
+    "label": "la note de GTA VI par la presse sur Metacritic"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Nintendo · Kirby",
+   "title": "Sakurai, le père de Smash, songe à l'avenir",
+   "body": "Pour le premier anniversaire de Kirby Air Riders, Masahiro Sakurai a confié se demander combien de jeux il pourra encore créer. Il n'a annoncé aucune retraite.",
+   "why": "Le créateur de Kirby et Smash Bros. laisse planer le doute sur la suite.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator"
+  },
+  {
+   "cat": "sport",
+   "kicker": "XV de France",
+   "title": "Les Bleus écrasent l'Argentine et filent en finale",
+   "body": "Au Stade de France, le XV de France a battu l'Argentine 45-17 avec sept essais. Il affrontera l'Afrique du Sud en finale du Championnat des nations le 29 novembre à Twickenham.",
+   "why": "Les Bleus joueront un titre face aux champions du monde dans une semaine.",
+   "source": "NBC Sports",
+   "url": "https://www.nbcsports.com/rugby/news/7-try-france-beats-argentina-45-17-to-reach-nations-championship-final",
+   "stat": {
+    "value": "45-17",
+    "label": "7 essais à 2 au Stade de France"
+   },
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue 1 · 11e journée",
+   "title": "Le PSG gagne à Nice mais perd Doué",
+   "body": "Le PSG s'est imposé 3-2 à Nice grâce à Mayulu (sur penalty), Doué et Ferran Torres à la 85e. Doué est sorti sur civière, touché au genou.",
+   "why": "Paris compte 5 points d'avance en tête, mais s'inquiète pour son ailier.",
+   "source": "Reuters (via Dawn)",
+   "url": "https://www.dawn.com/news/2046216/psg-win-3-2-at-nice-in-ligue-1-doue-suffers-serious-injury",
+   "stat": {
+    "value": "3-2",
+    "label": "victoire du PSG à l'Allianz Riviera"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "K-pop · Osaka",
+   "title": "BTS sacré album de l'année aux MAMA",
+   "body": "Aux MAMA Awards, au Kyocera Dome d'Osaka, BTS a remporté l'album de l'année avec « ARIRANG ». La chanson de l'année revient à CORTIS pour « REDRED ».",
+   "why": "Le retour de BTS couronné par l'une des plus grandes cérémonies de la K-pop.",
+   "source": "Soompi",
+   "url": "https://soompi.com/article/1889392wpp/winners-of-2026-mama-awards-chapter-2",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/10/kyoto_and_osaka/17836143-2-eng-GB/Kyoto_and_Osaka.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "Antalya",
+     "Vote attendu sur l'accord final de la COP31, après les prolongations"
+    ],
+    [
+     "Turin, 18h",
+     "Finale des ATP Finals : Zverev, n°1 mondial, contre Alcaraz"
+    ],
+    [
+     "Marseille, 20h45",
+     "OM – Le Mans au Vélodrome pour clore la 11e journée de Ligue 1"
+    ]
+   ]
+  }
+ ]
+}
