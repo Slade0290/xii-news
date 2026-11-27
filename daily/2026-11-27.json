@@ -1,0 +1,248 @@
+{
+ "dateLabel": "Vendredi 27 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Koweït · Iran",
+   "title": "Deux Italiens tués lors d'une attaque au Koweït",
+   "body": "Deux techniciens de Rheinmetall Italia sont morts sur un site de surveillance antiaérienne, touchés par des débris lors de l'interception de drones que le Koweït attribue à l'Iran. Téhéran dément.",
+   "why": "C'est la première attaque de drones contre le Koweït depuis début septembre.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2018/11/the_gulf/18905683-2-eng-GB/The_Gulf.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "UE · Budget",
+   "title": "Budget européen : pas d'accord à Bruxelles",
+   "body": "Après environ 14 heures de discussions, les Vingt-Sept n'ont trouvé d'accord ni sur le budget 2028-2034 ni sur le prêt de 45 Md€ à l'Ukraine. Reprise vers le 17 décembre.",
+   "why": "Hongrie, Slovaquie et Tchéquie bloquent le prêt ; Paris défend ses 66,25 Md€ de PAC.",
+   "stat": {
+    "value": "45 Md€",
+    "label": "prêt à l'Ukraine toujours bloqué"
+   },
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/brussels_belgium/24382245-1-eng-GB/Brussels_Belgium.jpg",
+    "credit": "ESA (Copernicus Sentinel) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Ukraine · Russie",
+   "title": "Missiles et 113 drones russes sur l'Ukraine",
+   "body": "Dans la nuit de mercredi à jeudi, la Russie a tiré des missiles balistiques et 113 drones, dont 87 neutralisés selon l'armée de l'air ukrainienne. Deux morts à Kharkiv, au moins 7 blessés à Kyiv.",
+   "why": "Les frappes continuent pendant que l'Europe se divise sur l'aide à Kyiv.",
+   "stat": {
+    "value": "113",
+    "label": "drones lancés en une nuit"
+   },
+   "source": "H.ua",
+   "url": "https://en.h.ua/2026/11/26/russia-attacks-ukraine-ballistic-missiles-113-drones",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/12/kyiv_ukraine/22370879-3-eng-GB/Kyiv_Ukraine.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Golfe · Navigation",
+   "title": "Explosion près d'un pétrolier au large de Dubaï",
+   "body": "Selon l'agence maritime britannique UKMTO, un projectile non identifié a explosé près d'un pétrolier, à environ 50 milles nautiques à l'ouest de Dubaï. Équipage sain et sauf, pas de dégâts.",
+   "why": "Le trafic du Golfe, vital pour le pétrole mondial, reste sous la menace.",
+   "source": "Reuters via Kayhan Life",
+   "url": "https://kayhanlife.com/news/middle-east/ukmto-reports-explosion-near-tanker-west-of-dubai/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/abu_dhabi/22040628-1-eng-GB/Abu_Dhabi.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Bourse · Paris",
+   "title": "Le CAC 40 rebondit de 1,6 %",
+   "body": "Wall Street fermée pour Thanksgiving, la Bourse de Paris a clôturé jeudi à 8 108,74 points. Stellantis (+8,9 %), Alstom (+7 %) et Renault (+5,7 %) mènent la hausse.",
+   "why": "Les investisseurs espèrent des droits de douane américains moins lourds que redouté.",
+   "stat": {
+    "value": "+1,61 %",
+    "label": "pour le CAC 40 jeudi"
+   },
+   "source": "Boursorama",
+   "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-en-forte-hausse-jeudi-e1366d02b13f0f036f6b5c76caff4b94",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Eutelsat · Bourse",
+   "title": "Deutsche Bank lâche Eutelsat",
+   "body": "La banque recommande désormais de vendre le titre et abaisse son objectif de cours de 2,10 € à 1,30 €. L'action a reculé de près de 3 % jeudi.",
+   "why": "Le coût du renouvellement de sa flotte de satellites pèse sur l'opérateur.",
+   "source": "Boursorama",
+   "url": "https://www.boursorama.com/bourse/actualites/les-americains-sont-a-table-et-l-europe-se-regale-2caa6c9272ed2238067ee3e1fed5bb86"
+  },
+  {
+   "cat": "ia",
+   "kicker": "UE · Calcul",
+   "title": "L'UE lance ses gigafactories de l'IA",
+   "body": "Bruxelles lance l'initiative « AI Gigafactories », qui pourrait mobiliser plus de 30 Md€ d'investissements publics et privés dans de très grands centres de calcul.",
+   "why": "L'UE compte moins de la moitié des data centers américains : 2 269 contre 5 427 en 2025.",
+   "stat": {
+    "value": "30 Md€",
+    "label": "d'investissements espérés"
+   },
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/2026/11/26/lue-lance-linitiative-ai-gigafactories-qui-pourrait-mobiliser-plus-de-30-milliards-deuros",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2020/04/aitken_cooling_2-1.jpeg",
+    "credit": "NASA/Ames/Derek Shaw / domaine public"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Volvo · Humanoïdes",
+   "title": "Volvo forme des humanoïdes à l'usine",
+   "body": "À Gand, en Belgique, Volvo Cars a commencé à entraîner des robots AEON de Hexagon, d'abord pour placer des pièces avec précision. Un pilote est prévu au 1er semestre 2027.",
+   "why": "Les constructeurs veulent confier aux robots les tâches répétitives et pénibles.",
+   "stat": {
+    "value": "1,65 m",
+    "label": "taille du robot AEON, monté sur roues"
+   },
+   "source": "Robotics & Automation News",
+   "url": "https://roboticsandautomationnews.com/2026/11/26/volvo-cars-begins-training-hexagon-humanoid-robots-for-factory-work/107733",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Valkyrie-robot-4.jpg/1600px-Valkyrie-robot-4.jpg",
+    "credit": "NASA/JSC / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "ESA · Hera",
+   "title": "Hera dévoile le cratère laissé par DART",
+   "body": "Les premières images rapprochées de la sonde européenne montrent un grand cratère, de la taille d'un stade, sur l'astéroïde Dimorphos, percuté par la NASA en 2022.",
+   "why": "Comprendre ce choc aide à préparer la défense de la Terre face aux astéroïdes.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/video/2026/11/26/hera-revele-un-cratere-geant-sur-lasteroide-dimorphos-frappe-par-la-nasa",
+   "image": {
+    "url": "https://media.esa.int/global/public/common/misc/2026/10/af1-sci-261005t170516-0-didymos-1791550244.png",
+    "credit": "ESA / CC BY 4.0"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Rocket Lab · Electron",
+   "title": "Rocket Lab réussit sa 101e Electron",
+   "body": "Lancée de Nouvelle-Zélande, la mission « Night Owls Never Sleep » a placé le 14e satellite radar StriX de Synspective à 569 km d'altitude.",
+   "why": "C'est déjà le 22e vol de la petite fusée en 2026.",
+   "source": "Rocket Lab",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411054/0/en/mission-success-rocket-lab-launches-101st-electron-mission.html"
+  },
+  {
+   "cat": "science",
+   "kicker": "Climat · Eau douce",
+   "title": "La chaleur extrême a fait baisser les fleuves",
+   "body": "Selon une étude parue dans Science, le débit mondial des rivières a chuté de 5,7 % et les réserves d'eau de surface actives de 9,5 % en 2023 et 2024, après des chaleurs record.",
+   "why": "Une atmosphère plus humide ne garantit pas plus d'eau dans les rivières.",
+   "stat": {
+    "value": "−5,7 %",
+    "label": "débit mondial des rivières en 2023-2024"
+   },
+   "source": "AAAS via BrightSurf",
+   "url": "https://www.brightsurf.com/news/8OMXGQE1/extreme-global-heat-triggered-unprecedented-decline-in-surface-freshwater.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/05/rhine_river_germany/24050014-1-eng-GB/Rhine_River_Germany.jpg",
+    "credit": "ESA (données Copernicus Sentinel 2018-21) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Fertilité · Ovocytes",
+   "title": "Une « colle » pour les ovocytes âgés",
+   "body": "Des chercheurs de la Société Max-Planck ont conçu une protéine, TALhesin, qui rétablit les liens entre chromosomes dans des ovocytes âgés de souris (Science).",
+   "why": "La dégradation des ovocytes avec l'âge est une cause majeure d'infertilité.",
+   "source": "Max Planck via BrightSurf",
+   "url": "https://www.brightsurf.com/news/LRDYNVR8/an-engineered-glue-for-aged-eggs.html"
+  },
+  {
+   "cat": "games",
+   "kicker": "Rockstar · Syndicat",
+   "title": "Chez Rockstar, les salariés rejettent le syndicat",
+   "body": "Au Royaume-Uni, 75 % des 1 544 votants ont refusé l'accord de reconnaissance du syndicat IWGB chez le studio de GTA VI. Le scrutin s'est clos le 26 novembre.",
+   "why": "C'aurait été le plus grand syndicat reconnu du jeu vidéo britannique ; l'IWGB promet de continuer.",
+   "stat": {
+    "value": "75 %",
+    "label": "des votants contre l'accord"
+   },
+   "source": "Vertical Slice",
+   "url": "https://www.verticalslice.news/rockstar-workers-vote-against-historic-union-recognition-deal/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/09/miami_melange/23476891-2-eng-GB/Miami_melange.jpg",
+    "credit": "ESA/NASA–T. Pesquet/W. Harold / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue Europa",
+   "title": "L'OM s'accroche, Lyon et Rennes calent",
+   "body": "Marseille bat le Levski Sofia 1-0 sur un penalty d'Amine Gouiri. Lyon est tenu en échec 0-0 par Lillestrøm et Rennes s'incline 3-1 à Nimègue.",
+   "why": "Après 5 journées, l'OM est 24e, dernière place qualificative pour les barrages.",
+   "stat": {
+    "value": "1-0",
+    "label": "OM-Levski Sofia"
+   },
+   "source": "Footeo",
+   "url": "https://news.footeo.com/2026/11/26/ligue-europa-et-ligue-conference-tous-les-resultats-et-classements-monaco-seul-en-tete-lom-saccroche-rennes-glisse-et-lyon-ralenti-18683",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/9000/9098/europe_AMO_2008243_lrg.jpg",
+    "credit": "NASA / Jeff Schmaltz, MODIS / domaine public"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue Conférence",
+   "title": "Monaco arrache la victoire en Écosse",
+   "body": "Sur la pelouse du Heart of Midlothian, Monaco s'impose 3-2 grâce à un doublé de Folarin Balogun, avec un but décisif dans le temps additionnel.",
+   "why": "Quatre victoires en quatre matchs : Monaco est seul en tête de la Ligue Conférence.",
+   "source": "Footeo",
+   "url": "https://news.footeo.com/2026/11/26/ligue-europa-et-ligue-conference-tous-les-resultats-et-classements-monaco-seul-en-tete-lom-saccroche-rennes-glisse-et-lyon-ralenti-18683"
+  },
+  {
+   "cat": "culture",
+   "kicker": "Cinéma · Sorties",
+   "title": "James Gray revient avec « Paper Tiger »",
+   "body": "Sorti mercredi, le thriller de James Gray suit deux frères, joués par Adam Driver et Miles Teller, pris dans une affaire avec la mafia russe. Avec Scarlett Johansson.",
+   "why": "L'un des films d'auteur attendus de la semaine, face à « Billie » et « Mon beau-père, ma belle-fille et moi ».",
+   "source": "Ozzak",
+   "url": "https://ozzak.fr/actu/hot-news/sorties-cinema-france-du-25-novembre-2026",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/8000/8708/lanight_iss06_E-36913_dem_lrg.jpg",
+    "credit": "NASA / Jesse Allen / domaine public"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "20h",
+     "Basket : Estonie-France, qualifications du Mondial"
+    ],
+    [
+     "21h",
+     "Foot féminin : France-Venezuela, en amical"
+    ],
+    [
+     "Soir",
+     "S&P publie sa revue de la note de la France"
+    ]
+   ]
+  }
+ ]
+}
