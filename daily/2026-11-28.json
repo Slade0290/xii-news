@@ -1,0 +1,376 @@
+{
+ "dateLabel": "Samedi 28 novembre 2026",
+ "slides": [
+  {
+   "cat": "breaking",
+   "kicker": "Iran · Blocus",
+   "title": "Washington tire sur un pétrolier forçant le blocus",
+   "body": "L'armée américaine a frappé la poupe du Pacific Archer, un pétrolier parti de Bandar Abbas, dans le golfe d'Oman. Sa propulsion est hors d'usage, l'équipage est indemne.",
+   "why": "Le blocus américain des ports iraniens se durcit, alors que l'Iran bloque toujours le détroit d'Ormuz.",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2021/05/qeshm_island_iran/23301805-2-eng-GB/Qeshm_Island_Iran.jpg",
+    "credit": "ESA (Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "158",
+    "label": "navires déroutés par les États-Unis depuis la mi-juillet"
+   }
+  },
+  {
+   "cat": "breaking",
+   "kicker": "France · Prix",
+   "title": "L'inflation retombe sous les 3 %",
+   "body": "Selon l'Insee, les prix ont augmenté de 2,9 % sur un an en novembre, contre 3,4 % en octobre. L'énergie ralentit (+19,2 % contre +24,1 %) grâce aux produits pétroliers.",
+   "why": "Le budget des ménages souffle un peu, même si les produits frais grimpent encore de 9,4 % sur un an.",
+   "source": "Euronews (données Insee)",
+   "url": "https://fr.euronews.com/2026/11/27/france-linflation-ralentit-a-29-en-novembre-grace-a-la-forte-baisse-des-prix-de-lenergie",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2012/04/paris_by_night/9912230-2-eng-GB/Paris_by_night.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "2,9 %",
+    "label": "hausse des prix sur un an en novembre (provisoire)"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Italie · Iran",
+   "title": "Rome accuse un drone iranien au Koweït",
+   "body": "Selon Antonio Tajani, l'enquête koweïtienne confirme que le drone qui a tué deux techniciens italiens au Koweït a été fabriqué en Iran. Téhéran nie et propose une enquête commune.",
+   "why": "Ce sont les premiers civils européens tués dans la guerre contre l'Iran, ce qui implique directement l'Italie.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/03/kuwait/21888955-2-eng-GB/Kuwait.jpg",
+    "credit": "ESA (Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Estonie · Russie",
+   "title": "L'Estonie ferme sa frontière routière avec la Russie",
+   "body": "Les cinq points de passage routiers fermeront le 1er décembre à 7h, pour six mois au départ. Tallinn invoque des sabotages attribués au renseignement russe, ce que Moscou dément.",
+   "why": "Un nouveau durcissement à la frontière est de l'UE ; le fret ferroviaire via Narva est maintenu.",
+   "source": "Euronews",
+   "url": "https://fr.euronews.com/video/2026/11/27/estonie-fermeture-des-cinq-passages-routiers-avec-la-russie-pour-six-mois",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/tallinn_estonia/24383281-1-eng-GB/Tallinn_Estonia.jpg",
+    "credit": "ESA (Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "5",
+    "label": "postes-frontières routiers fermés pour six mois"
+   }
+  },
+  {
+   "cat": "geo",
+   "kicker": "Canada · Québec",
+   "title": "La loi québécoise sur la laïcité validée",
+   "body": "La Cour suprême du Canada maintient l'essentiel de la loi 21, qui interdit notamment aux enseignants et policiers de porter un signe religieux au travail. Seule la règle sur le visage découvert des élus tombe.",
+   "why": "Fin de six ans de bataille judiciaire sur la laïcité au Québec.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/150000/150754/iss066e138984_lrg.jpg",
+    "credit": "NASA Earth Observatory / domaine public"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Wall Street",
+   "title": "Wall Street : meilleure semaine depuis avril 2025",
+   "body": "Le S&P 500 a pris 1,6 % vendredi lors d'une séance écourtée de Black Friday, et le Nasdaq 2,3 %. Sur la semaine, le S&P 500 grimpe de 5,6 %.",
+   "why": "Une semaine plus tôt, l'indice était à plus de 10 % sous son record : les doutes sur l'IA restent forts.",
+   "source": "AP",
+   "url": "https://post-gazette.com/business/personal-finance/stock-markets-today-november-27-2026-2KMWD23HNN7BAM2FQEDY3KOQKU",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2023/07/earth_from_space_new_york/24991656-1-eng-GB/Earth_from_Space_New_York.jpg",
+    "credit": "ESA (Copernicus Sentinel 2022) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "+5,6 %",
+    "label": "S&P 500 sur la semaine"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Verizon · Fibre",
+   "title": "Verizon négocie Fidium pour 6 milliards",
+   "body": "Verizon discute du rachat de l'opérateur de fibre Fidium, détenu par Searchlight et BCI, pour environ 6 milliards de dollars, selon le FT. Un accord pourrait tomber d'ici quelques semaines.",
+   "why": "Après Frontier (20 Md$), Verizon accélère dans la fibre pour raccorder jusqu'à 50 millions de clients.",
+   "source": "Reuters",
+   "url": "https://wmbdradio.com/2026/11/27/verizon-in-talks-over-6-billion-deal-for-fidium-ft-reports/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2016/05/southern_maine/16011472-1-eng-GB/Southern_Maine.jpg",
+    "credit": "ESA (Copernicus Sentinel 2016) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "6 Md$",
+    "label": "valeur évoquée pour le rachat de Fidium"
+   }
+  },
+  {
+   "cat": "biz",
+   "kicker": "Puig · Parfums",
+   "title": "Puig veut s'offrir Parfums de Marly et Initio",
+   "body": "Le groupe espagnol Puig a trouvé un accord pour acquérir 75 % d'Artessence, maison mère de Parfums de Marly et d'Initio. L'opération valorise le groupe à 1,9 milliard de dollars.",
+   "why": "Puig mise sur des marques de niche très présentes en Amérique du Nord.",
+   "source": "Forbes España",
+   "url": "https://forbes.es/ultima-hora/1076066/puig-alcanza-un-acuerdo-para-adquirir-el-75-de-marly-e-initio/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/06/barcelona_spain/22069144-1-eng-GB/Barcelona_Spain.jpg",
+    "credit": "ESA (Copernicus Sentinel 2017) / CC BY-SA 3.0 IGO"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "OpenAI · Apple",
+   "title": "OpenAI contre-attaque et poursuit Apple",
+   "body": "OpenAI a porté plainte vendredi contre Apple en Californie. Il l'accuse de vol de secrets industriels et de lui bloquer l'accès aux fournisseurs de matériel, selon le FT.",
+   "why": "La bataille se durcit autour des futurs appareils d'OpenAI, avant un procès fixé à juillet 2027.",
+   "source": "Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/openai-countersues-apple-for-stealing-trade-secrets-ft-reports-5053798",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss074e0437596/iss074e0437596~large.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Anthropic · Bourse",
+   "title": "Anthropic bondit de 11 % en Bourse",
+   "body": "L'action Anthropic a gagné 11 % vendredi, à 91,88 $, et repasse au-dessus de son prix d'introduction de 83 $ après deux clôtures en dessous.",
+   "why": "Premier grand labo d'IA coté, Anthropic sert de baromètre de la confiance des investisseurs dans l'IA.",
+   "source": "Forbes",
+   "url": "https://www.forbes.com/sites/saradorn/2026/11/27/anthropic-surges-11-in-best-day-since-ipo-boom/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2020/05/san_francisco_bay/22014504-1-eng-GB/San_Francisco_Bay.jpg",
+    "credit": "ESA (Copernicus Sentinel 2019) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "+11 %",
+    "label": "en une séance, à 91,88 $"
+   }
+  },
+  {
+   "cat": "ia",
+   "kicker": "Pologne · Palantir",
+   "title": "La Pologne achète l'IA militaire de Palantir",
+   "body": "Varsovie a signé avec Palantir un contrat de 300 millions de dollars sur cinq ans pour Maven Smart System, une plateforme d'IA d'analyse du champ de bataille.",
+   "why": "L'IA s'impose dans les armées de l'Otan ; la Pologne assure garder la main sur serveurs et données.",
+   "source": "Notes from Poland",
+   "url": "https://notesfrompoland.com/2026/11/27/poland-signs-300m-deal-with-palantir-for-ai-powered-battlefield-software-platform/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2022/07/warsaw_poland/24383416-1-eng-GB/Warsaw_Poland.jpg",
+    "credit": "ESA (Copernicus Sentinel 2020) / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "300 M$",
+    "label": "contrat sur cinq ans"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Xpeng · Humanoïde",
+   "title": "L'humanoïde Iron d'Xpeng produit en série en janvier",
+   "body": "Le constructeur chinois lancera en janvier 2027 la production de masse d'Iron, un humanoïde doté de plus de 1 500 capteurs. Il servira d'abord de vendeur dans ses magasins.",
+   "why": "Xpeng vise des dizaines de milliers d'unités dès 2027, au prix d'une de ses voitures.",
+   "source": "The Next Web",
+   "url": "https://thenextweb.com/news/xpeng-iron-humanoid-mass-production-homes-2027",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss036e013254.jpg",
+    "credit": "NASA / domaine public"
+   },
+   "stat": {
+    "value": "2,5 min",
+    "label": "pour assembler un robot à pleine cadence"
+   }
+  },
+  {
+   "cat": "robot",
+   "kicker": "Ant Group · Navigation",
+   "title": "Ant Group offre une mémoire spatiale aux robots",
+   "body": "Robbyant, filiale robotique d'Ant Group, publie en open source LingBot-Map 2.0 et LingBot-Navi, des modèles d'IA qui aident les robots à cartographier et à se repérer.",
+   "why": "Sur un trajet urbain de 5,2 km, l'erreur de position passe de 31 m à moins de 5 m.",
+   "source": "Robotics & Automation News",
+   "url": "https://roboticsandautomationnews.com/2026/11/27/robbyant-open-sources-ai-models-to-improve-robotic-navigation-and-spatial-memory/107827/",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2023/03/iss066e134584.jpg",
+    "credit": "NASA / domaine public"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "ISS · Ravitaillement",
+   "title": "Le cargo Cygnus XL décolle dimanche vers l'ISS",
+   "body": "Une Falcon 9 doit lancer dimanche 29 novembre à 16h47 (Paris) le cargo Cygnus XL de Northrop Grumman (NG-25), avec environ 5 tonnes de fret pour la Station spatiale.",
+   "why": "À bord : une serre pour cultiver en apesanteur et des mini-cerveaux cultivés en labo.",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/blogs/spacestation/2026/11/27/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch/",
+   "image": {
+    "url": "https://images-assets.nasa.gov/image/iss074e0459132/iss074e0459132~large.jpg",
+    "credit": "NASA / domaine public"
+   },
+   "stat": {
+    "value": "60 %",
+    "label": "de chances de météo favorable"
+   }
+  },
+  {
+   "cat": "space",
+   "kicker": "Ciel · Géminides",
+   "title": "Géminides : jusqu'à 120 étoiles filantes par heure",
+   "body": "La pluie des Géminides culmine dans la nuit du 13 au 14 décembre. Le croissant de Lune se couchera tôt : observez en soirée, loin des lumières, sans matériel.",
+   "why": "Une pluie rare née d'un astéroïde, Phaéthon, visible dès avant minuit.",
+   "source": "NASA",
+   "url": "https://science.nasa.gov/solar-system/meteors-meteorites/geminids/",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/07/geminids_main.jpg",
+    "credit": "NASA/MSFC/Danielle Moser"
+   },
+   "list": [
+    [
+     "13-14 déc.",
+     "Pic d'activité, 40 à 50 par heure sous ciel noir"
+    ],
+    [
+     "Soirée",
+     "Croissant de Lune couché tôt"
+    ]
+   ]
+  },
+  {
+   "cat": "science",
+   "kicker": "Démence · Travail",
+   "title": "Travail pénible, risque de démence accru",
+   "body": "Une méta-analyse de plus de 4,2 millions de personnes associe le sport de loisir à un risque de démence réduit de 24 %, mais l'effort physique au travail à un risque accru de 20 %.",
+   "why": "Stress et épuisement au travail pourraient expliquer l'écart ; aucun lien de cause n'est démontré.",
+   "source": "ScienceDaily (The Lancet Public Health)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+   "image": {
+    "url": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/images/Pipettes_5_23_23_JED.jpg",
+    "credit": "USGS / domaine public"
+   },
+   "stat": {
+    "value": "+20 %",
+    "label": "de risque de démence avec un travail physique"
+   }
+  },
+  {
+   "cat": "science",
+   "kicker": "Plastique · Recyclage",
+   "title": "Le PVC transformé en base d'huile moteur",
+   "body": "Des chimistes de Virginia Tech convertissent le PVC, l'un des plastiques les plus durs à recycler, en polyalphaoléfine, base des huiles moteur synthétiques, en 3 heures à 70 °C.",
+   "why": "Le PVC des tuyaux et fenêtres échappe presque toujours au recyclage à cause de son chlore.",
+   "source": "ScienceDaily (Nature)",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2017/08/refabricator_etu_open_pao-update.jpg",
+    "credit": "NASA/MSFC/Emmett Given / domaine public"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Silksong · Extension",
+   "title": "Silksong prend la mer gratuitement le 11 décembre",
+   "body": "Team Cherry annonce Sea of Sorrow, première grosse extension de Hollow Knight: Silksong. Gratuite pour tous, elle ajoute zones océaniques, personnages et boss.",
+   "why": "Plus d'un an après la sortie du jeu, les fans ont enfin du nouveau contenu, sans payer.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319",
+   "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Black_and_white_Playstation_5_base_edition_with_controller.png/1600px-Black_and_white_Playstation_5_base_edition_with_controller.png",
+    "credit": "Howardcorn33 / CC0 via Wikimedia Commons"
+   }
+  },
+  {
+   "cat": "games",
+   "kicker": "Marvelous · Emplois",
+   "title": "Marvelous veut supprimer 65 postes",
+   "body": "L'éditeur japonais de Story of Seasons et Rune Factory propose des départs volontaires pour réduire de 65 personnes sa division consoles et PC.",
+   "why": "Encore une restructuration : l'éditeur dit que le marché bascule vers des projets plus gros et plus longs.",
+   "source": "Video Games Chronicle",
+   "url": "https://www.videogameschronicle.com/news/story-of-seasons-and-rune-factory-developer-marvelous-is-offering-early-retirement-as-it-tries-to-cut-65-jobs/",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/02/earth_from_space_tokyo_japan/26591205-1-eng-GB/Earth_from_Space_Tokyo_Japan.jpg",
+    "credit": "ESA (Copernicus Sentinel 2024) / CC BY 4.0"
+   },
+   "stat": {
+    "value": "65",
+    "label": "postes visés dans la division consoles et PC"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Biathlon · Kontiolahti",
+   "title": "Julia Simon ouvre l'hiver sur le podium",
+   "body": "Pour la première course de la Coupe du monde, Julia Simon prend la 3e place de l'individuel de Kontiolahti avec un 20/20 au tir. Elvira Oeberg gagne, Océane Michelon est 4e.",
+   "why": "Premier podium français de la saison, avant les relais mixtes ce samedi en Finlande.",
+   "source": "Orange Sports / Media365",
+   "url": "https://sports.orange.fr/plus-de-sport/sports-hiver/article/biathlon-individuel-de-kontiolahti-f-premier-podium-pour-simon-victoire-pour-e-oeberg-exclu-CNT000002u5lWi.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2006/03/white_scandinavia_as_seen_by_envisat/10187859-2-eng-GB/White_Scandinavia_as_seen_by_Envisat.jpg",
+    "credit": "ESA / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "20/20",
+    "label": "le sans-faute de Julia Simon au tir"
+   }
+  },
+  {
+   "cat": "sport",
+   "kicker": "Ligue 1 · 12e journée",
+   "title": "Brest fait tomber le Paris FC",
+   "body": "En ouverture de la 12e journée, Brest a battu le Paris FC 1-0 grâce à un but de Zogbe en première période. Les Bretons montent provisoirement sur le podium.",
+   "why": "Le Paris FC voit s'arrêter sa série de trois victoires de suite.",
+   "source": "Orange Sports / Media365",
+   "url": "https://sports.orange.fr/football/ligue-1/debrief/ligue-1-j12-le-paris-fc-trebuche-a-brest-exclu-CNT000002u5t5g.html",
+   "image": {
+    "url": "https://media.esa.int/legacy/web/images/esa_multimedia/images/2025/11/from_ushant_to_brest_in_big/26970721-1-eng-GB/From_Ushant_to_Brest_in_big.png",
+    "credit": "ESA/NASA–T. Pesquet / CC BY-SA 3.0 IGO"
+   },
+   "stat": {
+    "value": "1-0",
+    "label": "Brest – Paris FC, vendredi soir"
+   }
+  },
+  {
+   "cat": "culture",
+   "kicker": "Box-office · États-Unis",
+   "title": "Hunger Games règne sur Thanksgiving",
+   "body": "Hunger Games : Sunrise on the Reaping reste n°1 aux États-Unis avec 11,6 M$ le jour de Thanksgiving. Lionsgate vise 85 M$ sur les cinq jours du week-end prolongé.",
+   "why": "Deuxième semaine en tête pour le prequel, qui approcherait 233 M$ au total dimanche.",
+   "source": "Variety",
+   "url": "https://www.yahoo.com/entertainment/movies/box-office-results/articles/thanksgiving-box-office-hunger-games-163526026.html",
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/8000/8708/lanight_iss06_E-36913_dem_lrg.jpg",
+    "credit": "NASA / Jesse Allen / domaine public"
+   },
+   "stat": {
+    "value": "11,6 M$",
+    "label": "recettes le jour de Thanksgiving"
+   }
+  },
+  {
+   "cat": "watch",
+   "kicker": "À surveiller aujourd'hui",
+   "title": "Dans la journée",
+   "list": [
+    [
+     "15h15",
+     "Biathlon : relais mixte à Kontiolahti, avec les Bleus"
+    ],
+    [
+     "19h",
+     "F1 : qualifications du GP du Qatar à Lusail"
+    ],
+    [
+     "20h45",
+     "Ligue 1 : PSG – Lorient au Parc des Princes"
+    ]
+   ]
+  }
+ ]
+}
